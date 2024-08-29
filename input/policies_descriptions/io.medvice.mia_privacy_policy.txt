@@ -1,0 +1,224 @@
+Privacy Statement :: Medvice Enterprises B.V.
+Privacy Policy
+Disclaimer
+FAQ
+Contact
+Privacy Statement
+Medvice Website
+19 september 2023
+Your privacy is of utmost importance for Medvice Enterprises B.V. As such, we adhere to the Dutch privacy law, which means that your data is safe with us and that we always use it properly. In this privacy statement we explain what we do with information that we learn about you while using the website Medvice.io. If you have any questions or want to know exactly what we keep about you, please contact Medvice Enterprises B.V.
+Statistics and Profiling
+We keep statistics about the use of our website, but this is always done anonymously. We use these statistics to improve our website, for example to show only relevant information. We can combine your personal data to learn more about you. Of course, we will respect your privacy at all times. If you do not want this, you can always report this to us. For this we use your telephone number, e-mail address, IP address and name and address details. We do this based on your permission. We keep this information for one year.
+Contact Form
+With the contact form you can ask us questions or make requests. For this we use your e-mail address, IP address, telephone number and name and address details. We do this with your permission and keep this information until we are sure that you are satisfied with our response and six months thereafter. This way we can easily access the information for follow-up questions. Additionally, we can thus train and improve our customer service.
+Location data
+Sometimes it is necessary for our website Medvice.io to find out where you are. We will then ask separately if we are allowed to know your location and only if you give permission will we receive this information. For this service we use the navigation and location software on your phone, tablet or computer. We have no control over what the makers of this software (such as Google Maps) do with it. As such, always read their privacy statements.
+Disclosure to other companies or institutions
+With the exception of the aforementioned partners, we will under no circumstances give your personal data to other companies or institutions, unless we are legally obliged to do so (for example if the police requires this in the event of a suspicion of a crime).
+Our website includes social media buttons. The administrators of these services use this to collect your personal data.
+Cookies
+Our website uses cookies. Cookies are small files in which we can store information so that you do not have to enter it every time. But we can also see that you are visiting us again.
+When you visit our website for the first time, we show a notification with an explanation about cookies. We will hereby ask for your consent for the use of these cookies.
+You can disable the placement of cookies via your browser, but some things on our website will no longer work properly.
+We have made agreements with other companies that place cookies about the use of cookies. However, we do not have full control over what they do with the cookies themselves. So read their privacy statements as well.
+Security
+Security of personal data is very important to us. To protect your privacy, we take the following measures:
+Access to personal data is protected with a username and password
+We use secure connections (Secure Sockets Layer or SSL) with which all information between you and our website is protected when you enter personal data
+We keep logs of all requests for personal data
+Changes to this privacy statement
+When our website changes, will also adjust the privacy statement. As such, always pay attention to the date above and check regularly for new versions. We will also do our best to announce any changes separately.
+View, change and delete your data
+If you have any questions or want to know what personal data we have about you, you can always contact us. See the contact details below.
+You have the following rights:
+receive an explanation of what personal data we have and what we do with it
+access to the exact personal data we have
+having errors corrected
+having outdated personal data removed
+withdrawal of consent
+object to a particular use
+Make sure that you always clearly indicate who you are, so that we can be sure that we do not modify or delete data from the wrong person.
+To file a complaint
+If you feel that we are not helping you in the right way, you have the right to file a complaint with the supervisory authority. This is called the Dutch Data Protection Authority.
+=======================================================================================================================
+Privacy Policy
+MIA Suite:
+Last updated: September 10, 2023
+Our Privacy Policy provides an overview of how We collect, use, and disclose Your information when You use Our Service. It also explains Your privacy rights and the legal protections available to You. We strongly recommend carefully reviewing this Privacy Policy to ensure a complete understanding of its contents. By using Our Service, You agree to the collection and use of information as described in this Privacy Policy.
+1. Interpretation and Definitions
+1.1 Interpretation
+The words capitalized in this Privacy Policy have meanings defined under the following conditions. The definitions provided shall have the same meaning regardless of whether they appear in singular or plural form.
+1.2 Definitions
+For the purposes of this Privacy Policy:
+"You" refers to the individual accessing or using the Service, or the company or legal entity on whose behalf such individual is accessing or using the Service.
+"Data Subject" or "User" refers to You as an individual using the Service, as defined under the General Data Protection Regulation (GDPR).
+"Company," "We," "Us," or "Our" refers to Medvice Enterprises B.V., in the Netherlands with CoC number: 75265958.
+"Data Controller" refers to the Company, as defined under the GDPR, which determines the purposes and means of the processing of Personal Data.
+"Application" refers to the software program named the MIA suite, provided by the Company and downloaded by You on any electronic device.
+"Affiliate" means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for the election of directors or other managing authority.
+"Account" means a unique account created for to access Our Service or parts of Our Service.
+"Service" refers to the advisory services of both medical- and nonmedical nature provided by medical professionals through the use of the Application.
+"Country" refers to the Netherlands.
+"Service Provider" means any natural or legal person who processes data on behalf of the Company, as defined under the GDPR. Service Providers are considered Data Processors.
+"Medical Data" refers to the temporarily stored information collected when using the Service. It may include written medical information about the given health issue gathered by the Service.
+"Third-party Social Media Service" refers to any website or social network website through which a User can log in or create an account to use the Service.
+“Personal Data" is defined as information pertaining to a recognized or identifiable individual. It may encompass details like the individual's full name, identification number, location data, or specific elements pertaining to their physical, physiological, genetic, economic, cultural, or social identity, solely in accordance with the GDPR.
+"Device" refers to any device that can access the Service, such as a computer, cellphone, or digital tablet.
+“Open Beta Testing”: Open Beta Testing is the phase in software development where the pre-release version of the Application is made available to the public or a select group for testing and feedback to improve the product before its official launch. Participants provide input to identify and resolve issues.
+"Usage Data" refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself. It may include information such as Your Device's Internet Protocol address (e.g., IP address), browser type, browser version, the pages of Our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers, and other diagnostic data.
+"Business Transactions" refers to situations such as a merger, acquisition, or asset sale where personal data may be transferred.
+“Consumer Transactions” refers situations such as purchasing goods or services, subscribing to products, or engaging in financial transactions by consumers where personal data may be collected, processed, or transferred in order to facilitate the transaction and provide the requested services. This includes but is not limited to payment processing, order fulfillment, delivery arrangements, and customer support activities.
+"Law enforcement" refers to the disclosure of Personal Data when required by law or in response to valid requests by public authorities, such as a court or a government agency.
+2. Collecting and Using Your Personal Data
+2.1 Types of Data Collected
+While Using Our Service, We may collect certain types of Personal Data from You after Your digital consent. The types of Personal Data We collect may include:
+Personal Information:
+Personal identification information (e.g., name, email address, phone number)
+Medical Data (e.g., symptoms, medical history, medication information) that You voluntarily provide to Us or that is generated by Your use of the Service
+Automatically Collected Information:
+Usage Data (e.g., information about how You Use Our Service, such as Your IP address, browser type, pages visited, Information regarding Your location and time spent on the Service).
+Device information (e.g., device type, operating system, unique device identifiers)
+Please note that We do not collect or store any Personal Data without Your consent or unless provided voluntarily by You. By using the Service, You consent to the collection and use of Your Personal Data as described in this Privacy Policy.
+We may automatically collect certain information when You visit Our website or use Our Service, including Your IP address, browser type, referring/exit pages, and other browsing information.
+2.2 Use of Your Personal Data
+Automatically Collected Information:
+This information is used for analytical purposes to understand user behavior and improve Our website's performance. We use automatically collected information to analyze trends, track user movements, application behavior and gather demographic information in order to enhance Our Application’s functionality and user experience.
+Personal Information:
+We may use Your Personal Data for the following purposes:
+To provide and maintain Our Service: We use Your Personal Data to deliver and improve Our Service, respond to Your inquiries, and provide technical support.
+To personalize Your experience: We may use Your Personal Data to understand how You use the Service and customize Your experience, including presenting content tailored to Your preferences.
+To communicate with You: We may use Your Personal Data to send You important notices, updates, and promotional materials. You can opt out of receiving certain types of communications by following the unsubscribe instructions included in those emails.
+To manage Your Account: We may use Your Personal Data to manage Your Account, including processing payments and providing You with access to specific features or services.
+To analyze and improve Our Service: We may use Your Personal Data to analyze usage patterns, troubleshoot technical issues, and improve the functionality and performance of Our Service.
+To comply with legal obligations: We may use Your Personal Data to comply with applicable laws, regulations, or legal processes, such as responding to requests from public and government authorities.
+To protect Our rights: We may use Your Personal Data to investigate, prevent, or take action regarding potential violations of Our policies or terms of service, fraud, or security issues.
+For other purposes with Your consent: We may use Your Personal Data for other purposes that are not listed here, but for which We will obtain Your consent before collecting or using the information.
+To provide features of Our Service, to improve and customize Our Service. The information may be uploaded to a Service Provider's server or it be simply stored on Your device. You can enable or disable access to this information at any time, through Your Device settings.
+2.3 Sharing Data, Data Retention and Anonymization
+We will retain Your Personal Data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. We will also as stated under 2.2, retain and use Your Personal Data to the extent necessary to comply with Our legal obligations, resolve disputes, and enforce  legal agreements and policies.
+2.3.1. Sharing Your Personal Data
+We value the privacy of Your Personal Data and are committed to maintaining its confidentiality. However, there are certain circumstances where We may need to share Your Personal Data with third parties. The types of third parties with whom We may share Your data and the purposes for which We share it are as follows:
+Service Providers: We may engage third-party companies or individuals to perform various services on Our behalf. These services may include hosting the Service, conducting data analysis, providing customer support, and processing payments. When We share Your Personal Data with these service providers, they are given access to the data solely for the purpose of performing the specified tasks on Our behalf. They are contractually obligated to maintain the confidentiality of Your data and are prohibited from disclosing or using it for any other purpose. The legal basis for sharing Your Personal Data with service providers is Our legitimate interest in ensuring the smooth operation of the Service.
+Affiliates: We may share Your Personal Data with Our affiliates, which include Our parent company, subsidiaries, joint venture partners, or other companies that We control or are under common control with. In such cases, We require Our affiliates to adhere to the terms of this Privacy Policy and provide an equivalent level of data protection. The legal basis for sharing Your Personal Data with Our affiliates is Our legitimate interest in maintaining a consistent user experience and business operations across Our corporate group.
+Business Transactions: In the event that We are involved in a merger, acquisition, or asset sale, Your Personal Data may be transferred as part of that transaction. We will notify You before Your Personal Data is transferred and becomes subject to a different privacy policy. The legal basis for sharing Your Personal Data in the context of a business transaction is Our legitimate interest in executing the transaction and ensuring the continuity of the Service.
+Consumer Transactions: When You engage in financial consumer transactions to subscribe to Our Service, please be aware that Your Personal Data, including credit card information, may be collected, processed, and transferred to third-party payment platforms. This is done to facilitate the requested Service and ensure secure payment processing. The legal basis for sharing Your Personal Data in consumer transactions is the performance of a contract between You and Us.
+Law Enforcement and Legal Obligations: We may disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities, such as a court or government agency. We may also disclose Your Personal Data in connection with the investigation of potential illegal activities, to enforce Our rights, or to protect the rights, property, or safety of Our users or others. Additionally, We may disclose Your Personal Data to comply with legal obligations, protect Our legal rights, prevent or investigate wrongdoing, and ensure the personal safety of users and the public. The legal basis for sharing Your Personal Data for law enforcement and legal obligations is compliance with legal obligations and Our legitimate interests in protecting Our rights and ensuring the safety of Our users and the public.
+Note: The Company will strive to ensure that any disclosure of Your Personal Data is made in compliance with applicable laws and regulations. We value the privacy and security of Your Personal Data and will make reasonable efforts to protect it.
+2.3.2. Security of Your Personal Data
+We prioritize the security of Your Personal Data and have implemented various technical and organizational measures to safeguard it from unauthorized access, disclosure, alteration, or destruction. These measures are designed to meet industry standards and best practices for data protection. Here are some additional details about the security measures We have implemented:
+Encryption: We use encryption techniques to protect Your Personal Data during transmission and storage. This ensures that Your data is encoded and can only be accessed by authorized individuals with the appropriate decryption keys.
+Secure Data Storage: Your Personal Data is stored in secure databases with restricted access. We employ robust access controls, such as strong authentication mechanisms and role-based permissions, to ensure that only authorized personnel can access the data.
+Regular Security Audits: We conduct regular security audits and assessments to identify and address any vulnerabilities or weaknesses in Our systems. This helps Us maintain the integrity and confidentiality of Your Personal Data.
+Employee Access Controls: Access to Your Personal Data is limited to employees who require it to fulfill their job responsibilities. We enforce strict confidentiality obligations on Our employees through confidentiality agreements and regular training on data protection practices.
+Data Minimization: We follow the principle of data minimization, which means We only collect and retain the Personal Data that is necessary for the specified purposes. By minimizing the amount of data We store, We reduce the potential risk associated with its storage and processing.
+Data Backup and Recovery: We regularly backup Your Personal Data to ensure its availability and integrity. In the event of a data loss incident, We have procedures in place to restore the data from backups and minimize any impact on Your information.
+Incident Response Plan: We have an incident response plan in place to promptly and effectively respond to any security incidents or breaches. This includes procedures for identifying, containing, and mitigating any potential risks to Your Personal Data.
+Despite Our efforts to implement comprehensive security measures, it's important to note that no method of transmission over the internet or electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security. It's also crucial for You to take steps to protect Your own information, such as using strong and unique passwords, keeping Your login credentials confidential, and being cautious about sharing sensitive data online.
+We are committed to regularly reviewing and updating Our security practices to adapt to new threats and ensure the ongoing protection of Your Personal Data. If You have any concerns about the security of Your data or suspect any unauthorized activity, please contact Us immediately so that We can investigate and take appropriate actions.
+2.3.3. Data retention
+Personal Data Retention: When You use the Service, You acknowledge and agree that Your Personal Data will be collected and stored by the company for a definite period. The specific duration of data retention will depend on the policies and procedures established by the company.
+Immediate Availability to Healthcare Service Provider: Your Personal Data will be made immediately available to Your healthcare service provider on the day of using the Service. This allows them to access the necessary information for providing You with appropriate healthcare services.
+Deletion of Medical Data: One hour after using a product of the Service, all of Your Medical Data collected will be deleted if You have not explicitly consented, either digitally or through written permission, to share Your data with the company for a possibly extended and indefinite period of time.
+Erasure of Medical Data: In cases where You have not granted permission to share Personal Data with the company, all Medical Data will be permanently erased from their databases after the use of a product of the Service has been completed, within a maximum time period of one hour. After this period, the data will no longer be available for follow-up consultations.
+Stored Personal Data: If You have given explicit permission to share Personal Data with the company, only the following Personal Data collected through the Service will be stored in their database: gender (at birth).
+Transformation of Personal Data: The company will transform the Date of Birth into age within their database.
+Anonymization of Personal Data: Consequently, Your Personal Data will be fully anonymized within a maximum of 12 months after consented use of a product of the Service. This means that any information that could identify You will be removed from the data, ensuring Your privacy.
+Sharing of Medical Data: Except for the healthcare professional providing You the Service, the stored Medical Data will not be provided to other third parties without full anonymization of the Medical Data unless required by law or regulation. This means that any sharing of Medical Data will be done in a way that ensures Your identity remains anonymous.
+Purpose of Data Use: The company will use all consented information collected for the purpose of Medvice Diagnostic Machine Learning development. This means that the data You provide will be utilized to improve the diagnostic capabilities of the Service.
+It's important to note that all Medical Data and Personal Data can only be obtained and stored with Your prior informed consent. Consent is given digitally within the environment of the Service, and it refers to the privacy policy provided by the company.
+2.3.4. Your Data Protection Rights
+Depending on Your location and applicable data protection laws, You may have certain rights regarding Your Personal Data. These rights may include:
+The right to access, update, or delete the Personal Data We hold about You.
+The right to rectify any inaccuracies in Your Personal Data.
+The right to object to the processing of Your Personal Data.
+The right to restrict the processing of Your Personal Data.
+The right to data portability, allowing You to obtain a copy of Your Personal Data in a structured, commonly used, and machine-readable format.
+The right to withdraw Your consent at any time, where We rely on Your consent to process Your Personal Data.
+To exercise any of these rights, please contact Us using the contact information provided in this Privacy Policy. We will respond to Your request in a reasonable timeframe and in accordance with applicable data protection laws.
+2.4 Transfer of Your Personal Data
+Processing Locations: Your personal data, including medical data, may be processed at the Company's operating offices or other locations where the involved parties in the processing are located. This means that the information may be transferred to and stored on computers and/or third-party cloud servers located outside of Your state, province, country, or other governmental jurisdiction. It's important to note that data protection laws in these locations may differ from those in Your jurisdiction.
+EU Data Transfer: For Users within the European Union (EU), the transfer of Your Personal Data and Medical Data will not exceed EU borders unless it is compliant with EU data storage and the General Data Protection Regulation (GDPR) guidelines. The GDPR sets strict standards for the transfer and protection of personal data within and outside the EU.
+US Data Transfer: For Users within the United States (US), the transfer of Your Personal Data and Medical Data will comply with applicable data protection laws, including the California Consumer Privacy Act (CCPA) and the Health Insurance Portability and Accountability Act (HIPAA), as applicable. These regulations ensure the privacy and security of Personal data within the US.
+Canadian Data Transfer: For Users within Canada, the transfer of Your Personal Data will comply with applicable data protection laws, including the Personal Information Protection and Electronic Documents Act (PIPEDA). PIPEDA establishes rules for the collection, use, and disclosure of personal information by organizations operating in Canada.
+MENA Data Transfer: For Users within the Middle East and North Africa (MENA) region, the transfer of Your Personal Data will comply with applicable data protection laws and regulations within the respective jurisdictions.
+Consent and Agreement: Your consent to the privacy policy, along with Your submission of Personal Data, represents Your agreement to the cross-border transfer described in clause 2.4. By providing Your consent, You acknowledge that Your Personal Data may be transferred to locations outside Your jurisdiction, where different data protection laws may apply.
+Security Measures: Our Company is committed to taking all reasonably necessary steps to ensure the security of Your data in accordance with this privacy policy. Before transferring Your Personal Data to any organization or country, We ensure that adequate controls and data security measures are in place to safeguard Your information and protect Your privacy.
+It is important to review and understand the privacy policy and terms of service provided by Our Company to ensure that You are comfortable with the cross-border transfer of Your Personal Data and the data protection safeguards in place.
+​​​​​
+3.  Analytics
+We may utilize third-party analytics services to monitor and analyze the usage of Our Service. These services use various technologies, such as cookies, to collect and process data that helps track and monitor the use of Our Service. The collected data may be shared with other services provided by these third parties.
+These analytics services help Us understand User interactions, improve Our Service, and personalize User experiences. They may also use the collected data for advertising purposes, such as contextualizing and personalizing ads.
+To exercise control over the analytics features, You may have options to adjust Your device settings or follow instructions provided by the specific analytics service provider. Please review their respective privacy policies and terms of use for more information on how to opt-out or manage Your preferences.
+While We strive to work with reputable analytics service providers, please note that We are not responsible for the privacy practices or actions of these third-party services. It is recommended that You review their privacy policies and terms of use for a comprehensive understanding of how Your information is handled.
+​​​​​
+​​​​​
+4. Usage, Performance and Miscellaneous
+In order to enhance and improve Our Service, We may engage the services of third-party service providers. These providers assist Us in various areas, including but not limited to cloud database usage, usage monitoring, performance optimization, financial transactions, and other miscellaneous functions. At present, We utilize the following third-party service providers:
+Okta : We may engage Okta for certain services. For information on how Okta handles data and protects Your privacy, please refer to their Privacy Policy, which can be viewed at https://www.okta.com/.
+Twilio Platform : We may utilize the Twilio Platform for specific purposes. For details regarding data handling and privacy practices by Twilio, please review their Privacy Policy, available at https://www.twilio.com/legal/privacy.
+IBM Cloud Platform : In certain instances, We may utilize the IBM Cloud Platform. To understand how IBM handles data and protects Your privacy, please refer to their Privacy Policy, accessible at https://www.ibm.com/cloud.
+Stripe : We may engage Stripe, a third-party service provider, for financial transactions. When processing payments through Stripe, Your Personal data, including credit card information, may be collected, processed, or transferred as necessary to facilitate the requested Services. For more information about Stripe's data handling practices and privacy measures, please review their Privacy Policy, which can be found at https://stripe.com/privacy.
+Mailgun : We may utilize Mailgun for email communication purposes. When sending and receiving emails through Mailgun, certain Personal data may be processed. To learn more about Mailgun's data handling practices and privacy safeguards, please refer to their Privacy Policy, accessible at https://www.mailgun.com/privacy-policy.
+Sentry : We may engage Instabug for bug reporting and feedback collection. In the process of reporting bugs or providing feedback through Instabug, certain Personal data may be collected and processed. To understand how Instabug handles data and protects Your privacy, please review their Privacy Policy, which can be viewed at https://sentry.io/privacy/
+Google : We may integrate Google Single Sign-On (SSO) for user authentication and access to our services. When you use Google SSO to log in to our app, certain personal data may be collected and processed by Google. To understand how Google handles data and protects your privacy, please review their Privacy Policy, which can be viewed at https://policies.google.com/privacy?hl=en-US.
+It's important to note that this clause does not restrict the Company from engaging other third-party service providers in the future for similar or different purposes. In such cases, the Company will ensure that the selected service providers adhere to industry best practices and maintain appropriate measures to protect Your data and privacy.
+Please keep in mind that while the Company strives to work with reputable service providers, We are not responsible for their privacy practices or actions. We encourage You to review the privacy policies of these third-party service providers to fully comprehend how Your information is handled and protected.
+We want to assure You that We do not engage in any full automated decision-making processes or profiling activities using the Personal Data information We collect. We do not use Your Personal Data to make decisions or create profiles that could significantly affect You.
+Our use of the collected data is limited to the purposes outlined in this Privacy Policy, such as providing requested services, responding to inquiries, and improving Our platform’s functionality. We do not use Your Personal Data for fully automated decision-making, including activities such as automated profiling, scoring, or evaluating personal aspects related to You.
+Please note that We may use aggregated and anonymized data for statistical analysis, Machine Learning training and other legitimate purposes. However, such data will not be used in a manner that could identify You personally.
+If You have any concerns or questions regarding the use of Your personal information, please don't hesitate to contact Us using the information provided in the "Contact Us" section of this Privacy Policy.
+By continuing to use Our Service, You acknowledge and consent to the involvement of third-party service providers as described in this clause.
+​​​​​
+​​​​​
+5. GDPR Privacy
+5.1 Legal Basis for Processing Personal Data under GDPR
+Consent: You have given Your consent for processing Personal Data for one or more specific purposes.
+We may process Personal Data under the following conditions:
+Performance of a contract: Provision of Personal Data is necessary for the performance of an agreement with You and/or for any pre-contractual obligations thereof.
+Legal obligations: Processing Personal Data is necessary for compliance with a legal obligation to which the Company is subject.
+Vital interests: Processing Personal Data is necessary in order to protect Your vital interests or of another natural person.
+Public interests: Processing Personal Data is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Company.
+Legitimate interests: Processing Personal Data is necessary for the purposes of the legitimate interests pursued by the Company.
+The Company will gladly help clarify the specific legal basis that applies to the processing and whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+5.2 Your Rights under the GDPR
+The Company respects the confidentiality of Your Personal Data and is committed to ensuring that You can exercise Your rights. In accordance with this Privacy Policy and applicable law, if You are within the EU, You have the following rights:
+Request access to Your Personal Data: You have the right to request access, update, or deletion of the information We hold about You. You can directly access, update, or request deletion of Your Personal Data through Your account settings section. If You are unable to perform these actions Yourself, please contact Us for assistance. This also includes the right to receive a copy of the Personal Data We hold about You.
+Request correction of Your Personal Data: If the Personal Data We hold about You is incomplete or inaccurate, You have the right to have it corrected.
+Object to processing of Your Personal Data: You have the right to object to the processing of Your Personal Data when We rely on a legitimate interest as the legal basis for Our processing, and there is something about Your particular situation that makes You want to object to the processing. You also have the right to object to the processing of Your Personal Data for direct marketing purposes.
+Request erasure of Your Personal Data: You have the right to ask Us to delete or remove Your Personal Data when there is no good reason for Us to continue processing it.
+Request the transfer of Your Personal Data: We will provide Your Personal Data to You or a third-party of Your choice in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information that You initially provided consent for Us to use or where We used the information to perform a contract with You.
+Withdraw Your consent: You have the right to withdraw Your consent for the use of Your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.
+To exercise any of these rights or if You have any questions regarding Your data protection rights, You can contact the company using the contact details provided in their Privacy Policy. The company is committed to responding promptly to Your requests and taking appropriate action in accordance with applicable data protection laws and regulations.
+The timeframe within which the company will respond to user requests may vary depending on the specific requirements of applicable data protection laws. However, the GDPR generally requires companies to respond to data subject requests within one month (30 days) from the date of receipt. In complex cases or situations involving a large number of requests, this timeframe can be extended by an additional two months. The company will strive to adhere to these response timelines and ensure compliance with applicable data protection regulations.
+5.3 Exercising of Your GDPR Data Protection Rights
+You have the right to exercise Your rights of access, rectification, cancellation, and opposition in relation to Your Personal Data processed by Us. To do so, please contact Us using the provided contact details. Please note that We may require You to verify Your identity before responding to Your requests. Upon receiving a request, We will make reasonable efforts to respond to You in a timely manner.
+If You believe that We have not adequately addressed Your concerns regarding the collection and use of Your Personal Data, You have the right to lodge a complaint with a Data Protection Authority. If You are located in the European Economic Area (EEA), please contact Your local data protection authority for further information and guidance on how to file a complaint. We are committed to ensuring the protection and privacy of Your Personal Data and will take appropriate measures to address any concerns raised in accordance with applicable data protection laws and regulations.
+6. Links to Other Websites
+Our Service may provide links to other websites that are not operated by Us. These links are provided for Your convenience and information only. We strongly advise You to review the Privacy Policy of every website You visit, as We have no control over the content, privacy policies, or practices of these third-party sites or services.
+7. Changes to this Privacy Policy:
+We reserve the right to update or modify this Privacy Policy at any time, in Our sole discretion. Any changes We make to this Privacy Policy will be effective immediately upon posting the revised version on this page. We will also notify You through email and/or a prominent notice on Our Service prior to the change becoming effective. The "Last updated" date at the top of this Privacy Policy indicates the date of the latest revision.
+It is recommended that You review this Privacy Policy periodically to stay informed about any updates or changes. Your continued use of Our Service after any modifications to this Privacy Policy constitutes Your acceptance of the revised Privacy Policy.
+8. Cookies & Tracking:
+The App may use cookies and similar tracking technologies to enhance User experience, analyze usage patterns, and personalize content. By using the App, You consent to the use of cookies and tracking technologies as described in Our Cookie Policy.
+9. Contact Us:
+If You have any questions or concerns regarding this Privacy Policy, You can contact Us using the following methods:
+By email: info@medvice.io
+By visiting this page on Our website: www.medvice.io/contact
+Please feel free to reach out to Us with any inquiries or clarifications regarding this Privacy Policy.
+10. Open Beta Software Testing:
+As part of our commitment to continuous improvement and innovation, we may offer opportunities for users to participate in Open Beta software testing of our Service. Open Beta testing allows users to access and use pre-release versions of our Service to provide feedback, report issues, and help us identify and rectify any potential problems or areas for improvement.
+By participating in Open Beta testing, you acknowledge and agree to the following:
+10.1 Data Collection during Open Beta Testing
+During Open Beta testing, we may collect additional data about your usage and interactions with the pre-release version of our Service. This data may include, but is not limited to, user feedback, bug reports, and performance metrics. This information is critical for us to evaluate and enhance the functionality, stability, and security of the Service.
+10.2 Privacy and Confidentiality
+We value your privacy and will make reasonable efforts to protect the confidentiality of your data collected during Open Beta testing. However, as this is a pre-release version of the Service, it may still contain undiscovered issues or vulnerabilities that could potentially impact the security of your data. We recommend refraining from using sensitive or personal information during Open Beta testing to minimize potential risks.
+10.3 Feedback and Communication
+During Open Beta testing, we encourage users to provide feedback, report issues, and share their experiences with us. This feedback may be collected through in-app surveys, feedback forms, or other communication channels. By participating in Open Beta testing, you consent to the use of your feedback and communication for the purpose of improving the Service.
+10.4 Changes to Open Beta Terms
+We reserve the right to modify or terminate the Open Beta testing program at any time, in our sole discretion. Any changes to the terms and conditions of Open Beta testing will be communicated to participants through the Service or other appropriate channels.
+10.5 Termination of Open Beta Access
+We may, at our discretion, revoke or restrict access to the Open Beta program for any user who violates the terms of participation or engages in behavior that disrupts the testing process.
+10.6 Opt-Out of Open Beta Testing
+Participation in Open Beta testing is entirely voluntary. If you do not wish to participate in Open Beta testing or have concerns about data security and privacy, you may choose to use the stable, publicly available version of the Service instead. You can opt out of Open Beta testing at any time by switching to the standard version of the Service.
+Please note that this Open Beta testing clause is in addition to the existing privacy policy and does not alter the rights and obligations outlined in the original privacy policy. By participating in Open Beta testing, you agree to these additional terms and conditions.
+Copyright 2023 Medvice Enterprises B.V. All rights reserved.

@@ -1,0 +1,99 @@
+NocTel Communications Inc. | Privacy Policy
+Sales: +1 503.764.4300
+Current Status:
+Products
+Products
+NocTel Talk
+Learn more about our best-in-class VoIP service
+NocTel Flow
+Manage your entire Contact Center
+from phone lines to agents
+NocTel Insight
+Web-based reporting on all NocTel products
+NocTel Fiber
+Affordable broadband service for everyone
+NocTel Go
+Take the functionality of VoIP handsets on the move with your smartphone
+NocTel Alert
+A modernized, flexible paging solution
+Industries
+Industries
+Business
+Learn how we can support your business goals for organizations of all sizes
+Education
+Enjoy the simplicity of only needing to work with one vendor for multiple projects
+Government
+We make it simple and efficient to configure and maintain governmental phone systems
+Broadcast
+Quality, efficiency and powerful telecommunication solutions for today's broadcast environments
+Learn
+Learn
+Why NocTel
+Learn more about what sets NocTel apart
+About
+Explore our company from the history to team members
+Case Studies
+View our success stories of past projects and what we did to help
+Blog
+Read the latest thought leadership from our team
+Newsletter Archive
+View the archive of past newsletters
+Hardware
+Our recommendations for VoIP Hardware
+Support
+Support
+Knowledge Base
+View our collection of support documents that will walk you through setting up and maintaining your NocTel account
+FAQ
+View frequently asked questions
+Product Roadmap
+Vote on your favorite features to be added or suggest your own
+Contact
+Get the information you need to contact us
+Login
+Login
+New User
+Forgot Password
+Search
+Sales: +1 503.764.4300
+Current Status:
+Privacy Policy
+We don’t care for trying to glean every little detail about you for something you’re not okay with – that’s crummy and we’re not data brokers. NocTel respects your data and privacy, but there are often reasons we request or require various types of personal data. We’d like you to trust we’re doing the right thing, but it’s not exactly easy if we can’t explain what we’re doing with your information. This page will walk you through how we collect, store, handle, and share personal data in plain language – we’re not fond of overly complicated terms and explanations, so we’re willing to bet you aren’t either. As an existing, potential, or former customer/end user; you have the
+right to object
+to data collection and processing that occurs on your personal data at any time. Objection to data collection and processing can be voiced by contacting NocTel Support via phone, written notice, or a ticket submission sent to
+support@noctel.com . For objections sent via email, please include your organization’s name and “Objection to Data Processing” in the subject line. If you object to data processing in response to an email received by NocTel for direct marketing, the objection will be processed expediently and without question. Types of Personal Data Collected New user account creation email and password fields Phone number input in optional Call Forwarding feature Phone number owned by account and assigned to extension Email address for newsletter, incident, and relevant event notifications Personal photo (NocTel Flow only) Agent call recordings (NocTel Flow only) Extension usage metrics Extension call logs Voicemail and faxes NocTel username tied to account changes for audit history Browser session via cookie Device MAC address and associated public/private IP Anonymized analytics of page view duration, new and recurring visits, and page navigation behavior on NocTel’s website Purpose of Collected Personal Data NocTel does not collect personally identifiable information with the intent to distribute for profit or advertisement of its services or the services of others NocTel may be affiliated with. Collection of personal data, where it occurs, is entirely to provide convenience and functionality to end users and account administrators. However, NocTel may be required to comply with legal requests on a case by case basis where personal data may be made accessible to legal or regulatory authorities. Personally identifiable information/personal data may be received by NocTel in contact requests – this information is used strictly by NocTel to contact you in regard to your inquiry and seeks only enough information to address your inquiry accurately. NocTel personnel with access to and knowledge of your personal information are limited on a minimum need to know basis, and once relations have ended we only retain basic records to ensure we know whom to contact (or not contact) and on what basis. Externally linked qualified active sales partners of NocTel may market their services and products to you in addition to NocTel’s. Upon navigating away from noctel.com to a partner’s website, gathering and retention of personal information is subject to their terms. NocTel does not directly pass through or otherwise provide personal data to partner sites from noctel.com – please review the Privacy Policies of any partner sites visited to be aware of your personal data handling and rights, if any. We use anonymized analytics to gauge the quality of this website’s content. We want to ensure visitors both new and existing are able to find what they need quickly and without confusing layout or navigation. By knowing what content visitors are spending time on and what other pages are being viewed, we can better tune existing and future content. Extension usage and call logs are collected for two reasons: to provide our customer organizations the ability to audit their own users’ activities and to enable self-service. Many customer organizations have Fair and Acceptable Use policies in place to prevent abuse of organization resources and assets. Internet accessibility and phone services both generally fall into one or both such policies, so user extension usage and call logs provide tools for administrators to track if an abuse of service is occurring. Every change to settings in NocTel is recorded with a date stamp and username. This allows customer administrators and support engineering to audit and backtrack when changes have been made and identify where incorrect settings may have been submitted. If you prefer and grant us permission to, we’re more than happy to revert changes or make necessary changes to get things back to normal. NocTel uses browser cookies for strictly control panel navigation and active session. Voicemail and faxes are never viewed by NocTel staff unless given explicit permission to or if viewing is necessary to address support issues. While not always a 1:1 ratio of handset to person, we store every account’s handset and device MAC and IP address. These are necessary to register devices to our VoIP servers and allow our service to send and deliver calls correctly. NocTel Flow agent recordings are stored for customers for agent handling quality, training, and dispute purposes. NocTel support engineers do not listen to recordings unless given permission by the customer organization or if the act of listening to recordings is necessary to address a technical issue. NocTel Flow agent profile images are stored and processed to help team leads, managers, and supervisors recognize their agents in the Flow interface. Retention of Personal Data Your name, email address, username, and password are stored for the lifetime of a customer organization’s service with NocTel or until one or a combination of the personal data is deleted, such as deleting a user account or unsubscribing from receiving newsletters or event notifications. For account owners, your name, organization, and contact details will be stored indefinitely. NocTel maintains this data for business records only or in the event of dispute. Your email address is stored and used for multiple purposes. These purposes include NocTel user registration, NocTel control panel login (in lieu of the username), newsletter receipt, support ticket contact, and receipt of voicemail notifications. We do not presume use/subscription of one or more of the listed items constitutes opting in for all of them, so retention of email address can vary based on what specific use of the email address has the longest retention period. Your associated phone number(s) are stored in NocTel’s system relative to the purpose. Your phone number may be stored in order to contact you directly for filed support issues, for enabling Call Forwarding, and assignment of a phone number to your extension. Because phone number is used in multiple locations for different purposes the retention period varies. Voicemail is retained by default for
+90 days
+before automatic deletion from NocTel by default retention policy or until the end user deletes the voicemail message him or herself prior. Faxes are retained based on whether they were sent or received. Inbound (received) faxes are retained for
+90 days
+before automatic deletion by retention policy or if an end user with access to the fax deletes it manually prior. Outbound (sent) faxes are retained for
+14 days
+before automatic deletion to ensure correct transmission and receipt to the other end. NocTel Flow agent recordings are stored for
+90 days
+before automatic deletion by default retention policy. Customers who require longer retention periods or archival of recordings are accommodated, but recording data does not remain on NocTel servers any longer than 90 days and offloading recordings from NocTel to the customer becomes the customer’s responsibility to administer. NocTel Flow agent photos are kept until the agent is deleted from Flow or the agent photo avatar is changed. Device MAC and IP addresses are kept for as long as the device is provisioned on NocTel. IP Address may change periodically, which will also change the stored IP address in NocTel. NocTel does not maintain a history of IP addresses any given device may have previously had so this data is ephemeral. Who Can Access Personal Data While we’d be happy if we had written every aspect of what makes NocTel work ourselves, we sadly didn’t. As a result, NocTel leverages several third parties to help us out. In particular these parties are: Faxback , who provides us with secure faxing integration of analog printer/faxes to VoIP. All device communication is performed with HTTPS and provides no plain sight visibility into faxes sent or received. Phaxio , who provides us with a secure faxing API. Faxes sent out and received are secured with HTTPS and not stored any longer than necessary to ensure conversion and transmission or receipt of fax data. Mailchimp , who we use to make pleasing newsletters and send out to our subscribers. While Mailchimp does include analytics reports, all data is anonymous – we don’t know who viewed newsletters or who clicked any linked resources. All we find out is if we’re terrible writers or not! Stripe , who we use for secure payment processing and thanks to them we never touch nor see your form of payment details. Kayako , which we use for support ticketing and inquiries. We perform some simple data aggregation of support tickets here to better understand what kinds of issues our customers are having and how to provide better support resources and documentation. Pipedrive , which is used for CRM where we keep track of ongoing engagements and what the status is. For dead end or leads that have gone cold, we only keep the minimum information for records so we know to not re-engage to respect requests to not contact or market. BitBucket , which we use for source code versioning control. End user data is not stored here with the exception of referencing tickets that have come from Kayako for feature requests or bug submissions. We store the ticket references to development items so we can remember to let interested customers know we’ve added or fixed something relevant to them. Google Cloud , who we leverage for limited cloud storage and adhere to their recommended best practices for data security. Google Analytics , who we use
+only for anonymous
+site stats. NocTel does not utilize Google Analytics Advertising because we simply don’t advertise. What we do care about is what pages visitors often go to and how long they’ve viewed those pages – we don’t need to be able to identify visitors uniquely to get this insight. This helps us better plan layout and content into the future to provide a better, easier to use website. Personal data that resides on NocTel systems and hardware are accessed by the
+minimum
+relevant staff on a legitimate need to know basis. This means someone in marketing cannot simply go peek at what other organizations you’re calling, nor can they go listen to your voicemail. Access to personal data is also handled on a
+minimum necessary duration
+basis. If we have no reason to access it, we aren’t. NocTel engineers have strict rules for interacting with personal data. Perhaps most relevant is the rule that NocTel engineers shall not tamper with or create copies of personal data. Modifications may be made, but must be logged with valid reason that demonstrates legitimate purpose to enforce accountability. Consent and Opting In for Collection and Processing of Personal Data NocTel is a business-to-business service provider and in reference to GDPR law, this designates us as a Data Processor relative to our customers. Generally, our customers (other organizations and businesses) assume the role of Data Controller. This means end user consent for data collection and processing are typically handled as organization policies and terms as the end users are representatives, associates, and staff. Personal data collection and processing complaints in relation to individuals (“data subjects” under GDPR) and their personal data rights are recommended to be provided to NocTel from the customer organization, not the individual directly. This recommendation is in place to prevent NocTel from accommodating an individual’s request in relation to personal data rights that adversely affects the customer organization the individual belongs to. A simple example of this consequence would be a secretary requesting NocTel delete all reference of her name without notifying her employing organization. This would result in confusion for account administrators of the secretary’s organization who would then not be able to search for her extension in the NocTel control panel or being able to correctly identify her handset among potentially many in the account. On the basis of potential customers and former customers, NocTel observes the following in regard to personal data consent: NocTel can maintain business records to correctly identify potential and former customer points of contact out of legitimate interest. NocTel can contact you for a legitimate purpose, though you can explicitly opt in or out of future communications which are recorded to ensure your privacy is respected. If your contact details are publicly available, NocTel may contact you initially in regard to services without your consent. All follow up communication occurs only if consent is given, otherwise NocTel will not contact you again. For existing customers and end users: All email notifications such as newsletters, voicemail notification, and marketing messages presume opt out unless explicitly opted in. Opting in is handled on a per item basis, so opting in for email notification of voicemail does not mean it also opts in for receipt of newsletters. Toggling on certain functionalities for extensions, if you have access to do so, is an explicit opt in for the functionality with the understanding the provided data will be collected, stored, and processed in order to deliver that functionality. Administrative users enable and disable such features with the express permission of the individual being affected by the action or in the compliance with organization-wide policy. Personal Data Rights Requests NocTel recognizes and accommodates personal data rights requests with all due diligence and reason. We recommend personal data rights requests be sent to your associated organization and then provided to NocTel. The intent here is to prevent the potential for services to be impacted for our customer organizations and confusion the customer organization was not informed of an end user’s request. For personal data rights requests that are received, where applicable NocTel will provide an impact of services disclosure to ensure the end user understands what fulfillment of the request entails and subsequent nontrivial changes that might occur to how they use NocTel’s services or its availability. A simple example of this in practice would be if a request were received by NocTel to not collect, store, or process an end user’s handset’s MAC address and IP address. NocTel would provide an impact of services notice explaining fulfilling this request would result in the end user no longer being able to receive or place calls on their designated handset. If the end user agrees and acknowledges this impact, NocTel will fulfill the request as received to accommodate the end user. Revocation of a personal data rights request after being provided an impact of services notice where applicable is handled as explicit consent for NocTel to continue or resume collecting, storing, processing, and/or sharing the personal data in question. Personal data rights requests may also be nullified at the submitting individual’s request after being fulfilled, which has the same effect as revoking a yet to be fulfilled request. Cookies & Security Cookies? Yum! We do use browser session cookies in order to provide the best possible browsing experience within the NocTel domain. We do not share browsing information contained in these session cookies with third parties. NocTel takes your security seriously and provides secure (HTTPS) browsing for first party content within this site and NocTel’s services, but does not guarantee third party sites and vendors accessible via hyperlinks from this site implement secure browsing – proceed at your own caution when leaving NocTel and be sure to refer to third party privacy policies. NocTel and qualified active partners may use cookies to qualify referrals – this is their sole purpose and are not used for any other monitoring or tracking purposes. Unless you are a customer subscribing to NocTel through a referral, this typically won’t be a concern for you. Changes made to NocTel and NocTel Flow accounts are logged for auditing purposes. Every change that occurs is logged to trace who did it, when they did it, and generally why. Activity logging applies to customer users and doubly so for NocTel staff. Policy changes may occur frequently into the future. Privacy is an important but big topic affecting us all that generally never stays put for very long. This page is intended to provide as much detail as possible without being exhaustive. If you have questions or concerns, don’t hesitate to reach out to us.
+PRODUCT SUPPORT
+Looking for help?
+Visit Knowledge Base
+information
+About
+Support
+Why NocTel
+customer service
+Contact
+FAQ
+contact
+Phone:
++1 503.764.4300
+sales@noctel.com
+support@noctel.com
+Subscribe to our newsletter
+OK
+Thank you! Please check your email to confirm your subscription.
+© 2023 NocTel Communications, Inc.
+Privacy privacy policy
+Terms terms & conditions

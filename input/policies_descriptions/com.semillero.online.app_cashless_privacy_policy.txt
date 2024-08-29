@@ -1,0 +1,202 @@
+Aviso de Privacidad
+Aviso de Privacidad
+Ingles
+/
+Español
+I. Marco Normativo.
+En cumplimiento a lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación (“DOF”) el 5 de julio de 2010 (la “Ley”), su Reglamento publicado en el DOF el 21 de diciembre de 2011 (el “Reglamento”) y los Lineamientos del Aviso de Privacidad publicados en el DOF el 17 de enero de 2013 (los “Lineamientos” y conjuntamente con la Ley y el Reglamento, los “Ordenamientos”), Semillero Online, S.A.P.I. de C.V. (el “Responsable” y/o la “Compañía”, indistintamente), emite el presente aviso de privacidad (el “Aviso de Privacidad”) de las personas físicas y/o morales (los “Titulares”) que confirmen su aceptación de apego a las cláusulas siguientes.
+II. Objetivo.
+El objetivo del presente Aviso de Privacidad es delimitar los alcances y condiciones generales del tratamiento de los Datos Personales y/o Empresariales e informarlos a los Titulares, a fin de que estén en posibilidad de tomar decisiones informadas sobre el uso de sus Datos Personales y/o Empresariales y de mantener control y disposición sobre los mismos. Asimismo, el Aviso de Privacidad permite al Responsable transparentar dicho tratamiento y con ello fortalecer el nivel de confianza de los Titulares.
+III. Definiciones.
+Los términos cuya letra inicial están en mayúscula tendrán el significado que se atribuye las siguientes definiciones. Los siguientes términos tendrán el mismo significado indistintamente de que aparezcan en singular o en plural.
+Para efectos de este Aviso de Privacidad:
+“Cuenta”:
+significa una cuenta única creada para que Usted pueda acceder a nuestro Servicio o a partes de él;
+“Filial”:
+significa una entidad que controla, es controlada por o está bajo control común con una parte, donde "control" significa la propiedad del 50% (cincuenta por ciento) o más de las acciones, participación en el capital u otros valores con derecho a voto para la elección de directores u otra autoridad de gestión;
+“Aplicación”:
+significa el programa de software proporcionado por la Compañía descargado por Usted en cualquier dispositivo electrónico, denominado Semillero / Contrato Digital / Hub Digital;
+“Responsable”:
+(referida asimismo como "la Compañía", "Nosotros" o "Nuestro" en este Acuerdo) se refiere a Semillero Online S.A.P.I. de C.V., Nuevo Laredo, Tamaulipas México;
+“Cookies”:
+se refiere a los archivos de datos que se almacena en el disco duro del equipo de cómputo o del dispositivo de comunicaciones electrónicas de un usuario al navegar en un sitio de internet específico, el cual permite intercambiar información de estado entre dicho sitio y el navegador del usuario. La información de estado puede revelar medios de identificación de sesión, autenticación o preferencias del usuario, así como cualquier dato almacenado por el navegador respecto al sitio de internet
+“País”:
+se refiere a los Estados Unidos Mexicanos;
+“Dispositivo”:
+se refiere a cualquier dispositivo que pueda acceder al Servicio como un ordenador, un teléfono móvil o tableta digital;
+“Datos Personales”:
+es cualquier información que se refiera a un individuo identificado o identificable;
+“Datos Empresariales”:
+es cualquier información que se refiere a una persona moral identificada o identificable;
+“Servicio”:
+se refiere a la Aplicación o al Sitio Web o a ambos;
+“Proveedor de Servicios”:
+se refiere a cualquier persona física o jurídica que procesa los datos en nombre de la Compañía. Se refiere a terceras empresas o personas contratadas por la Compañía para facilitar el Servicio, prestar el Servicio en nombre de la Compañía, realizar servicios relacionados con el Servicio o ayudar a la Compañía a analizar cómo se utiliza el Servicio;
+“Datos de Uso”:
+se refiere a los datos recogidos automáticamente, generados por el uso del Servicio o de la propia infraestructura del Servicio (por ejemplo, la duración de la visita a una página);
+“Sitio Web”:
+se refiere a el sitio accesible en cualquier navegador de internet bajo la siguiente dirección https://semillero.online; y
+“Usted”:
+se refiere a la persona que accede o utiliza el Servicio o a la Compañía u otra entidad legal en cuyo nombre dicha persona accede o utiliza el Servicio, según corresponda, mismo que debe entenderse como el Titular de cuyos Derechos Personales que son objeto del presente Aviso de Privacidad.
+IV. Identidad y Domicilio del Responsable.
+Semillero Online, S.A.P.I. de C.V. con domicilio.
+V. Datos Personales que se tratarán.
+Para llevar a cabo las finalidades descritas en el presente Aviso de Privacidad, la Compañía podrá recabar los siguientes Datos Empresariales, Personales y de Uso:
+a)	Datos Empresariales:
+LNombre legal de la persona moral;
+LNombre completo de la persona física que representa a la persona moral;
+LCorreo electrónico;
+LTeléfono(s);
+LObjeto social de la personal moral;
+LDomicilio de la persona moral;
+LFecha de constitución de la persona moral;
+LGiro comercial de la persona moral;
+LCierta información cuantitativa acerca de las operaciones de la persona moral;
+LCierta información cualitativa acerca de la estructura de la persona moral;
+LDatos de tarjeta y cuenta bancaria, a efecto de poder realizar abonos, cargos, y demás movimientos; y
+LLos demás que sean solicitados al momento de registro o en cualquier momento posterior.
+b)	Datos Personales:
+Dirección de correo electrónico;
+Nombre completo;
+Dirección, Estado, Provincia, Código postal, Ciudad;
+Teléfono(s);
+Fecha de nacimiento;
+Cierta información cuantitativa acerca de las operaciones de la persona física;
+Cierta información cualitativa acerca de la estructura de la persona física;
+Datos de tarjeta y cuenta bancaria, a efecto de poder realizar abonos, cargos, y demás movimientos; y
+Los demás que sean solicitados al momento de registro o en cualquier momento posterior.
+c)	Datos de Uso:
+Los Datos de Uso se recopilan automáticamente al utilizar el Servicio.
+Los Datos de Uso pueden incluir información como la dirección de protocolo de Internet de su Dispositivo (por ejemplo, la dirección IP), el tipo de navegador, la versión del navegador, las páginas de nuestro Servicio que visita, la hora y la fecha de su visita, el tiempo de estancia en dichas páginas, los identificadores únicos del Dispositivo y otros datos de diagnóstico
+Cuando Usted accede al Servicio por o a través de un Dispositivo móvil, podemos recopilar cierta información automáticamente, incluyendo, pero sin limitarse a, el tipo de Dispositivo móvil que Usted utiliza, el identificador único de su Dispositivo móvil, la dirección IP de su Dispositivo móvil, su sistema operativo móvil, el tipo de navegador de Internet móvil que Usted utiliza, los identificadores únicos del Dispositivo y otros datos de diagnóstico
+También podemos recopilar la información que su navegador envía cada vez que visita nuestro Servicio o cuando accede al Servicio por o a través de un Dispositivo móvil.
+Durante el uso de nuestra Aplicación, con el fin de proporcionar funciones de nuestra Aplicación, podemos recopilar, con su consentimiento previo:
+Información relativa a su ubicación
+Imágenes y otra información de la cámara y la biblioteca de fotos de su Dispositivo.
+Utilizamos esta información para proporcionar funciones de Nuestro Servicio, para mejorar y personalizar Nuestro Servicio. La información puede ser cargada en los servidores de la Compañía y/o en el servidor de un Proveedor de Servicios o puede ser simplemente almacenada en su Dispositivo.
+Usted puede activar o desactivar el acceso a esta información en cualquier momento, a través de los ajustes de su Dispositivo.
+Dentro de las categorías de Datos Personales no existen Datos Personales sensibles, entendiéndose por estos, aquellos que afectan la esfera más íntima del Titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste.
+VI. Finalidad del Tratamiento de sus Datos Personales o Empresariales.
+Con la finalidad de poder brindar un servicio de manera personalizada y acorde con sus necesidades particulares, así como para poder generar un ambiente de confianza entre los usuarios de los Servicios, la Compañía podrá utilizar los Datos Personales y/o Empresariales proporcionados para las siguientes finalidades:
+a)	Fines necesarios para la existencia, mantenimiento y cumplimiento de la relación jurídica entre la Compañía y el Titular:
+Para fines de identificación;
+Para proporcionar y mantener nuestro Servicio,
+incluyendo la supervisión del uso de nuestro Servicio;
+Para gestionar su Cuenta:
+para gestionar su registro como usuario del Servicio. Los Datos Personales y Empresariales que Usted proporciona pueden darle acceso a diferentes funcionalidades del Servicio que están disponibles para Usted como usuario registrado;
+Dar cumplimiento a obligaciones
+contraídas previamente con nuestros clientes y demás usuarios de nuestro Sitios Web;
+Dar cumplimiento a obligaciones regulatorias
+emitidas por parte de las autoridades competentes, así como atender a sus requerimientos;
+Para la ejecución de un contrato:
+el desarrollo, cumplimiento y realización del contrato de compra de los productos, artículos o Servicios que Usted haya adquirido o de cualquier otro contrato con Nosotros a través del Servicio;
+Para contactar con Usted:
+Para ponernos en contacto con Usted por correo electrónico, llamadas telefónicas, SMS, u otras formas equivalentes de comunicación electrónica, como las notificaciones push de una aplicación móvil sobre actualizaciones o comunicaciones informativas relacionadas con las funcionalidades, productos o Servicios contratados, incluyendo las actualizaciones de seguridad, cuando sea necesario o razonable para su puesta en marcha; y
+Gestionar sus solicitudes:
+Para que Nosotros podamos atender y gestionar sus solicitudes.
+b)	Fines no necesarios para la existencia, mantenimiento y cumplimiento de la relación jurídica entre la Compañía y el Titular:
+Para proporcionar noticias,
+ofertas especiales e información general sobre otros bienes, servicios y eventos que ofrecemos y que son similares a los que ya ha comprado o sobre los que ha preguntado, a menos que haya optado por no recibir dicha información;
+Para transferencias comerciales; Podemos utilizar Su información para evaluar o llevar a cabo una fusión, desinversión, reestructuración, reorganización, disolución u otra venta o transferencia de algunos o todos Nuestros activos, ya sea como empresa en marcha o como parte de un procedimiento de quiebra, liquidación o similar, en el que los Datos Personales y Empresariales que tenemos sobre nuestros usuarios del Servicio se encuentran entre los activos transferidos;
+El
+análisis de datos,
+la identificación de tendencias de uso, la determinación de la eficacia de nuestras campañas promocionales y para evaluar y mejorar nuestro Servicio, productos, servicios, marketing y su experiencia;
+Para informar sobre el cambio en nuestros Servicios;
+Evaluar la calidad del Servicio; y
+Realizar estudios internos sobre hábitos de consumo y evolución de desempeño.
+Al proporcionar Datos Personales y Empresariales a la Compañía, Usted otorga su consentimiento para que ésta recopile y utilice estos datos para los fines descritos con anterioridad
+Sin embargo, el Titular tiene derecho a oponerse a que sus Datos Personales y Empresariales sean usados para los fines contenidos en el inciso b) anterior (Fines no necesarios para la existencia, mantenimiento y cumplimiento de la relación jurídica entre la Compañía y el Titular). En caso de que desee ejercer este derecho, el Titular deberá de hacerlo conforme al procedimiento establecido en el inciso VII siguiente dentro de los 5 (cinco) días hábiles siguientes a la fecha en la que el presente Aviso de Privacidad haya sido puesto a su disposición, a efecto de que la Compañía no trate sus datos para dichos fines. En caso contrario, se entenderá que el titular consiente al tratamiento de sus datos para todos los fines enumerados anteriormente.
+No obstante, la Compañía podrá revelar Sus Datos Personales y Empresariales para cumplir con las disposiciones legales aplicables y a efecto de cumplir requerimientos u órdenes emitidas por parte de las autoridades judiciales, administrativas o de cualquier otra naturaleza que sean competentes.
+VII. Opciones y medios que la Compañía ofrece a los Titulares para limitar el uso o divulgación de los Datos Personales o Empresariales.
+Para limitar el uso o divulgación de sus Datos Personales y Empresariales, el Titular deberá solicitarlo mediante solicitud debidamente firmada, presentada ya sea en el domicilio del Responsable o en el correo electrónico establecido en el inciso IXX del presente Aviso de Privacidad, al departamento o persona encargada del tratamiento de Datos Personales y Empresariales, solicitando la limitación del uso o divulgación de que se trate.
+Si el Titular desea dejar de recibir mensajes promocionales por parte de la Compañía, lo puede solicitar por los medios establecidos en dichos mensajes. No obstante, si el Titular limita el uso o divulgación que la Compañía puede dar a sus Datos Personales y Empresariales, es posible que la Compañía no pueda brindarle las prestaciones y beneficios a los que de otra forma tendría acceso. La Compañía podrá tomar las medidas que estime conducentes en caso de que su limitación del uso o divulgación de los datos interrumpa en cualquier manera afecte los procesos y prácticas de la Compañía.
+VIII. Transferencias de Datos Personales y Empresariales.
+Salvo las excepciones abajo previstas, así como las mencionadas en el artículo 37 de la Ley, Nos comprometemos a no transferir Datos Personales y Empresariales a terceros ajenos al grupo corporativo al que pertenece la Compañía sin consentimiento del Titular de los mismos, así como a realizar esta transferencia en los términos que fija la Ley (excepto en los casos en los que dicha transferencia de datos sea necesaria para los fines necesarios para la existencia, mantenimiento y cumplimiento de la relación jurídica entre la Compañía y el Titular, en cuyo caso
+usted en este acto otorga su consentimiento expreso ).
+Podemos transferir sus Datos Personales y Empresariales con las siguientes personas, en las siguientes ocasiones y para las siguientes finalidades:
+Con proveedores de Servicios:
+Podemos compartir su información personal con Proveedores de Servicios para monitorear, analizar el uso de nuestro Servicio y para contactarlo a Usted.
+Para transferencias comerciales:
+Podemos compartir o transferir su información personal en relación con, o durante las negociaciones de, cualquier fusión, venta de activos de la Compañía, financiación o adquisición de todo o parte de Nuestro negocio a otra compañía.
+Con las Filiales:
+Podemos compartir su información con nuestras Filiales, en cuyo caso exigiremos a dichas Filiales que respeten este Aviso de Privacidad. Las Filiales incluyen nuestra empresa matriz y cualquier otra subsidiaria, empresa conjunta u otras empresas que controlamos o que están bajo control común con nosotros.
+Con socios comerciales:
+Podemos compartir su información con Nuestros socios comerciales para ofrecerle determinados productos, servicios o promociones.
+Con otros usuarios:
+: cuando Usted comparte información personal o interactúa de otro modo en las áreas públicas con otros usuarios, dicha información puede ser vista por todos los usuarios y puede ser distribuida públicamente en el exterior.
+Con su consentimiento,
+cuando por algún otro motivo el Responsable requiera realizar alguna otra transferencia de sus Datos Personales y Empresariales.
+Su información, incluyendo los Datos Personales y Empresariales, se procesa en las oficinas operativas de la Compañía y en cualquier otro lugar donde se encuentren las partes involucradas en el procesamiento.
+Su consentimiento a este Aviso de Privacidad, seguido de su envío de dicha información, representa su acuerdo con dicha transferencia.
+La Compañía tomará todas las medidas razonablemente necesarias para garantizar que sus datos sean tratados de forma segura y de acuerdo con el presente Aviso de Privacidad y no se realizará ninguna transferencia de sus Datos Personales y Empresariales a una organización o país a menos que existan controles adecuados que incluyan la seguridad de sus datos y otra información personal.
+IX. Divulgación de sus Datos Personales y Empresariales.
+a)	Transacciones comerciales:
+Si la Compañía participa en una fusión, adquisición o venta de activos, sus Datos Personales y/o Empresariales pueden ser transferidos. Le notificaremos antes de que sus Datos Personales o Empresariales sean transferidos y/o queden sujetos a un aviso de privacidad diferente.
+b)	Cumplimiento normativo:
+En determinadas circunstancias, la Compañía puede verse obligada a revelar sus Datos Personales y Empresariales si así lo exige la ley o en respuesta a solicitudes válidas de las autoridades públicas (por ejemplo, un tribunal o una agencia gubernamental).
+c)	Otros requisitos legales:
+La Compañía puede revelar sus Datos Personales y Empresariales si cree de buena fe que dicha acción es necesaria para:
+Cumplir con una obligación legal;
+Proteger y defender los derechos o la propiedad de la Compañía;
+Prevenir o investigar posibles infracciones en relación con el Servicio;
+Proteger la seguridad personal de los usuarios del Servicio o del público; y
+Proteger contra la responsabilidad legal.
+X. Conservación de sus Datos Personales y Empresariales.
+La Compañía conservará sus Datos Personales y Empresariales sólo durante el tiempo necesario para los fines establecidos en el presente Aviso de Privacidad. Conservaremos y utilizaremos sus Datos Personales y Empresariales en la medida en que sea necesario para cumplir con nuestras obligaciones legales (por ejemplo, si estamos obligados a conservar sus datos para cumplir con las leyes aplicables), resolver conflictos y hacer cumplir nuestros acuerdos y políticas legales
+La Compañía también conservará los Datos de Uso para fines de análisis interno. Por lo general, los Datos de Uso se conservan durante un período de tiempo más corto, excepto cuando estos datos se utilizan para reforzar la seguridad o mejorar la funcionalidad de Nuestro Servicio, o cuando estamos legalmente obligados a conservar estos datos durante períodos de tiempo más largos
+XI. Seguridad de sus Datos Personales y Empresariales.
+La seguridad de sus Datos Personales y Empresariales es importante para nosotros, pero recuerde que ningún método de transmisión por Internet o de almacenamiento electrónico es 100% seguro. Aunque nos esforzamos por utilizar medios comercialmente aceptables para proteger sus Datos Personales y Empresariales, no podemos garantizar su seguridad absoluta.
+XII. Enlaces a otros sitios web.
+Nuestro Servicio puede contener enlaces a otros sitios web que no son operados por nosotros. Si hace clic en un enlace de un tercero, será dirigido al sitio de ese tercero. Le recomendamos encarecidamente que revise el aviso de privacidad de cada sitio que visite.
+No tenemos ningún control ni asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de los sitios o servicios de terceros.
+XIII. Privacidad de los niños.
+Nuestro Servicio no se dirige a menores de 13 años. No recopilamos conscientemente información personal identificable de ningún menor de 13 años. Si usted es un padre o tutor y tiene conocimiento de que su hijo nos ha proporcionado Datos Personales, póngase en contacto con nosotros. Si tenemos conocimiento de que hemos recopilado Datos Personales de cualquier persona menor de 13 años sin verificar el consentimiento de los padres, tomaremos medidas para eliminar esa información de nuestros servidores.
+Si necesitamos basarnos en el consentimiento como base legal para procesar su información y su país requiere el consentimiento de uno de los padres, podemos requerir el consentimiento de sus padres antes de recopilar y utilizar esa información
+XIV. Tecnologías de Seguimiento y Cookies.
+Utilizamos Cookies y tecnologías de seguimiento similares para rastrear la actividad en Nuestro Servicio y almacenar cierta información. Las tecnologías de seguimiento utilizadas son balizas, etiquetas y secuencias de comandos para recopilar y rastrear información y para mejorar y analizar Nuestro Servicio. Las tecnologías que utilizamos pueden incluir:
+Cookies necesarias/esenciales
+Tipo: Cookies de sesión
+Administradas por: Nosotros
+Finalidad: Estas Cookies son esenciales para proporcionarle los Servicios disponibles a través del Sitio Web y permitirle utilizar algunas de sus funciones. Ayudan a autenticar a los usuarios y a evitar el uso fraudulento de las Cuentas de usuario. Sin estas Cookies, los Servicios que Usted ha solicitado no pueden ser proporcionados, y sólo utilizamos estas Cookies para proporcionarle dichos Servicios.
+Política de Cookies / Aviso Aceptación de Cookies
+Tipo: Cookies permanentes
+Administradas por: Nosotros
+Finalidad: Estas Cookies identifican si los usuarios han aceptado el uso de Cookies en el Sitio Web.
+Cookies de Funcionalidad
+Tipo: Cookies permanentes
+Administradas por: Nosotros
+Propósito: Estas Cookies nos permiten recordar las opciones que Usted hace cuando utiliza el Sitio Web, como recordar sus datos de acceso o su preferencia de idioma. El objetivo de estas Cookies es proporcionarle una experiencia más personal y evitar que tenga que volver a introducir sus preferencias cada vez que utilice el Sitio Web.
+Para obtener más información sobre las Cookies que utilizamos y sus opciones en relación con lo anterior, visite nuestra Política de Cookies o la sección de Cookies de nuestro Aviso de Privacidad.
+XV. Cambios en el Aviso de Privacidad.
+Podemos actualizar nuestro Aviso de Privacidad de tiempo en tiempo, para dicha finalidad le notificaremos cualquier cambio publicando el nuevo Aviso de Privacidad en esta página, correo electrónico y/o mediante un aviso destacado en nuestro Servicio, antes de que el cambio entre en vigor y actualicemos la fecha de "Última actualización" en la parte superior de este Aviso de Privacidad.
+Se le aconseja que revise este Aviso de Privacidad periódicamente para ver si hay cambios. Los cambios en este Aviso de Privacidad serán efectivos cuando se publiquen en esta página.
+XVI. Medios y procedimientos para el ejercicio de los derechos de acceso, rectificación, cancelación u oposición.
+De conformidad con los Ordenamientos, el Titular, por su propio derecho o través de su representante legal, podrá solicitar al Responsable en cualquier momento el acceso, rectificación, cancelación u oposición (“Derechos ARCO”) respecto a los Derechos Personales que le conciernen.
+Acceso.
+Usted podrá verificar los Datos con los que cuenta la Empresa, los cuales serán puestos a su disposición ya sea mediante copias físicas, documentos electrónicos o por cualquier otro medio que le indique la Compañía o que usted señale en su solicitud para ser contactado.
+Rectificación.
+En caso de que la Compañía cuente con Datos inexactos o incompletos, usted podrá solicitar la modificación total o parcial de los mismos, siempre y cuando presente el documento de soporte con el que acredite el error o el cambio en los mismos.
+Oposición.
+Usted tendrá derecho en todo momento y por causa legítima conforme a la Ley, a oponerse al tratamiento parcial o total de sus Datos Personales y Empresariales recabados, pudiendo señalar casos o situaciones específicos para tal oposición.
+Cancelación.
+Usted podrá solicitar a la Empresa que cancele el tratamiento de sus Datos Personales y Empresariales Recabados en caso que considere que no se requieren para alguna de las finalidades señaladas en el presente Aviso de Privacidad o estén siendo utilizados para finalidades que no hayan sido consentidos.
+La solicitud deberá formularse mediante un escrito libre dirigido al área o persona responsable del tratamiento de sus Datos Personales y deberá contener y acompañar lo siguiente: (i) nombre del Titular y domicilio u otro medio para comunicarle la respuesta a su solicitud; (ii) copia del documento de identificación del Titular, así como el original de la misma para su cotejo o, en su caso, tratándose del representante del Titular, además de lo anterior (identificación del Titular), los documentos que acrediten la identidad del representante, así como el instrumento público o carta poder firmada ante dos testigos, en el que consten las facultades otorgadas, o declaración en comparecencia personal del Titular; (iii) descripción clara y precisa de los Datos Personales respecto de los que se busca ejercer alguno de los Derechos ARCO, y (iv) cualquier otro elemento o documento que facilite la localización de los Datos Personales. Dicha solicitud deberá presentarse en el Domicilio para oír y recibir notificaciones o mediante correo electrónico dirigido a la dirección siguiente: legal@semillero.online, siempre que se presenten los instrumentos electrónicos debidamente certificados que sustituyan la identificación del Titular o, en su caso, de su representante.
+El ejercicio de los Derechos ARCO será gratuito, debiendo cubrir el Titular únicamente los gastos de envío, reproducción (copia simple) y, en su caso, certificación de documentos. No obstante, si el mismo Titular reitera su solicitud en un periodo menor a 12 (doce) meses, los costos serán el equivalente a 3 (tres) días de salario mínimo general vigente en la ciudad de [*], a menos que existan modificaciones sustanciales al Aviso de Privacidad que motiven nuevas consultas.
+El Responsable comunicará al Titular en un plazo máximo de 20 (veinte) días hábiles contados desde la fecha en que se haya recibido la solicitud del Derecho ARCO que corresponda, la determinación adoptada a efecto de que, si resulta procedente, se haga efectiva la misma dentro de los 15 (quince) días hábiles siguientes a la fecha en que se comunique la respuesta. El plazo podrá ser ampliado por una sola vez por un periodo igual, siempre que el Responsable le justifique la ampliación al Titular, lo cual deberá ser notificado dentro del mismo plazo. Para tal efecto, el Responsable anotará en el acuse de recibo que entregue el Titular la correspondiente fecha de recepción.
+El plazo señalado en el párrafo anterior se interrumpirá en caso de que el Responsable requiera información adicional al Titular, en virtud de que la información entregada originalmente sea insuficiente o errónea para atenderla, o bien, no se acompañen los documentos antes indicados. Para tal efecto, el Responsable le podrá requerir al Titular, por una vez y dentro de los 5 (cinco) días hábiles siguientes a la recepción de la solicitud, aporte los elementos o documentos necesarios para dar trámite a la misma, contando, por su parte, el Titular con 10 (diez) días hábiles para atender el requerimiento, contados a partir del día siguiente en que lo haya recibido. Si el Titular no diere respuesta en dicho plazo se tendrá por no presentada la solicitud correspondiente. Por el contrario, en caso de que el Titular atienda el requerimiento de información, el plazo para que el Responsable dé respuesta a la solicitud, empezará a correr al día siguiente de que el Titular haya atendido el requerimiento de información adicional.
+Las respuestas que el Responsable le otorgue a los Titulares que hubieren ejercido sus Derechos ARCO, se realizará por el mismo medio en que se formuló la solicitud, versando únicamente sobre los Datos Personales que específicamente se hayan indicado en la solicitud en cuestión y deberá presentarse en formato legible y comprensible.
+Cuando el acceso a los Datos Personales sea en sitio, el Responsable le otorgará al Titular un periodo de 15 (quince) días para que éste pueda presentarse a consultarlos. Transcurrido ese plazo, sin que el Titular haya acudido, será necesaria la presentación de una nueva solicitud.
+Cuando el Responsable niegue el ejercicio de cualquiera de los derechos ARCO, la Compañía deberá justificar dicha negativa, teniendo el Titular el derecho para solicitar el inicio del procedimiento de protección de derechos ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+XVII. Revocación del Consentimiento.
+El consentimiento que Usted otorgue al presente Aviso de Privacidad podrá ser revocado en cualquier tiempo, sin que se le atribuyan efectos retroactivos. La revocación del consentimiento que pretendiera realizar el Titular, deberá hacerlo conforme a los medios y procedimiento consignado en el inciso XVI anterior.
+XVIII.	Legislación y Jurisdicción.
+El presente Aviso de Privacidad, el tratamiento de sus Datos Personales y/o todos los documentos relacionados se rigen por la Ley y la demás normativa de los Estados Unidos Mexicanos. La aceptación de este Aviso de Privacidad o la celebración de un contrato de cualquier naturaleza con el Responsable, una vez puesto a disposición el mismo, implica una aceptación expresa, por escrito de sus términos y sometimiento expreso a los tribunales de la ciudad de [*], para cualquier controversia o reclamación derivada del mismo, por lo que se entiende la renuncia a cualquier jurisdicción que por motivo de domicilio, presente o futuro pudiera corresponderle.
+XIX.	Contacto con la Compañía.
+Si tiene alguna pregunta sobre el presente Aviso de Privacidad o el tratamiento de sus Datos Personales, puede ponerse en contacto con nosotros por correo electrónico:
+legal@semillero.online.
+Sin perjuicio de lo anterior, en caso de que usted considere que el tratamiento de sus Datos Personales constituye alguna violación a las disposiciones de la Ley, podrá acudir al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+*
+*
+*
+Reconozco que he leído y entiendo el alcance y significado del presente Aviso de Privacidad a lo cual manifiesto mi consentimiento, así como de los mecanismos que la Ley, el Reglamento, los Lineamientos y el presente Aviso de Privacidad me confieren para el ejercicio de mis Derechos de Acceso, Rectificación, Cancelación y Oposición, así como de la limitación del uso, transferencia y divulgación de mis datos que pueda realizar
+Semillero Online S.A.P.I. de C.V.

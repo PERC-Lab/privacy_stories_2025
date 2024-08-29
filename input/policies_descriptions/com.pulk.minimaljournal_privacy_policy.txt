@@ -1,0 +1,13 @@
+Simple Diary Terms of Use
+Simple Diary Terms of Use
+Effective Date: [26/09/2023] Welcome to Simple Diary, a journaling app provided by [Your Company Name] ("we," "us," or "our"). Before you use our app, please take a moment to read and understand these Terms and Conditions. By using Simple Diary, you agree to be bound by these terms. If you do not agree with these terms, please do not use our app. 1. User Data Collection and Storage We collect and store the following user data: Email : We collect your email address to facilitate communication and provide access to certain features. Gender : We collect gender information to personalize your journaling experience. Name : We collect your name to personalize your interactions with the app. We do not sell or share this information with third parties. Your data is securely stored on Firebase servers. 2. Analytics and Functionality Analysis We use analytics tools, including Google Analytics for Firebase and Facebook, to analyze app functionality and user behavior. This helps us improve the app and provide a better user experience. 3. Third-Party Service Providers Simple Diary uses the following third-party service providers: Google Play Services : To ensure the app runs smoothly on Android devices. AdMob : To display advertisements and support the app's operation. Google Analytics for Firebase : To analyze user behavior and app performance. Firebase Crashlytics : To monitor app crashes and errors. Facebook : To enable certain features and improve the user experience. 4. User Data Deletion Request We respect your privacy. If you wish to delete your data or have any concerns about your privacy, you can request the deletion of your data by sending an email to
+app.pulket@gmail.com . We will process your request as soon as possible. 5. Changes to Terms and Conditions We may update these Terms and Conditions from time to time. Any changes will be posted on this page with a revised effective date. By continuing to use Simple Diary after any changes are made, you agree to the updated terms. 6. Contact Us If you have any questions, concerns, or feedback about these Terms and Conditions or the Simple Diary app, please contact us at
+app.pulket@gmail.com . Thank you for using Simple Diary. We hope you enjoy your journaling experience!
+Document hosted by
+Flycricket
+•
+Privacy Policy
+•
+Cookie Policy
+•
+Terms of Use

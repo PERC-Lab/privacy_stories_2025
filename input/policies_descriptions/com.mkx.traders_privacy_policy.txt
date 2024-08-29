@@ -1,0 +1,517 @@
+Privacy Policy
+Last modified: September 2023
+This is the Privacy Policy of MKX Trader LLC (hereinafter referred to as "Company," "we," "us" or "our"). Our
+Privacy Policy explains how we collect, use, share and protect Personal Data as well as your related choices
+regarding use, access, and correction. For the purposes of this Privacy Policy “Personal Data” shall mean
+any
+information relating to an identified or identifiable individual where such information is protected
+similarly
+as Personal Data or personally identifiable information under applicable Data Protection Laws.
+“Data Protection Laws” means all applicable worldwide legislation relating to data protection and privacy
+which
+applies to the respective party in the role of Processing Personal Data in question under the Agreement,
+including without limitation General Data Protection Regulation and the California Consumer Privacy Act of
+2018;
+in each case as amended, repealed, consolidated or replaced from time to time.
+We may update this Privacy Policy from time to time by publishing a new version on our website and your user
+profile page. We recommend checking our website and your user profile page occasionally to ensure you are
+informed of any changes made. If required by applicable law, you will be informed of any significant changes
+made to this Privacy Policy.
+Responsible for data processing
+MKX Trader LLC is responsible for the processing of your Personal Data with respect to the use of our
+website,
+mobile and desktop applications, purchase of services and/or products (collectively “MKX Trader") as shown
+in
+this Privacy Policy.
+Contact details:
+MKX Trader LLC
+6310 Town Square
+Suite 250 Alpharetta Georgia, 30005
+United States of America
+To exercise your rights or for any questions regarding the use, collection, or processing of your personal
+data,
+please contact us at privacy@mkxtrader.com.
+What kind of information do we collect?
+We collect information from our users in several ways as explained in this Privacy Policy.
+When you visit our website, we will automatically collect information gathered by the use of cookies; such
+as
+your IP address.
+We collect the following Personal Data you provide us:
+- Your first and last name
+- Country of residence
+- E-mail address
+- Personal details you choose to give when corresponding with us by phone, email or other
+communication methods between you and the Company or otherwise visiting and
+interacting with MKX Trader.
+- The Traders you choose to follow and their ideas or strategies.
+How do we use this information?
+Your Personal Data will be processed by us only for the following purposes: Execute our agreement with you
+- to communicate with you by email, phone, or other communication methods
+- for the provision of our services and products
+- monitor/access any content, ideas or strategies Traders post
+- monitor trading activity on MKX Trader, including by detecting inconsistencies in trades and looking out
+for potentially illegal activities
+- to provide customer support and comply with regulatory and other legal obligations
+- MKX Trader may also enable you to trade and invest in forex and stocks by means of an automatic trader
+bot, of which (solely) you control and configure the settings. This feature is only available in the United
+States of America. If you enable the automatic trader bot, your Personal Data will be processed by us to
+execute orders on your behalf.
+• Processing payment
+The Company itself does not store, hold, process, or access your financial information. If you want to
+purchase one or more subscription plans, you may be directed to the MKX Network website (“MKX Network”), in
+order to pay for certain subscription plan fees using MKX Network’s website, you will be engaging in a
+financial transaction through MKX Network. The payment processing is securely carried out by their payment
+service provider. To process your payment, you may have to provide financial information such as credit card
+numbers, expiration dates and security codes. Your payment will be processed by MKX Network and their
+payment service provider in accordance with their privacy policies. Please see their privacy policy and MKX
+Network’s privacy policy for information about how they handle your data.
+• Account
+To access MKX Trader, you will first need to set up an account via MKX Network. MKX Network shall redirect
+you to MKX Trader. Login and access to MKX Trader is handled via MKX Network login portal through a
+single-sign-on authentication scheme that allows you to securely authenticate with multiple applications and
+websites by using just one set of credentials. We use your login credentials to validate your active
+subscription and grant you access to MKX Trader web based and mobile application. We receive your first
+name, last name, email address and country from MKX Network either through their website or API. We use your
+country information to determine your general location in order to show you the region-specific version and
+features of MKX Trader. You may elect to provide additional information such as your preferred language. We
+display this information in your user profile. Please see MKX Network’s privacy policy for information about
+how they handle your data.
+If you connect to MKX Network or its services through a VPN, proxy server, or other method that blocks or
+circumvent your access to the region-specific version and features of MKX Trader, we may not be able to
+accurately determine your legal jurisdiction, which may affect our ability to provide requested services or
+honor certain privacy rights.
+We neither control nor take any responsibility for the way MKX Network provide information about you and/or
+process your personal data.
+You are responsible for the confidentiality of your password with which you access MKX Trader. We ask you
+not to share your password with others. You are fully responsible for maintaining the confidentiality of
+your login details and any activities that occur under your account. Any such activities and actions shall
+be deemed to be performed and authorized by you. If required by law or regulation to carry out additional
+checks, we may ask for supplementary information post- registration in order to verify your identity. You
+are responsible for the accuracy of the registration information supplied to us in connection with your
+account and must update such information promptly in case of future changes.
+• Marketing
+We may use your information to contact you with newsletters, marketing or promotional materials and other
+information that may be of interest to you. We may use email and other communication channels to send you
+direct messages with personalised advertisements and special offers, such as postal mail, mobile push
+notifications or social channels (e.g., Messenger or WhatsApp). We do this only if you have explicitly given
+your consent to us to do so. You may unsubscribe from our advertisements, offers and from e-mails to which
+you have subscribed at any time by clicking on the unsubscribe link in the e-mail. Such a preference can
+also be changed at any time through your account, under User Profile. If you have opted to receive
+personalised advertisements and offers through mobile push notifications, you can unsubscribe by changing
+your smartphone settings (for mobile push notifications). Visit the website of your social network provider
+for more information on how to unsubscribe from receiving personalised advertisements and offers through
+social channels (e.g., Telegram, Messenger or WhatsApp).
+You may always contact us to unsubscribe from receiving messages containing advertisements and offers.
+• Service Notifications
+If you are using MKX Trader from time to time we may send you important communications regarding MKX Trader
+and/or our services, your User Account, updates, system alerts, including trading ideas, and any other
+notifications which may be required by law or regulation (including without limitation notification of a
+security incident) (collectively, "Service Notifications"). Such Service Notifications will be sent to your
+email address supplied as part of your Account registration information. In principle, you cannot opt out of
+receiving these Service Notifications, which are not promotional in nature. If you do not wish to receive
+them, you have the option to deactivate them in your account, under User Profile.
+• Log file information
+We collect and store information through the use of a limited number of “cookies” and other automated means
+such as authentication tokens whenever you visit our website. This information may include information such
+as your computer's Internet Protocol address, browser type, browser version, your login attempts. This
+enables us to improve our website and deliver a better service to you. You may always contact us if you wish
+to delete this information and/or Personal Information from our files. Find out more about the tokens and
+cookies we use in our “Cookie Policy”.
+• Communications and support
+We use your contact details to communicate with you about our services and in order to reply to questions or
+to handle complaints about our services and products via e-mail, telephone, chat, messaging apps or other
+communication methods.
+How is this information shared?
+If you purchase a certain subscription plan from MKX Network, they will share your personal details (first
+name, last name and email address) and the subscription plans you have purchased us so that we can update
+your subscription plans. MKX Network is independently responsible for processing your Personal Data. You can
+find more information on how they handle your Personal Data in their privacy policy.
+We may disclose your data with our parent company and our service providers insofar as reasonably necessary
+for the performance of the agreement you have concluded with us. Our parent company and all such service
+providers are governed by this Privacy Policy or are bound by the appropriate confidentiality and data
+transfer agreements, an oath or legal obligation. We may also send your Personal Data to:
+- professional advisors, such as banks, insurance companies, auditors, lawyers, accountants, other
+professional advisors
+- customer care support service provider
+- email provider
+- hosting party
+- Software suppliers
+- government agencies
+Third Party Services
+In order to provide you with high-quality services, we may employ third party companies and individuals to
+facilitate our service (“Service Providers”). These third parties have access to your Personal Data only to
+perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Cloudflare
+We use the “Cloudflare CDN” service provided by Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA.
+(hereinafter referred to as “Cloudflare”) that acts as the Content Delivery Network (CDN) on our website. A CDN
+helps to deliver content from our online offering, especially files such as graphics or scripts, faster with the
+help of regionally or internationally distributed servers. This enables Cloudflare to analyze data transactions
+between your browser and our website and to work as a filter between our servers and potentially malicious data
+traffic from the Internet. When you access our content, you connect to Cloudflare, Inc. servers, transmitting
+your IP address and, if applicable, browser data such as your user agent. This data will be processed
+exclusively for the above purposes and for the maintenance of the security and functionality of Cloudflare. In
+this context, Cloudflare may also use cookies or other technologies deployed to recognize Internet users, which
+shall, however, only be used for the herein described purpose.
+The use of Cloudflare is based on our legitimate interest in a provision of our website offerings that is as
+error free and secure as possible (Art. 6 Sect. 1 lit. f GDPR).
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission.
+Details can be found here: www.cloudflare.com/media/pdf/cloudflare-customer- dpa.pdf. For more information on
+Cloudflare’s security precautions and data privacy policies, please follow this link:
+www.cloudflare.com/privacypolicy/.
+Sendgrid
+For the dispatch of order confirmation messages, we employ the service provider Sendgrid. Sendgrid is an offer
+of SendGrid, Inc., 1401 Walnut, Boulder, CO 80302, USA.
+We use Sendgrid to send emails to our users. When you sign up for our mailing list or place an order, we may
+collect your name and email address. Sendgrid also collects certain information about the emails we send, such
+as whether they were delivered and whether you opened or clicked on them.
+If your data is transferred to the USA, this is done on the basis of your consent in accordance with Art. 49
+para. 1 cl. 1 lit. a GDPR. In addition, Sendgrid is obligated to us by way of a standard contractual clause that
+a level of data protection equivalent to that of the EU is guaranteed in third countries outside the EU to which
+the collected data is exported. Information on the data privacy policy of SendGrid may be found at
+https://sendgrid.com/privacy .
+New Relic
+We use New Relic to monitor the performance of our software, to help measure how users interact with our
+websites and applications and to assist with troubleshooting. Learn about New Relic's GDPR practices. We do not
+transfer personal information to New Relic.
+We work with third party company New Relic Cookie. They are used to store a session identifier so they can
+monitor session counts for an application. The Cookie value is generated by Jetty. This third party provider is
+prohibited from using our data for any other purpose. Go to
+https://newrelic.com/termsandconditions/privacy
+to read New Relic Privacy Policy.
+Amazon Web Services
+We use the cloud infrastructure of Amazon Web Services (AWS) to cloud-host and maintain the database and web
+content. Therefore, customer data may flow through or be stored within this system. AWS infrastructure is housed
+in high-security controlled environments pursuant to the AWS Cloud Security policy
+https://aws.amazon.com/security/ . You can find more information
+on AWS and data protection at
+https://aws.amazon.com/compliance/eu-data-protection/
+and at
+https://aws.amazon.com/privacy/ .
+Google Cloud Translation API
+We use the Google Cloud Translation API provided by Google LLC, 1600 Amphitheatre Parkway Mountain View 94043,
+California in order enable users to translate specific dynamic content in MKX Trader in several languages on
+demand. the Google Cloud Translation API is provided to users for informational and convenience purposes only.
+User’s Personal Data does not go through the Google translation API and no cookies are being attached to the
+browser. Please visit Google’s Privacy Policy page:
+https://policies.google.com/privacy .
+Crowdin
+Crowdin is a cloud-based solution that streamlines localization management to effectively manage all of your
+multilingual content.
+For more information on what data Crowdin collects for what purpose and how the protection of the data is
+ensured, please visit Crowdin Privacy Policy page:
+https://crowdin.com/privacy-policy/#16how-to-contact-us .
+Strapi
+We use the content management system Strapi provided by Strapi Solutions SAS, rue de la Boétie, 75008 Paris,
+France (strapi.io). We use their system to store content relating to educational information and videos. It does
+not store any other information and does not have any cookies. Strapi is compliant with GDPR requirements.
+Please visit Strapi Privacy Policy page:
+https://strapi.io/privacy .
+Fixer
+We use the API Fixer for exchange rate and currency conversions updated as often as every 60 seconds. Please
+visit Fixer Privacy Policy page:
+https://fixer.io/privacy .
+Tradermade
+We use Tradermade to provide you with real-time forex market data, news and information analytics. Please visit
+Tradermade Privacy Policy page:
+https://tradermade.com/privacypolicy .
+EODHD
+We use EOD Historical Data to provide you with real-time stock market data, news and information analytics. You
+can learn more about this data collection on the EOD website here:
+https://eodhd.com/financial-apis/privacy-policy .
+Marketstack
+We use Marketstack to provide real-time price updates for the stock market. For more information on how
+Marketstack handles your data, please visit their privacy policy page:
+https://marketstack.com/privacy .
+Zendesk
+In our mobile and desktop application we offer an in-app chat tool, which allows Pro Subscribers to chat with
+our customer support to manage any support requests, queries and issues raised. Pro Subscribers will also be
+able to chat with certain Traders in order to clarify certain general trade ideas. Necessary data such as
+surname, first name, postal address, telephone number, e-mail address, and any information you choose to provide
+to allow us and/or certain Traders to assist you, are collected via MKX Trader in order to answer your enquiry.
+The in-app chat function and customer support tool are provided by Zendesk Inc.
+Zendesk uses cookies. The information generated by the cookie about your use of MKX Trader (including your
+anonymous IP address) will be transmitted to and stored by Zendesk on servers in three main regions — United
+States, Asia Pacific, and the European Union. In accordance with Zendesk’s privacy policy your data may be
+stored in any of those regions. The information is only visible for the moment of the stay on a certain page and
+is not stored. Chats that have been carried out are logged and saved. You may refuse the use of cookies, however
+please note that if you do this you may not be able to use the full functionality of MKX Trader.
+Zendesk certifies compliance with the US Department of Commerce's Privacy-Shield- and Safe- Harbor Framework
+Programmes between the US and the EU and between the US and Switzerland. Zendesk has further adopted Binding
+Corporate Rules that have been authorised by the EU data protection authorities, and which enables Zendesk to
+transfer Personal Data lawfully from EEA member states to other Zendesk group companies around the world.
+Further information on data processing by Zendesk can be found in their privacy policy available at
+https://www.zendesk.com/company/agreements-and-terms/privacypolicy/ .
+If you have any questions, you can also contact Zendesk's data protection officer directly: Zendesk, Inc., Attn:
+Privacy Officer, 1019 Market Street, San Francisco, CA 94103, United States or by email to euprivacy@zendesk.com
+Vimeo
+MKX Trader uses plugins of the video portal Vimeo. The provider is Vimeo Inc. 555 West 18th Street,
+New York, New York 10011, USA.
+When you visit one of our pages equipped with a Vimeo plug-in, a connection is established to the Vimeo servers.
+The Vimeo server will be informed which of our pages you have visited. Vimeo also obtains your IP address. This
+also applies if you are not logged in to Vimeo or do not have an account with Vimeo. The information collected
+by Vimeo is transmitted to the Vimeo server in the USA.
+If you are logged in to your Vimeo account, you enable Vimeo to assign your surfing behavior directly to your
+personal profile. You can prevent this by logging out of your Vimeo account.
+You can find further information on the handling of user data in the Privacy Policy of Vimeo at
+https://vimeo.com/privacy .
+Change of control
+If we sell or otherwise transfer part or the whole of the Company or our assets to another organization
+(e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation),
+your information may be among the items sold or transferred. The buyer or transferee will have to honour the
+commitments we have made in this Privacy Policy.
+Legal requests and preventing harm
+We may access, preserve, and share your information in response to a legal request (like a search warrant,
+court order or subpoena) if we have a good faith belief that the law requires us to do so. We may also
+access, preserve, and share information when we have a good faith belief it is necessary to: detect,
+prevent, and address fraud and other illegal activity; to protect ourselves, you, and others, including as
+part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may
+be accessed, processed, and retained for an extended period of time when it is the subject of a legal
+request or obligation, governmental investigation, or investigations concerning possible violations of our
+terms or policies, or otherwise to prevent harm.
+Safety and security
+We have taken appropriate technical and organizational measures to ensure that the regulations and
+requirements relating to data protection are observed and upheld both by ourselves and by our external
+service providers. We use the latest technologies to protect your information against loss or unlawful
+processing. We use safeguards to help keep the information collected through the Dashboard secure;
+encryption of sending Personal Data via our website (SSL) and regularly updating our systems are examples of
+these measures. If you think that your data is not properly secured or if you have indications that your
+data is being misused, please send us an email. However, we cannot ensure the security of any information
+you transmit to us or guarantee that information on the website may not be accessed, disclosed, altered, or
+destroyed. We request you to do your part to help us. You are responsible for maintaining the secrecy of
+your unique password and account information, and for controlling access to emails between you and us, at
+all times. We are not responsible for the functionality, privacy, or security measures of any other
+organization.
+International transfer
+In principle, your Personal Data will not be transferred to and maintained on computers located outside the
+European Economic Area (“EEA”). However, if in the case we engage non-European service providers, we
+carefully consider whether an adequate level of protection can be provided. These service providers are only
+permitted to use the information insofar as reasonably necessary for the performance of the agreement you
+have concluded with us. Where necessary, we conclude data transfer agreements with these service providers
+based on standard contractual clauses established by the European Commission (which have been approved by
+the European Commission) as well as additional safeguards where appropriate (such as commercial industry
+standard secure encryption methods to protect customer data at rest and in transit, web application firewall
+protection, and other appropriate contractual and organizational measures). These service providers may be
+obliged to provide access to your data based on their applicable laws and regulations. For more information
+about safeguards for international transfers, please contact us using the contact details provided in this
+Privacy Policy. Please note that we rely on the EU-US Data Privacy Framework and the adequacy decision as a
+data transfer mechanism for the cross-border transfer of personal data and introduces limitations on US
+surveillance agencies' access to EU data beyond what is “necessary and proportionate” as well as an
+independent dispute resolution mechanism.
+Retention period
+In compliance with applicable laws, we ensure that your Personal Data is retained no longer than reasonably
+necessary to fulfill the purposes outlined in this Privacy Policy or as required by legal, regulatory,
+accounting, or reporting obligations, whichever duration is longer. Here is the retention schedule for your
+Personal Data:
+- Customer Data (First name, last name, email address): Retained for up to 5 years after the last
+transaction, in accordance with statutory limitation periods for damage claims. This information may be
+retained as evidence.
+- Account Information (Customer username, email address, password): Kept as long as your account remains
+active. Account removal will be completed within 30 days, removing all data from our systems.
+- Correspondence: Maintained for up to 5 years following the last correspondence, aligned with statutory
+limitation periods for damage claims. This information may serve as evidence.
+- Marketing Communications (Email address, WhatsApp, Telegram number, messenger ID, postal information):
+Retained until you opt out. If you choose to stop receiving marketing communications, we will retain the
+record of your withdrawal request. You have the option to unsubscribe from our advertisements and offers at
+any time.
+Upon expiry of the applicable retention period, we will securely destroy your Personal Data in accordance
+with applicable laws and regulations. In some circumstances we may anonymize your Personal Data so that it
+can no longer be associated with you, in which case it is no longer Personal Data.
+If you would like details of the retention periods for a particular aspect of your Personal Data which is
+not detailed above, please contact us at privacy@mkxtrader.com.
+Inspection and correction
+You have the statutory right to know what Personal Data of yours we have stored and to whom we have disclosed
+it. You are entitled to request information at no cost about your data at any time and without charge, and
+to demand its correction, deletion or blocking. You may also revoke your consent to the processing methods
+at any time with immediate effect for the future.
+You can easily access most of your data (including the data provided by you) and rectify/correct such data
+though your registered account. If you have created an account on MKX Trader as a customer, you can delete
+your account by sending us an email to remove your account.
+If you have created an account on MKX Network’s website, you can either send MKX Network or us an email to
+deactivate your account. We will anonymise your Personal Data, in which case it is no longer considered
+Personal Data.
+If you wish, we can send your Personal Data to you so that you can transfer it to another party. You can
+make a request to that effect by sending an email to us. Most likely, in such case we will no longer be able
+to continue our service as we can no longer guarantee the safeguard of your Personal Data. In addition, you
+can ask us to restrict the processing of your Personal Data (for example if you deem the information to be
+incorrect, the processing is unnecessary or the processing is unlawful) or the termination of use of your
+Personal Data.
+We do not use automated decision-making without human intervention, including profiling, in a way that
+produces legal effects concerning you or that otherwise significantly affects you.
+Remember, you can always object to the processing of your Personal Data.
+If you would like further information about how your Personal Data is stored, or you wish to exercise one of
+your aforementioned rights, please send us an email. You may be contacted by our customer support team in
+order to verify your identity before we fulfil your request. This is to protect your privacy. Finally, you
+can always submit a complaint about our data processing practices to the Dutch Data Protection Authority via
+www.autoriteitpersoonsgegevens.nl
+Third-party applications, websites, and services
+We are not responsible for the practices employed by any applications, websites or services linked to or
+from MKX Trader, including the information or content contained within them. Please remember that when you
+use a link to go from MKX Trader to another application, website or service, our Privacy Policy does not
+apply to those third-party applications, websites, or services. Your browsing activity and interaction on
+any third-party application, website, or service, including those that have a link on MKX Trader, are
+subject to that third party's own rules and policies.
+Children's privacy
+We do not intent to address to children (under 13 in the US, under 16 for EU residents, or other age as
+required by local law) ("Children"). We do not knowingly collect personally identifiable information from
+Children. If you are a parent or guardian and you are aware that your Children has provided us with Personal
+Data, please contact us. If we become aware that we have collected Personal Data from
+a child under the age of 16 (or the applicable age in their territory) without verification of parental
+consent, we take steps to remove that information from our servers.
+Changes to this privacy policy
+We may modify or update our Privacy Policy from time to time. We will notify you of any changes by posting
+the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any
+changes. Changes to this Privacy Policy are effective when they are posted on this page.
+How to contact us
+If you have any questions about this Privacy Policy of the Service, please send an email to
+privacy@mkxtrader.com.
+INFORMATION FOR CALIFORNIAN CONSUMERS
+The provisions contained in this section supplements our Privacy Policy and apply to all Users who are
+consumers residing in the state of California, United States of America, according to "The California
+Consumer Privacy Act of 2018" (Users are referred to below, simply as “you”, “your”, “yours”), and, for such
+consumers, these provisions are not intended to contradict or limit the applicability of the information
+provided in the Privacy Policy.
+This part of the document uses certain terms that have the meaning given to them in the California Consumer
+Privacy Act of 2018 and its implementing regulations (the “CCPA”).
+Categories of Personal Data collected, disclosed or sold
+In this section we describe how we collect, use, and share California consumers' Personal Data in our role as
+a business, and the rights applicable to such residents. The CCPA requires businesses to disclose whether
+they sell Personal Data. The Company is a business and does not sell Personal Data. We may share Personal
+Data with third parties if those third parties are authorized service providers or business partners who
+have agreed to our contractual limitations as to their retention, use, and disclosure of such Personal Data.
+You can read about these activities in detail in the section titled “Detailed information on the processing
+of “Personal Data” within this document.
+If you are unable to access this Privacy Policy due to a disability or any physical or mental impairment,
+please contact us and we will arrange to supply you with the information you need in an alternative format
+that you can access.
+How we collect, Use, and Share your Personal Data
+We have collected the following categories of Personal Data about you in the past twelve (12) months:
+Identifiers as a first and last name, username, unique personal identifier (such as a telephone number,
+online identifier, password, internet protocol address and email address). We collect
+this information directly from you or from third party sources.
+Commercial information and internet information such as subscription records, products or
+services purchased, and other purchasing or consuming histories. We collect this information
+directly from you.
+Other Personal Data, in instances when you interact with us online, by phone or mail in the
+context of receiving help through our help desks or other support channels or in providing
+the Service.
+Geolocation data, such as IP address. We collect this information from your device.
+Additional Data Subject to Cal. Civ. Code § 1798.80: signature, physical characteristics or
+description, state identification card number, financial information, such as financial account numbers
+in the process of providing you with a subscription. We collect this information from you.
+We may use (and may have used during the 12-month period prior to the effective date of this document) your
+Personal Data for the purposes described in our Privacy Policy.
+In addition, we may use such categories of Personal Data for certain business purposes specified
+under the CCPA:
+Performing services, including maintaining or servicing accounts, providing customer service,
+processing or fulfilling orders and transactions, verifying customer information, processing payments,
+providing advertising or marketing services, providing analytics services, or providing similar
+services;
+Auditing related to a current interaction with you and concurrent transactions, including, but not
+limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad
+impressions, and auditing compliance;
+Short Term Use: Short-term, transient use, including, but not limited to, the contextual customization
+of ads shown as part of the same interaction;
+Security Purposes: Detecting security incidents, protecting against malicious, deceptive, fraudulent,
+illegal activity, or any activity that violates our policies and prosecuting those responsible for that
+activity;
+Debugging to identify and repair errors that impair existing intended functionality
+Internal R&D: Undertaking internal research for technological development and
+demonstration;
+Safety: Undertaking activities to verify or maintain the quality or safety of a service or device
+that is owned, developed for, or controlled by us, and to improve, upgrade, or enhance the
+service or device that is owned, developed for, or controlled by us;
+Comply with applicable laws, regulations, or legal process, as well as industry standards and
+our company policies;
+For any other purpose, with your consent.
+Sharing of Personal Data
+We may share your Personal Data with our parent, subsidiaries, affiliates, business partners, and vendors
+that provide services on our behalf. These parties are not meant to use Personal Data except for the
+purpose(s) for which it was provided.
+In the event of a business transaction, such as if we sell or transfer all or a portion of our business or
+assets (e.g., further to a merger, reorganization, liquidation, or any other business transaction, including
+negotiations of such transactions), we reserve the right to disclose any information we obtain through MKX
+Trader. You acknowledge that such transfers may occur and are permitted by and subject to this Privacy
+Policy.
+Additionally, we may disclose information when required by subpoena, search warrant, or other legal
+processes, or in response to activities that are unlawful or a violation of our rules for use of MKX Trader,
+or to protect and defend our rights or property.
+California Do Not Track
+Our web services do not alter, change, or respond upon receiving Do Not Track (DNT) requests or signals in
+browsers. As described in more detail above, we track user activity using web server logs, cookies and
+similar technologies. Information collected in web server logs helps us analyze website usage and improve
+the user’s experience. Cookies allow us to offer you a customized experience and present relevant
+advertising to you.
+Your California privacy rights and how to exercise them
+You have certain rights regarding the Personal Data we collect or maintain about you. Please note these
+rights are not absolute, and there may be cases when we decline your request as permitted by law.
+The right of access and to portability
+You have the right to request that we disclose to you:
+the categories and sources of the Personal Data that we collect about you, the purposes for which we use
+your information and with whom such information is shared. This disclosure will be limited to the Personal
+Data collected or used over the past 12 months.
+If we deliver our response electronically, the information enclosed will be "portable", i.e. delivered in an
+easily usable format to enable you to transmit the information to another entity without hindrance, provided
+that this is technically feasible.
+The right to request the deletion of your Personal Data
+You have the right to request that we delete any of your Personal Data collected or maintained by us,
+subject to
+exceptions set forth by the law (such as, including but not limited to, where the information is used to
+identify and repair errors on this Service, to detect security incidents and protect against fraudulent or
+illegal activities, to exercise certain rights etc.).
+If no legal exception applies, as a result of exercising your right, we will delete your Personal Data and
+direct any of our service providers to do so.
+The right to non-discrimination
+The right to non-discrimination means that you will not receive any discriminatory treatment when you
+exercise
+one of your privacy rights.
+Shine the Light Request
+If you are a California resident and have provided us with your Personal Data, you may ask us to refrain from
+sharing your Personal Data with third parties, including our affiliates if they are separate legal entities,
+for
+direct marketing purposes.
+The Company does not sell Personal Data to third parties (pursuant to California Civil Code §§ 1798.100–
+1798.199, also known as the California Consumer Privacy Act of 2018).
+How to exercise your rights
+To exercise the rights described above, you need to submit your verifiable request to us by contacting us via
+the details provided in this document.
+For us to respond to your request, it’s necessary that we know who you are. Therefore, you can only exercise
+the above rights by making a verifiable request which must:
+provide sufficient information that allows us to reasonably verify your identity by a method
+appropriate to
+the type of request you are making.
+attest to the fact that you are a California resident, and provide your current California address to
+which we
+will send our response. Your inquiry must specify “California Privacy Rights Request” in the subject line of
+the
+email or the first line of the letter and include your name, street address, city, state, and ZIP code.
+If you cannot personally submit a verifiable request, you can authorize a person registered with the
+California Secretary of State to act on your behalf. We may also request that your authorized agent have
+written
+permission from you to make requests on your behalf, and we may also need to verify your authorized agent's
+identity to protect your Personal Data.
+describe your request with sufficient detail that allows us to properly understand, evaluate, and
+respond to
+it. We will not respond to any request if we are unable to verify your identity and therefore confirm the
+Personal Data in our possession actually relates to you.
+How and when we are expected to handle your request
+We will confirm receipt of your verifiable request within 10 days and provide information about how we will
+process your request. We will respond to your request within 45 days of its receipt. Should we need more
+time, we will explain to you the reasons why, and how much more time we need. In this regard, please note
+that we may take up to 90 days to fulfill your request.
+Our disclosure(s) will cover the preceding 12-month period.
+Should we deny your request, we will explain you the reasons behind our denial.
+We do not charge a fee to process or respond to your verifiable request unless such request is manifestly
+unfounded or excessive. In such cases, we may charge a reasonable fee, or refuse to act on the request. In
+either case, we will communicate our choices and explain the reasons behind it.
+If you have any questions about this Privacy Policy or our privacy practices, or if you have a disability
+and need to access this notice in a different format, please contact us here or by mail at:
+privacy@mkxtrader.com
+Other Important Privacy Information
+We Never Sell Personal Data.
+We will never sell your Personal Data to any third party.
+Information About Children
+MKX Trader is not intended for or targeted at children under 13, and we do not knowingly or
+intentionally
+collect Personal Data about children under 13. If you believe that we have collected Personal Data about
+a child
+under 13, please contact us here, so that we may delete the information.

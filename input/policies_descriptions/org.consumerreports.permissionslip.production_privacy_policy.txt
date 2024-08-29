@@ -1,0 +1,291 @@
+Privacy Policy
+Last Updated: September 27, 2023 (“Effective Date”)
+Consumer Reports (hereafter “CR”, “we” or “us") is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace.
+We created Permission Slip because we believe consumers should be in control of their own personal information. This Privacy Policy explains how we collect, use, disclose, and store Personal Information when you use the Permission Slip App (“the App”) and related
+web site
+(the “Site”) (collectively, “Permission Slip”). This Privacy Policy is part of the Consumer Reports
+User Agreement , which contains additional information about your relationship with us. “Personal Information” is information that identifies you as an individual or relates to an identifiable individual.
+Table of Contents
+Data Collection and Sources
+Data We Collect Directly From You
+Data We Collect About Your Usage
+Data We Collect From Third Parties
+Data Collected By Third Parties
+Data Processing, Disclosure, Sale, and Sharing
+Advertising
+Deidentified and Aggregated Data
+Collection, Processing, and Disclosure of Sensitive Personal Information
+Data Retention and Deletion
+Safeguarding Your Data
+What Happens If You Close Your Account
+Communications With Users
+Your State Law Privacy Rights
+Your Data Rights
+How to Submit a Request
+Appeal Process
+Authorized Agent
+“Shine The Light” Law
+Children's Privacy
+Changes To This Policy
+Contact Information
+Data Collection and Sources
+Permission Slip collects Personal Information in order to provide the Permission Slip services to you, to improve your experience, and to communicate with you about privacy research, policy and related activities we think might be of interest. We collect Personal Information in three ways: directly from the user, through the user’s interactions with Permission Slip, and from third parties.
+Data We Collect Directly From You
+When you use Permission Slip, we’ll ask you for the following
+Contact and Account Information
+in order to create an account, fulfill your requests, and otherwise engage with you:
+Full name
+Email address(es)
+Password
+Mobile phone number*
+Mailing Address
+State of Residence
+Digital signature
+Additionally, we may collect
+“Feedback Information”
+from you about your opinions, actions and experiences regarding consumer policy issues and other topics, when providing you with customer support and when soliciting feedback about Permission Slip features and functionality.
+We and our service providers collect certain information automatically about your
+interaction with Permission Slip through technical means, including through the use of cookies, web beacons, and other technologies ( “Online Activity and Device Information” ).
+*By submitting your mobile phone number you agree that you are providing Consumer Reports with express written authorization to send a one-time text message to the number provided using automated technology for identity verification purposes.
+Data We Collect About Your Usage
+We collect information to track downloads of the App, which is called
+“Download Information.” Download Information
+we collect includes:
+The make, model, identifier and operating system of your device
+The version of the App you are using
+Whether you successfully downloaded the App
+We also collect information about how you interact with the Permission Slip, which is called
+“Analytics Information.” Analytics Information
+we collect includes:
+The length of time you spend on Permission Slip
+How you navigate through Permission Slip
+Which company profiles you have viewed
+The number and frequency of your interactions with Permission Slip
+How you use Permission Slip features
+Analytics Information includes information obtained through cookies, beacons and other online technologies to collect information about your usage.
+When you send a data deletion, a do not sell my data, or other privacy requests to a company through the App, we collect information about your requests processed through the App.
+This is called
+“Privacy Request Information.” Privacy Request Information
+we collect includes:
+Specific requests you make through the App
+The date, time, and type of the request
+Your authorization for us to make the request
+Any responses from the target company
+We may ask for additional information necessary to process your request. Please note that companies may contact you directly for additional information in connection with your request.
+Data We Collect From Third Parties
+We sometimes receive information about you from third parties. If you arrive at our App or Site through an ad on a search engine, social media network, or another website, the referring service may send us information about how you found us. If you log in to the App using an account on another service, such as Apple or Google, we may receive
+“Third Party Information”
+from that service.
+Data Collected By Third Parties
+Permission Slip relies on third-party services and applications to function, to improve your experience, and for other purposes consistent with our mission. Some of these third parties may collect information about you. For example, since we collect your mobile phone number for identity verification purposes, your wireless carrier may also collect data about your wireless device usage.
+Please note that Permission Slip does not control what information these third parties collect. However, we are committed to data minimization principles and work to limit the amount of information collected by third parties.
+Data Processing, Disclosure, Sale, and Sharing
+The purpose of Permission Slip is to help you learn about companies’ data practices, exercise your data rights and options, and champion individual privacy rights. While we expect that the App’s features will grow over time, the way we use your data will always be consistent with this core mission.
+The following chart details which categories of Personal Information we collect and process, what we use this information for, as well as which categories of Personal Information we disclose to third parties, sell or use for targeted advertising purposes.
+Categories of Personal Information
+Disclosed to Which Categories of Third Parties
+Sold to Which Categories of Third Parties
+Shared with Which Categories of Third Parties for Targeted Advertising
+Processing Purposes
+Contact and Account Information
+Affiliates; service providers; legal authorities; businesses to whom your privacy requests are directed; legal authorities and parties in litigation; third party research partners.
+N/A
+N/A
+Create your account.
+Authenticate your identity.
+Process your requests.
+Analyze App activity.
+Use for research purposes.
+Use in connection with Legal or regulatory process.
+Help protect Permission Slip from cyberattacks.
+Feedback Information
+Affiliates; service providers; business to whom your feedback is directed; third party research partners; legal authorities and parties in litigation.
+N/A
+N/A
+Make our services better and enhance the user experience.
+Measure the use and effectiveness of our content.
+Use for research purposes.
+Privacy Request Information
+Affiliates; service providers; business to whom your privacy requests are directed; third party research partners; legal authorities and parties in litigation.
+N/A
+N/A
+Process your requests.
+Make our services better and enhance the user experience.
+Measure the use and effectiveness of our content.
+Use for research purposes.
+Understand user experiences and views on privacy and related issues and advocate on behalf of consumers.
+Online Activity and Device Information
+Affiliates; service providers; Ad networks, including those operated by social media companies; marketing partners; legal authorities and parties in litigation; third party research partners.
+Ad networks, including those operated by social media companies; service providers
+Ad networks, including those operated by social media companies;
+service providers
+Make our services better and enhance the user experience.
+Advertise our products to people who are likely to be interested.
+Measure the use and effectiveness of our content and advertising.
+Promote our products and services.
+Inform our marketing strategies.
+Monitor and stabilize Permission Slip and address technical errors.
+Use for research purposes.
+Help protect Permission Slip from cyberattacks.
+We may share Personal Information with ad networks operated by social media companies for the purpose of serving you advertisements for Permission Slip, including by targeted advertising.
+Data that advertising networks and social media companies already have about you, so they can identify you on their platform, such as your email address or user ID
+Affiliates; service providers; Ad networks, including those operated by social media companies;
+marketing partners, legal authorities and parties in litigation; third party research partners.
+Ad networks, including those operated by social media companies, service providers
+Ad networks, including those operated by social media companies, service providers
+Allow ad networks to identify and serve ads to users like you who are likely to be interested in our products.
+We may share Personal Information with ad networks operated by social media companies for the purpose of serving you advertisements for Permission Slip, including by targeted advertising.
+Measure the use and effectiveness of our content and advertising.
+Analytics Information
+Affiliates; service providers; legal authorities and parties in litigation; third party research partners.
+N/A
+N/A
+Identify which company profiles users are viewing.
+Identify which app features are most helpful to users.
+Make our digital services better and enhance the user experience.
+Monitor the volume of requests sent through the App.
+Measure the use and effectiveness of our content.
+Inform our marketing strategies.
+Monitor and stabilize the App and address technical errors.
+Use for research purposes.
+Help protect Permission Slip from cyberattacks.
+Download Information
+Affiliates; service providers; Ad networks, including those operated by social media companies; marketing partners; legal authorities; other parties in litigation; third party research partners.
+Ad networks, including those operated by social media companies, service providers
+Ad networks, including those operated by social media companies, service providers
+Make our services better and enhance the user experience.
+Advertise our products to people who are likely to be interested.
+Measure the use and effectiveness of our content and advertising.
+Promote our products and services.
+Inform our marketing strategies.
+Monitor the volume of requests sent through the App.
+Monitor and stabilize the App and address technical errors.
+Use for research purposes.
+Help protect Permission Slip from cyberattacks.
+We may share Personal Information with ad networks operated by social media companies for the purpose of serving you advertisements for Permission Slip, including by targeted advertising.
+Third Party Information
+Affiliates; service providers; legal authorities; other parties in litigation; third party research partners.
+N/A
+N/A
+Authenticate your identity.
+Inform our marketing strategies.
+Find and address technical errors.
+Use for research purposes.
+Help protect Permission Slip from cyberattacks.
+We do not sell your personal information in a way that most people would think of as a sale. However, we do participate in online targeted advertising and use analytics which allows tech companies, in exchange for our use of their services, to use user information collected from our App to improve their own products and to improve the services they provide to others.
+Under some laws, this is considered our "sale" of your user data to third parties.
+You can opt-out of this as provided in the “How to Submit a Request” section below.
+We may disclose your Personal Information in connection with a substantial corporate transaction, which may include the sale of one or more of our businesses, a merger, the creation of a separate business to provide certain of our products and services, or in the unlikely event of bankruptcy.
+Occasionally, we may disclose your information to a third party for legal reasons or in connection with safety and security concerns, such as:
+Compliance with a valid subpoena, warrant, or other legal process
+Detection and investigation of fraud, illegal activity, or violations of the User Agreement
+Prevention of harm to Permission Slip, a user, or a third party
+Protection of the legal rights of Consumer Reports, its users, or a third party.
+If we engage in any of these types of transactions, your Personal Information will be subject to our privacy policy in effect prior to the time of the transfer of that information.
+Advertising
+To help maintain our independence and impartiality, we accept no outside advertising. However, we use third party advertising companies, including social media companies, to serve advertisements for our products to you and to others. They also help us determine the effectiveness of our product advertising.
+You may receive advertisements based on information relating to your access to and use of Permission Slip and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser and use pixel tags. They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.
+We share Personal Information about our users with third party advertising companies, including social media companies, so they can learn about the kinds of audiences that use our products and display advertisements for our services to them and users similar to them.
+We may use Ad networks such as Google Ads and Meta and their associated tracking technologies to help display the Permission Slip ads you may see on other apps and websites, and to help us manage and optimize our advertising efforts. To opt out of Google Ads, you can visit Google’s Ad Settings page. To opt out of receiving behavior-based ads from Meta, you can visit Meta’s ad settings page.
+If you would like more information about behavioral advertising and to learn how to opt out of behavioral advertising in desktop and mobile browsers generally, please visit
+http://optout.aboutads.info/#/
+and
+http://optout.networkadvertising.org/#/ . You may download the AppChoices app at
+www.aboutads.info/appchoices
+to opt out in mobile apps.
+Deidentified and Aggregated Data
+We may also use aggregated and de-identified individual-level data collected from users for research purposes consistent with Consumer Reports’ mission of fighting for fairness in the marketplace. Our research will use the information collected as described in this Privacy Policy and our Consumer Reports
+Survey Policy
+to help consumers exercise their rights, assess companies’ compliance with their obligations under applicable law, and move the marketplace to protect and empower consumers. Our research will also support CR’s engagement and advocacy efforts to influence legislators, regulatory bodies and other marketplace actors.
+We may share de-identified individual-level or aggregated information with manufacturers, regulators, researchers and other third parties for research purposes to help improve the marketplace. Information shared in this way will not identify you individually without your prior written consent.
+Collection, Processing, and Disclosure of Sensitive Personal Information
+We do not knowingly collect any Sensitive Personal Information, as defined by applicable privacy laws, through Permission Slip.
+Data Retention and Deletion
+We keep your information for as long as needed or permitted in light of the purpose(s) for which it was collected and to meet our own legal obligations. This generally means that your Personal Information and request history are retained while your account is active and for five years afterwards, so we can verify requests made through the App.
+Other information may be subject to different retention periods. For example, analytics information about your usage of the App and the Site is generally retained for approximately 24 months. The criteria used to determine our retention periods include:
+The length of time we have an ongoing relationship with you and provide services to you, for example, for as long as you have an account with us or keep using our services, and the length of time thereafter during which we may have a legitimate need to reference your Personal Information to address issues that may arise;
+Whether there is a legal obligation to which we are subject, for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them; and
+Whether retention is advisable in light of our legal position, such as in regard to applicable statutes of limitations, litigation or regulatory investigations.
+Safeguarding Your Data
+We are committed to protecting your information. We have put in place physical, technical and administrative procedures designed to help safeguard and prevent unauthorized access and misuse of your information. When we transmit information over the Internet, we work to protect the information through the use of data encryption methods.
+Security works best when everyone participates. To help keep your information safe, we require a strong password to create an account and recommend you do not share your password with anyone. Please notify us of any unauthorized use of your password or account or any other breach of security.
+While we endeavor to protect the security and integrity of information we collect and transmit via Permission Slip, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
+Visit the Consumer Reports
+Protection of Information
+page to learn more about how the information you provide is secured.
+What Happens If You Close Your Account
+If you choose to close your Permission Slip account:
+Your password is immediately deleted, meaning you can not log in to your account
+Your digital signature and authorization are sent to secure storage
+Your personal information, request history, and other information are set to inactive status
+Because Permission Slip makes data requests to other companies on your behalf, we need to retain information about your use of the App even if you close your account. Inactive information will be deleted after five years unless specific circumstances (such as an ongoing dispute with another company) require us to retain it longer.
+Communications With Users
+When you sign up for a Permission Slip account, you agree to receive email communications from us. Some of these emails are required.
+By using Permission Slip, you agree to receive email communications about important topics such as:
+Technical updates, known bugs, and planned downtime
+Changes to the service, the User Agreement, or this Privacy Policy
+Data breaches or other unauthorized access to your information
+Fraud alerts or suspicious activity on your account
+Any other legally required notices
+For all other communications, including marketing and product updates, you can opt out of communication via an unsubscribe link found in the footer of all emails.
+Please allow up to 10 business days for changes to your email preferences to take effect. During that time, you may continue to receive email communications from us that were already in process.
+Please note that opting out of receiving email or other communications will not affect your receipt of service-related communications such as those relating to your account, order confirmations, renewal/expiration notices, and payment card notifications (if applicable).
+From time to time, we may conduct in-depth research studies with Permission Slip users to understand their experiences and views on privacy and related issues
+Your State Law Privacy Rights
+Some U.S. state laws give residents certain rights to learn about and control how some businesses that meet certain criteria use their data. Specifically, they require that companies covered by the law make certain disclosures regarding the Personal Information they collect, sell and disclose with respect to their state residents.
+As a not-for-profit organization, CR is not covered by each of these laws, but we make the following disclosures consistent with our role as marketplace leader regardless of your state of residence.
+Your Data Rights
+Some U.S. state laws give their residents certain rights in relation to the use and disclosure of their Personal Information. These rights include the following, subject to exceptions allowed by the applicable law:
+Right to Know : Individuals have the right to request, up to twice in a 12-month period, the Personal Information collected from them. This may include:
+The categories and specific pieces of Personal Information collected about you;
+The categories of sources from which the Personal Information was collected;
+The business or commercial purpose for which the Personal Information was collected, shared for targeted advertising, or sold;
+The categories of third parties with whom the Personal Information was otherwise disclosed; and
+The categories of Personal Information that were disclosed for a business purpose, shared for targeted advertising, or sold, and the categories of third parties to whom Personal Information was disclosed for a business purpose, shared for targeted advertising, or sold.
+Right to Delete : Individuals have the right to request to have their Personal Information deleted. If you request that we delete your Personal Information, we will do so, subject to certain exceptions permitted under the applicable law. These exceptions include, but are not limited to, exceptions for non-profit organizations and exceptions allowing us to complete pending requests to other companies, conduct certain forms of research, protect our legal interests, and comply with state and federal law. We may also retain aggregated and/or de-identified information.
+Opt-Out of Sale and Sharing : Individuals have the right to opt-out of the sale of their Personal Information or the use or sharing of their Personal Information for targeted advertising.
+Freedom from Discrimination : Individuals have the right to be free from discrimination for exercising their privacy rights.
+Right to Correct Information : Individuals have the right to request to correct any inaccurate Personal Information.
+How to Submit a Request
+For access or delete requests submit a request
+here , or email us at
+permissionslip@cr.consumer.org .
+To correct your information please email us at
+permissionslip@cr.consumer.org .
+We will verify and respond to your request consistent with applicable law, taking into account the type and sensitivity of the Personal Information subject to the request.
+Colorado residents have the rights to request access, deletion and correction of their Personal Information, and the right to opt-out of our sale of their Personal Information or use or disclosure of it for targeted advertising. We may decline to honor your request where an exception applies, or where there is no legal obligation with which CR must comply.
+We may need to request your phone number and your email address, in order to verify your identity (including via SMS message) and help protect against fraudulent requests.
+To request to opt out of our future sale of your Personal Information and/or our “sharing” of your Personal Information for purposes of cross-context behavioral advertising, or any future processing for purposes of targeted advertising, click
+here
+to go to the web form or email us at
+permissionslip@cr.consumer.org .
+Appeal Process
+If you are a Colorado resident and if we refuse to take action on your request, you may appeal this refusal within a reasonable period after you have received notice of the refusal.
+You may file an appeal by contacting us via
+permissionslip@cr.consumer.org .
+Authorized Agent
+If an agent would like to make a request on your behalf as permitted under applicable law, the agent may use the submission methods noted in the section entitled “Your Data Rights.”
+We will process the agent’s request consistent with applicable law. As part of our verification process, we may request that the agent provide, as applicable, proof concerning their status as an authorized agent.
+In addition, we may require that you verify your identity as described in the section entitled “Your Data Rights” or confirm that you provided the agent permission to submit the request.
+“Shine The Light” Law
+California residents have the right to request information on how their Personal Information is disclosed for direct marketing purposes. However, CR does not disclose any Permission Slip information for direct marketing, so we do not provide a system for opting out of such requests in connection with this service.
+Children's Privacy
+Permission Slip is intended for general audiences and is not directed to children. We do not “sell,” “share,” or knowingly process the Personal Information (including Sensitive Personal Information) of minors under 16 years of age.
+If you are the parent or guardian of a child under age 13 and believe your child has provided us with his or her Personal Information in connection with Permission Slip, please contact us at
+permissionslip@cr.consumer.org . You must be 18 or older to participate in certain activities, such as contests and sweepstakes.
+Changes To This Policy
+We may update this Privacy Policy from time to time. The latest version is always available in the App and the Site, with the date of the new “effective date” at the top. If we make significant changes to this Policy, we may also notify you about changes by additional means, such as by sending an email to the email address we have on file for you, providing an alert in the App and the Site or by other means consistent with applicable law. Continuing to use the App and the Site after the new effective date constitutes your agreement to the revised terms, provided that we will obtain your affirmative consent where legally required and otherwise subject to applicable law.
+Contact Information
+If you have questions about this Privacy Policy, you can reach us via email
+permissionslip@cr.consumer.org
+or by calling +1(914) 378-2159.
+If you feel that we have not followed our Privacy Policy, please let us know by emailing us at
+permissionslip@cr.consumer.org
+and we will do our best to address your concerns. You may also contact:
+Your state or local consumer protection office, The Better Business Bureau (BBB), or The Federal Trade Commission (FTC) by phone at (202) 326-2222 or online at http://www.ftc.gov.
+Any disputes regarding this Privacy Policy are subject to our User Agreement.
+FAQ
+Privacy Policy
+Your Privacy Choices
+User Agreement
+© Copyright 2023 Consumer Reports, Inc. All Rights Reserved.

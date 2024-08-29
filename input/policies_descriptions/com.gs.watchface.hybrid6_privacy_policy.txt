@@ -1,0 +1,42 @@
+Privacy Policy – GS Watchfaces
+Home
+News
+All Apps
+Companion
+Complications
+FAQ / Contact
+Privacy Policy
+Privacy Policy – Information Collection
+Your privacy is of critical importance to us.
+We won’t ask you for any personal information unless it’s needed.
+We won’t share or sell your personal information.
+All data is stored on your devices for functionality purposes, and we don’t have any access to it.
+Permissions used in our apps / watchfaces
+Activity Recognition
+This permission is required to display the steps count.
+Body Sensors
+This permission is required to access the heart rate sensor and display your heart rate.
+Access Fine/Coarse Location
+These permissions are required to get your last known location, which is sent to the weather provider, to get the current weather conditions for your location.
+Access Network State
+This permission is required to check your connectivity to the internet before requesting the weather data.
+Internet
+This permission is required to access the internet and download the weather and location data. No other information is being transferred.
+Vibrate
+This permission is required to get tactile feedback when pressing a button.
+Wake Lock
+This permission is a prerequisite for watchfaces and is also required to wake your smartwatch when you use the Android companion app to edit the watchface settings.
+Bluetooth
+This permission is required by the companion app to check the connectivity of Tizen OS based watchfaces.
+Foreground Service
+This permission is required by the app to prevent it from being killed by the OS. Please also remove the app from any battery optimization service manually.
+Please note, that we may change this Privacy Policy from time to time, so we encourage you to visit this page frequently.
+Follow / Contact
+Facebook
+Instagram
+Telegram
+Mail
+Google Play and Galaxy store logos are trademarks of their respective owners.
+© 2017 – 2023 ·
+GS Watchfaces
+· All rights reserved

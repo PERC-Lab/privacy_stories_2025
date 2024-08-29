@@ -1,0 +1,176 @@
+Privacy
+Policy
+Last Modified: 2023/08/24
+PLEASE REVIEW THE PRIVACY POLICY OUTLINED BELOW BEFORE UTILIZING
+OUR APP. BY ENGAGING WITH OUR APP OR SERVICES, YOU CONSENT TO THE TERMS
+OUTLINED IN THIS POLICY. SHOULD YOU DISAGREE WITH OUR PRIVACY POLICY, PLEASE
+REFRAIN FROM USING OUR APP AND SERVICES. BE AWARE THAT OUR PRIVACY POLICY CAN
+BE UPDATED PERIODICALLY. CONTINUING TO USE OUR SERVICES POST-UPDATES IMPLIES
+YOUR ACKNOWLEDGMENT AND ACCEPTANCE OF THESE CHANGES.
+Your necessary information may be collected for different
+purposes, including:
+1. This application has or will have features
+such as AI beautification, AI painting, photo quality enhancement, and others
+that necessitate the use of deep learning technology. Due to the intensity of
+this technology, images may be uploaded to our high-performance server. If the
+app requires access to your device's photo library, it will seek your
+permission.
+(1) While this app may need to upload and
+process your images for feature functionality, the process is encrypted and
+compliant with legal standards as required to ensure the security of your
+information.
+(2) Your information is used solely for the
+app's functions. Post-processing, images are deleted within 24 hours, while
+images created using the app are removed after 15 days. The technology
+implemented in the application does not allow for unique identification or
+authentication of individual users.
+(3)
+Publicly available datasets or legally obtained datasets are
+used for refining our deep learning features. Your images won't be utilized for
+anything outside of the intended user features.
+(4) Please ensure you possess legal rights for
+uploaded content. If not, you will be responsible for all consequences and
+losses caused.
+(5) Without explicit consent, no information
+from this article will be shared, unless mandated by law or required to
+safeguard the interests of the app, its users, or the general public.
+2. To enhance user experience, we utilize tools
+like Google Firebase, Google AdMob, and Meta for fault correction, illegal use
+prevention, and feature usage statistics collection. This data isn't
+user-specific but is aggregated from all users.
+3. For user assistance, we collect your
+identification and communication details. This information is solely for
+support and is deleted within a year post case resolution.
+4. To analyze your interaction, interests, and
+behaviors within our products.
+INFORMATION COLLECTION
+Information You Provide
+1. When you engage with our services, we
+collect certain personal details you willingly share – including name,
+username, email, phone number, and date of birth – crucial for service
+delivery. This data helps us offer app features, respond to your communications,
+and resolve any application-related concerns. Photos uploaded for edits are not
+disclosed unless we receive clear consent to display them on our platforms or
+third-party services.
+2. Our app's functioning relies on gathering
+user actions like downloads, shares, editing activities, and other interactions
+to understand and enhance user experience.
+3. Using your SIM card or IP address details,
+we pinpoint your approximate location to curate tailored content for you. For a
+seamless and secure app experience, we collect data related to your device and
+its usage. This encompasses unique device identifiers, software version number,
+access network, network quality data, MAC address, operating system, system
+version number, IP address, GUID, device model, system language, country,
+advertising identifier and service log information. Such data assists in
+refining your interaction with advertisements and the app overall.
+4. Both IDFA (found on iPhones or iPads) and
+AAID (present on Android devices) serve as unique device identifiers. These are
+given by your device's operating system, permitting advertisers to identify and
+track users for advertising-related activities. If you wish to disable such
+tracking, here's how you can do it:
+For iOS and iPadOS 14.5 and
+later: Navigate to Settings. Choose Privacy. Select Tracking. From there, you
+can toggle on or off the option that says "Allow Apps to Request to
+Track". Additionally, you can manage tracking permissions for specific apps.
+For older iOS or iPadOS versions: Go to Settings. Head to Privacy. Click on
+Advertising. Activate the "Limit Ad Tracking" button. By following
+these steps, you can gain more control over how advertisers track your
+activities on your device.
+Non-Personally Identifiable Information
+We collect various types of information to
+enhance your app experience. This might encompass details like the kind of
+mobile device you employ, its unique ID, your device's IP address, general
+location data, mobile OS, the internet browsers you prefer, search queries, and
+your overall application usage patterns. To gain insights into user behavior,
+recognize trends, and fine-tune our app, we utilize third-party analytics tools
+like Google Firebase and periodically sample user data. This process helps us
+align our services better with customer needs.
+Use of SDKs
+To enhance our app's functionality, we
+integrate third-party software development kits (SDKs). These SDKs enable our
+advertising partners to gather data directly from our app, optimizing online
+advertising across different platforms and services. If any updates to these
+SDKs arise, we'll incorporate them, ensuring continuous protection of your data
+privacy.
+Machine Learning, Cloud and Server Handling
+For our machine learning capabilities, we rely
+on open datasets and data that has been legally acquired. Importantly, user
+images are not utilized for training or enhancing our features. Furthermore,
+during your engagement with our service, we commit that no User Content will be
+gathered or harnessed by us for service improvements or any other intent.
+When utilizing features that necessitate server
+support, only the photos you explicitly choose for editing are uploaded to the
+cloud. We collaborate with a third-party cloud provider, Alibaba Cloud, for the
+processing and refining of photos. During this editing phase, your data is
+temporarily held on the cloud server and is safeguarded using encryption, with
+the key securely stored on your device. Importantly, these uploaded photos
+remain private and are only accessible if you, the user, decide to share them.
+INFORMATION SHARING
+We may share your information in the following
+ways:
+(1) Service Enhancement: We use the gathered
+information to refine our services and enrich the user experience. This
+includes monitoring overarching metrics like overall visitor count, traffic
+trends, and user demographics.
+(2) Collaboration with Third-party Partners: We
+share non-personal data with trusted third-party partners who pledge adherence
+to relevant laws regarding their data use. These partners might further share
+this data with their affiliates. The main goals for this sharing are to refine
+their services and to serve you tailored advertisements and product/service
+recommendations, taking into account factors such as your location and
+interaction levels.
+(3) Within the bounds of the law, we might
+disclose your information to legal or governmental bodies or private entities.
+Such disclosure would be driven by the need to: Investigate and counteract
+claims, comply with legal processes, such as subpoenas, safeguard our or a
+third party's rights and property, protect against potential legal liabilities,
+ensure the safety of the public or individuals, prevent actions that are
+illegal, unethical, or legally questionable, preserve the security or the
+integrity of our service and associated infrastructure.
+(4) Business Transfers: Should there be any
+significant business transitions – like mergers, acquisitions, asset sales,
+reorganizations, or if facing bankruptcy – we may decide to transfer or share
+some or all of our assets. In such scenarios, if the succeeding entity's
+intended data processing diverges significantly from this Privacy Policy,
+you'll be provided an option to withdraw from such data transfer.
+INFORMATION SECURITY AND RETENTION
+We prioritize the safety of our app users' data
+and are dedicated to implementing measures aimed at guarding the information
+from unauthorized access or potential loss. Nonetheless, it's essential to
+understand that no security system can guarantee absolute protection. The
+channels and systems you use to engage with our services might sometimes face
+security breaches or malfunctions, often due to factors beyond our control.
+In line with our Policy, your data might be
+stored or transferred either within your country or to another location.
+Entrusting us with your information implies your consent to this transfer,
+storage, or processing. Rest assured, we are committed to ensuring that your
+data is treated securely and in alignment with this Policy and the relevant
+laws.
+Typically, we retain your personal information
+for as long as it serves the purpose for which it was collected – be it
+delivering our services or for legal reasons, like regulatory compliance and
+addressing disputes. Once the information no longer serves a purpose, we'll
+usually either erase it or anonymize it. However, it's important to note that
+certain data might need to be stored for specific durations, as mandated by
+legal stipulations.
+UPDATES
+We reserve the right to modify this Privacy
+Policy occasionally for various reasons. Whenever changes are made, we will
+make the updated Policy available on our website and highlight the "Last
+modified" date at the beginning of the document. We encourage you to
+periodically review this Privacy Policy to stay informed about any
+modifications. Your ongoing use of the app after any updates signifies your
+acceptance of these changes.
+CHILDREN’S PRIVACY PROTECTION
+Our applications are not designed to solicit or
+collect personal data from children under the age of 13. To access and utilize
+our services, users must affirm that they are at least 13 years old. In
+instances where we inadvertently obtain information from a child below this age
+threshold, we will take immediate steps to delete that data from our systems.
+Moreover, we strongly advise minors aged 13 and older to obtain parental
+consent before sharing any personal details online.
+CONTACT US
+Should you have any inquiries or wish to
+discuss this policy, please feel free to reach out to us at
+seawardhyacinth@aliyun.com . We are here to assist and address any concerns you may
+have.

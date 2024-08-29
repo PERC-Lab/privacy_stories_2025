@@ -1,0 +1,46 @@
+Fake Location Privacy Policy
+This privacy policy explains what information about you is collected, used and disclosed by this application when you use the application. If you choose to use our services, you agree to our collection and use of information related to this policy. In addition, the personal information we collect is used to provide and improve our services, and we will not use or share your information with anyone except as otherwise provided in this Privacy Policy. We may update this policy at our sole discretion, so you should check this page periodically.
+1. Information Collection and Use
+What and how the information we access or collect is used
+We respect your privacy, so we promise not to process any information related to users' online activities, and our services have no logs. We do not collect any information that might lead us to learn about your online activities. We also do not collect any information about your online activities, and when using our Services, we may ask you to provide us with certain personally identifiable information. Including but not limited to the device information you use, including but not limited to device model, device identification code (IMEI and SN), Android system version, software version and network operator. Mobile device type, identifiers related to identifiable users (such as account ID, account number or account name), mobile operating system, application related information, etc., you can rest assured that we will not collect personal information.
+How we use the information?
+For a better experience, we may ask you to provide us with certain information when using our services. We collect your information only to contact you and improve our services. We will never use your various information for any other purpose, nor disclose your personal information to third parties for commercial interests. Every time you use this application, if an error occurs during the operation of this application, we will record the relevant error information in your log data through the data service and time on your mobile phone. This log data may include your device's Internet Protocol ("IP") address, device name, operating system version, how long you have used the Services, and other statistics so that we can better fix crashes and ANRs.
+2. How do we protect your information?
+We take protecting the confidentiality of your information very seriously. We implement various security measures to maintain the security of your personal information, and we provide the use of secure servers. All sensitive/trusted information provided is transmitted over Secure Sockets Layer (SSL) technology, however no technology can be guaranteed to be 100% secure.
+3. How do we use'cookies'?
+Cookies are files containing small amounts of data, usually used as an anonymous unique identifier. This information is sent to your browser from the websites you visit and stored in your device's memory.The Service does not explicitly use these "cookies". However, this application may use third-party code and libraries that use "cookies" to collect information and improve its services. You can choose to accept or decline these cookies and know when a cookie is being sent to your device. If you choose to reject our cookies, you may not be able to use some parts of the Service.
+4. Third-party partners PRIVACY POLICY
+The Service may contain links to other websites. Our Services may contain links to other websites, and we may include advertisements for other companies. If you click on a third-party link, you will be directed to that site. We do not collect information about you from third parties, but please note that these external sites are not operated by us. Therefore, we strongly recommend that you review the privacy policies of those websites. Because we have no control over and are not responsible for the content, privacy policies or practices of any third-party sites or services.
+5. PERMISSION
+We request some permissions in order for our application to function properly:
+android.permission.ACCESS_WIFI_STATE:
+Allows applications to accessinformation about Wi-Fi networks.
+android.permission.READ_PHONE_STATE:
+Allows read only access to phone state, including the current cellular network information, the status of any ongoing calls, and a list of any PhoneAccounts registered on the device.
+android.permission.ACCESS_COARSE_LOCATION:
+Allows an application to access coarse (e.g., Cell-ID, WiFi)location.
+android.permission.ACCESS_FINE_LOCATION:
+Allows an application to access fine(e.g., GPS) location.
+android.permission.ACCESS_MOCK_LOCATION"
+tools:ignore="MockLocation,ProtectedPermissions:
+Allows an application to create mock location providers fortesting.
+android.permission.INTERNET:
+Allows applications to open network sockets.
+android.permission.ACCESS_NETWORK_STATE:
+Allows applications to accessinformation about networks.
+android.permission.READ_EXTERNAL_STORAGE:
+Allows an application to read from external storage.
+android.permission.FOREGROUND_SERVICE:
+Allows a regular application to use Service.startForeground
+android.permission.VIBRATE:
+Allows access to the vibrator.
+android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS:
+Permission an application must hold in order to use.
+6. Advertise
+We may use third-party advertising service providers to show you advertisements to help support and maintain our Services.
+Our application uses Admob as the advertising provider.
+Advertising providers want to display advertisements that are relevant to you. If you need to know more about it, have a look and check the following links:
+https://support.google.com/admob/answer/6128543?hl=en
+With your permission, advertising providers may use personal data to enhance your advertising experience.
+7. Feedback
+Our privacy policy may change from time to time with development, if you have any questions or suggestions about this privacy policy, you can contact us: developer@videomaker.cool

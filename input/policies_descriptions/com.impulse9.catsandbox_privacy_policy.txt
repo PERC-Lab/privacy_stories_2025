@@ -1,0 +1,30 @@
+Privacy Policy for Cat Sandbox
+Privacy Policy for Cat Sandbox
+This Privacy Policy describes how Mateusz Narolewski ("we", "us", or "our") collects, uses, and discloses information when you use our mobile game Cat Sandbox ("the Game") and the analytics services provided by Firebase.
+By using the Game, you consent to the practices outlined in this Privacy Policy.
+1. Information We Collect
+1.1 Analytics Data
+We use Firebase, a mobile app development platform provided by Google LLC, to collect and analyze certain information about how the Game is used. This includes, but is not limited to:
+Device Information: Such as device type, operating system, and unique device identifiers.
+Usage Information: Such as gameplay data, in-game interactions, and session duration.
+Location Information: If you have enabled location services on your device, we may collect information about your general location.
+1.2 Cookies
+We may use cookies and similar tracking technologies to collect information and improve the Game's functionality.
+2. How We Use Information
+We use the information collected to:
+Understand and analyze how the Game is being used.
+Improve and optimize the Game's performance, features, and content.
+Provide personalized experiences and content within the Game.
+Monitor and analyze usage patterns.
+3. Information Sharing and Disclosure
+We do not share or disclose any personally identifiable information with third parties for marketing or advertising purposes. However, we may share anonymized and aggregated data for analytical purposes.
+4. Third-Party Services
+The Game uses Firebase Analytics, which is governed by Google's Privacy Policy. You can review it
+here .
+5. Security
+We take reasonable measures to protect your information from unauthorized access or disclosure.
+6. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy on our website.
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at
+hcwdikk@gmail.com .

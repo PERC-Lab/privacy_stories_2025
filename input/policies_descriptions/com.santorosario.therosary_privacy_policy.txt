@@ -1,0 +1,40 @@
+Politica de privacidad - Ley Fácil
+Saltar al contenido
+Inicio
+-
+Politica de privacidad
+Politica de privacidad
+La presente Política de Privacidad establece las bases sobre las que
+[AmrStudio]
+procesamos los datos personales y la información recopilada a través de nuestra aplicación.
+1. RECOLECCIÓN DE INFORMACIÓN
+Podemos recopilar información sobre su dispositivo móvil y su uso de nuestra Aplicación. Esto puede incluir información sobre su ubicación, el tipo de dispositivo que está utilizando, su sistema operativo, la configuración de su dispositivo, los identificadores únicos de su dispositivo y otros datos de diagnóstico.
+No recolectamos ninguna información privada, tal como tarjetas de crédito u otros datos sensibles.
+2. USO DE LA INFORMACIÓN
+Utilizamos la información que recopilamos para proporcionar, mantener y mejorar nuestra Aplicación, para desarrollar nuevos servicios, para prevenir el abuso y el fraude, y para personalizar el contenido y las ofertas que le mostramos. O para el desarrollo de la app y la solución de errores.
+3. SERVICIOS DE TERCEROS
+Nuestra aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo. Los enlaces a las políticas de privacidad de los proveedores de servicios de terceros utilizados por nuestra aplicación se proporcionan a continuación para su revisión:
+Google Play Services:
+https://policies.google.com/privacy
+AdMob:
+https://policies.google.com/privacy
+Google Analytics:
+https://policies.google.com/privacy
+Firebase:
+https://firebase.google.com/support/privacy
+Andromo:
+https://www.andromo.com/privacy-policy
+Amazon:
+https://www.amazon.com/gp/help/customer/display.html?nodeId=468496
+Enlaces a otros sitios
+Nuestra aplicación puede contener anuncios con enlaces a otros sitios, así como ha sitio de afiliación. Si decide visitar un anunciante haciendo «clic» en cualquier tipo de anuncio, o hace clic en el enlace de otro tercero, será dirigido al sitio web de ese tercero.
+El hecho de que enlacemos a un sitio web o presentemos un anuncio no supone una aprobación, autorización o representación de nuestra afiliación con ese tercero, ni tampoco una aprobación de sus políticas o prácticas de privacidad o seguridad de la información.
+No ejercemos ningún control sobre los sitios web de terceros. Estos otros sitios web pueden colocar sus propias cookies u otros archivos en su ordenador, recoger datos o solicitarle información personal.
+Otros sitios siguen normas diferentes en cuanto al uso o la divulgación de la información personal que usted les envió. Le recomendamos que lea las políticas o declaraciones de privacidad de los otros sitios web que visite.
+4. COOKIES Y TECNOLOGÍAS SIMILARES
+Utilizamos cookies y tecnologías similares para mejorar y personalizar su experiencia y para mostrarle anuncios relevantes. Puede configurar su navegador para rechazar todas o algunas cookies o para indicarle cuándo se está enviando una cookie.
+5. SEGURIDAD DE LOS DATOS
+Estamos comprometidos a proteger la seguridad de sus datos personales y tomamos todas las medidas razonables para asegurar que su información está tratada de forma segura y de acuerdo con esta Política de Privacidad.
+6. CAMBIOS EN ESTA POLÍTICA DE PRIVACIDAD
+Podemos actualizar nuestra Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página.
+previous next slideshow

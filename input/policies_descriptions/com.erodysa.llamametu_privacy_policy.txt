@@ -1,0 +1,889 @@
+Política de privacidad
+Política de privacidad de LlamameTu
+¡Te damos la bienvenida a la Política de Privacidad de LlamameTu ("Política")! Aquí te explicaremos cómo
+recogemos,
+guardamos, protegemos y compartimos tu información, y con quién lo hacemos. Te aconsejamos que leas esto
+junto a
+nuestros  Términos de
+Servicios .
+Mientras estás disfrutando de la aplicación para móvil de LlamameTu (incluyendo la versión de escritorio)
+("App"),
+nuestros sitios web y micrositios (como http://llamametu.com/) o utilizas nuestros productos y servicios digitales (como
+nuestros concursos o encuestas) (juntos, referidos en esta Política de privacidad como nuestros "Sitios"),
+recopilamos cierta información sobre ti. Además, puedes utilizar la App o Sitios para compartir información
+con
+otros usuarios, incluyendo tus amigos y contactos ("Usuarios"). Puede que tengamos que compartir tu
+información
+en algunos casos.
+La Aplicación y los Sitios web de LlamameTu son globales y tu información será enviada y usada en Estados
+Unidos,
+España y en el Reino Unido, sin importar el país en el que residas. Esta Política describe la manera en la
+que
+protegemos tu información personal cuando es transferida, por lo tanto, léela con detenimiento.
+Quiénes somos
+Las siguientes entidades de LlamameTu actúan como controladores de datos de la información personal recopilada y
+procesada a través de la Aplicación y los Sitios de LlamameTu:
+ERODY S.A
+RUT:218502700012
+Av. Dr. Luis Alberto de Herrera 1248 Torre II, Piso 7, OF 710 (WTC) C.P. 11300 Montevideo Uruguay
+(referidos en esta Política como "nosotros" y "nos").
+LlamameTu cuenta con un Delegado de protección de datos que puede ser contactado a través del siguiente correo
+electrónico a admin@llamametu.com o postal en la siguiente dirección: Calle Navas 50, 4ºA (03001)
+Alicante.
+1. RECUPERACIÓN DE INFORMACIÓN
+Información de registro
+Cuando descargas la App y creas una cuenta ("Cuenta"), puede que recojamos cierta información ("Información
+de
+registro") sobre ti, como:
+Nombre;
+Apellidos;
+Dirección de correo electrónico;
+Número de móvil;
+Identidad de género;
+Fecha de nacimiento;
+Preferencia sexual;
+Fotos;
+Población;
+Provincia;
+País
+Código Postal
+Información de acceso y lista de amigos de las redes sociales que has conectado a tu cuenta de LlamameTu; por
+ejemplo, tus cuentas de Facebook e Instagram. Para obtener más información, consulta "Vinculación de otras
+cuentas a
+LlamameTu" en la sección 7 a continuación.
+También se te pedirá que crees una contraseña en relación con el registro de tu Cuenta. Una vez que te
+registres,
+podrás revisar y cambiar esta información en cualquier momento con solo iniciar sesión en LlamameTu (además de
+tu
+daros
+de localización (que, si le has dado a LlamameTu acceso a tu ubicación en la configuración de tu dispositivo,
+será
+actualizada automáticamente según la ubicación de tu dispositivo) o contactando a través del correo
+admin@erody.com
+de LlamameTu. Es tu responsabilidad asegurarse de que los detalles de tu cuenta se
+mantengan
+actualizados. Si cambias tu número de teléfono, asegúrate de actualizarlo en tu cuenta.
+La información que recogemos ayuda a fortalecer la App y a verificar a nuestros Usuarios (los robots no son
+bienvenidos). La Información de registro como tu preferencia sexual, nombre y nombre de usuario, Ciudad,
+Provincia,
+Código Postal y país, puede estar visible a otros Usuarios en la página de tu perfil.
+Para aquellos usuarios que residan en California, los datos que podemos recopilar pertenecen a las siguientes
+categorías de "información personal", según lo define la Ley de Privacidad del Consumidor de California
+(CCPA):
+A. Identificadores, como nombre y ubicación;
+B. Información personal, como se define en la ley de registros de clientes de California, como contacto
+(incluyendo
+correo electrónico y número de teléfono) e información financiera;
+C. Características de las clasificaciones protegidas bajo la ley de California o federal (si elige
+proporcionarlas),
+como edad, identidad de género, estado civil, orientación sexual, raza, ascendencia, origen nacional,
+religión y
+condiciones médicas;
+D. Información comercial, como información de transacciones e historial de compras;
+E. Información biométrica (no relevante aquí);
+F. Información de actividad de Internet o de la red, como el historial de navegación y las interacciones con
+nuestros sitios web y aplicaciones;
+G. Datos de geolocalización, como la ubicación del dispositivo móvil;
+H. Información de audio, electrónica, visual y similar, como fotos y videos;
+I. Información profesional o relacionada con el empleo, como el historial laboral y el empleador anterior;
+J. Información de educación no pública; y
+K. Inferencias extraídas de cualquiera de la información personal mencionada anteriormente para crear un
+perfil
+o
+resumen sobre, por ejemplo, las preferencias y características de un individuo.
+Información de perfil
+Recomendamos y pedimos reflexionar sobre qué información se revela. De la misma manera, desaconsejamos
+publicar
+cuentas de correo, URLs, datos del chat, números de teléfono, nombres completos con direcciones, datos de
+las
+tarjetas bancarias, documentos nacionales de identidad, carnets de conducir y cualquier tipo de información
+personal
+en el perfil de forma que esté abierta y accesible a un posible abuso o mal uso.
+Cuando publicas información sobre ti o usas el chat, la información que compartas estará bajo tu
+responsabilidad.
+Dirígete al punto 4 para más información de quién tiene acceso a lo que publicas en LlamameTu.
+Información de Verificación del perfil
+Por motivos de seguridad y para garantizar que tengas la mejor experiencia de usuario posible, solicitamos a
+los
+Usuarios que verifiquen sus cuentas y es posible que solicitemos tu número de teléfono y, en algunos casos,
+también
+podríamos pedirte que realices la Verificación por foto ¡Queremos asegurarnos de que no eres un robot!
+Y
+también queremos evitar que se creen cuentas de LlamameTu falsas que puedan usarse para actividades maliciosas y
+delitos
+cibernéticos: amenazan la red de LlamameTu y estropean las cosas para todos. Es posible que solicitemos esta
+verificación para prevenir el fraude. También puedes verificar tu foto de forma voluntaria (para agregar la
+insignia
+del saludo LlamameTu "verificado" a su perfil).
+Información sobre compras
+Si decides comprar cualquiera de nuestros servicios premium, procesaremos tu información de pago y la
+retendremos de
+manera segura para prevenir fraude y por propósitos relacionados con controles de auditoría o impuestos.
+LlamameTu utiliza decisiones automatizadas como parte de sus procedimientos anti-fraude, para prevenir que se
+efectúen
+transacciones de pago fraudulentas. Para llevar esto a cabo, nuestros sistemas revisan transacciones de pago
+que
+puedan indicar que hay un incumplimiento de nuestras Términos de Servicios. Si una transacción cumple
+con
+ciertos criterios que demuestren que las Términos de Servicios podrían haberse incumplido, la transacción
+será
+bloqueada de forma automática. Si una transacción se bloquea, se notificará a los usuarios afectados para
+informarles de que su transacción no pudo ser procesada y estos podrán ponerse en contacto con LlamameTu para
+rebatir la
+decisión.
+En caso de que tu cuenta sea bloqueada, cualquier otra cuenta(s) que tengas en nuestro otro
+grupo/plataformas/aplicaciones también será bloqueada como parte de nuestros procedimientos anti-fraude y
+anti-spam.
+Información de geolocalización
+Si le has dado a LlamameTu acceso a tu ubicación en la configuración de tu dispositivo, cuando uses tu
+dispositivo
+móvil, recopilaremos información sobre los puntos de acceso WiFi, así como otra información de ubicación
+sobre
+tu
+longitud y latitud, y podemos guardar las coordenadas de su dispositivo para ofrecerte ciertas funciones.
+Esta
+información nos ayuda a identificar tu ubicación física y la usamos para personalizar la App y facilitarte
+la
+interacción con otros Usuarios, al permitir que la información general de la localidad se muestre a los
+Usuarios
+que
+ven tu perfil y te muestran los perfiles de otros Usuarios que están cerca de ti
+Si has dado acceso a LlamameTu a los servicios de ubicación pero deseas deshabilitarlos, puedes hacerlo siguiendo
+uno de
+los siguientes métodos:
+Aplicación para iPhone: Ajustes > Privacidad, Rastreo > LlamameTu - Desactivar
+Aplicación para Android: Ajustes > Ubicación > LlamameTu > Permisos > Ubicación
+Información del dispositivo
+Podemos recoger información sobre el dispositivo en el que usas la App incluyendo el identificador de
+dispositivo,
+modelo, sistema operativo y direcciones MAC para una serie de propósitos, como se establece en esta
+política.
+Enlaces
+Podemos registrar cómo usas los enlaces disponibles en LlamameTu incluyendo servicios de terceros recogiendo los
+clics y
+otros datos. Además, podremos compartir estadísticas sobre estos datos, como el número veces que un enlace
+es
+seleccionado.
+Cuando contactas con el Equipo de atención al usuario
+Si contactas con nuestro Equipo de Atención al Usuario a través de nuestro e-mail
+admin@erody.com
+,
+recibiremos tu dirección de correo electrónico, la información que nos envíes para ayudarte a resolver tu
+consulta y
+puede que localicemos tu dirección IP. Guardaremos una copia de las comunicaciones que nos envíes así como
+de
+las
+denuncias que has hecho de otros usuarios (y también las que hayas recibido).
+Cookies y tecnologías similares
+Cuando visitas nuestros Sitios o cuando utilizas nuestra App, podemos recopilar tus datos personales
+automáticamente
+mediante el uso de cookies o tecnologías similares. Una cookie es un pequeño archivo que se puede colocar en
+tu
+dispositivo o navegador y que nos permite reconocerte y recordarte. Si deseas obtener más información sobre
+las
+cookies, incluido cómo las usamos y qué opciones tienes disponibles, consulta nuestra
+Política de cookies .
+USO DE TU INFORMACIÓN
+Nuestro objetivo es asegurar que tu experiencia en LlamameTu sea gratificante, sin malas experiencias. Para
+lograrlo,
+podemos usar tu información de registro y otra información para:
+ofrecerte nuestros servicios y funciones;
+contactarte con información sobre la App (actualizaciones, ofertas, etc.);
+personalizar la App/Sitios y el contenido que te ofrecemos;
+llevar a cabo estudios y análisis sobre el uso de la App/Sitios web;
+resolver disputas, solucionar problemas y garantizar el cumplimiento de nuestras Términos de Servicios.
+investigar fraudes, proteger los derechos legales y garantizar el cumplimiento de las Términos de Servicios.
+proteger a nuestros Usuarios y terceros de cualquier daño.
+Prácticas de moderación
+Utilizamos una combinación de sistemas automatizados y un equipo de moderadores para monitorear y revisar las
+cuentas (incluidas las fotos y cualquier otra información cargada en los perfiles de los usuarios) y los
+mensajes
+con contenido que indique infracciones de nuestras Términos de Servicios. Si una cuenta o mensaje cumple con
+ciertos
+criterios que demuestran que es probable que se hayan infringido las Términos de Servicios, la cuenta
+correspondiente estará sujeta a una advertencia y el acceso del usuario restringido y/o bloqueado. Los
+Usuarios
+afectados pueden ponerse en contacto con LlamameTu para impugnar la decisión a través del e-mail
+admin@erody.com.
+Si publicas algo que no concuerde con nuestras Términos de Servicios, nos reservamos el derecho de
+cancelar o
+restringir el acceso a tu Cuenta.
+Base legal
+Según las leyes de protección de datos de la UE y el Reino Unido, estamos obligados a informarte sobre
+nuestra
+base
+legal para usar tus datos y la hemos establecido en la tabla a continuación. Cuando la base legal sea el
+consentimiento, puedes retirar el consentimiento en cualquier momento. Cuando la base legal sean intereses
+legítimos, tienes derecho a oponerte al uso que hagamos de tus datos. Explicamos en las secciones relevantes
+de
+esta
+Política cómo puedes retirar el consentimiento o excluirte de ciertos usos de datos (cuando corresponda).
+Finalidad para la que usamos estos datos
+DATOS
+FUENTE
+FUNDAMENTO JURIDICO
+Para proporcionarte los servicios de la red social LlamameTu.
+Nombre, dirección de correo electrónico, fecha de nacimiento, ubicación (Categorías A y B del
+CCPA).
+Tú nos proporcionas tu nombre, dirección de correo electrónico y fecha de nacimiento. Obtenemos
+datos de ubicación del dispositivo que utilizas para acceder al servicio.
+Necesidad contractual
+Para facilitar la creación de contactos en LlamameTu.
+Información de carácter opcional que decidas facilitar en tu perfil, que puede incluir
+información
+sobre tus preferencias sexuales, género no binario, religión, origen étnico, fotografías, etc.
+(Categorías C, H, I, J del CCPA).
+Tú nos facilitas esta información.
+Consentimiento
+Para verificar tu identidad, prevenir fraude y garantizar la seguridad de nuestros usuarios
+Número de teléfono y, si se solicita, foto proporcionada como parte de la verificación del
+perfil
+(Categorías B y H del CCPA).
+Tú nos facilitas está información.
+Intereses legítimos: asegurarnos que las cuentas no han sido creadas de manera fraudulenta y
+proteger a los usuarios del sitio está en nuestros intereses legítimos.
+Para aceptar pagos por servicios premium (no aplicable a Usuarios efectuando pagos a través de
+la
+App Store de Apple).
+Datos de la tarjeta de pago (Categorías B y D del CCPA).
+Tú nos facilitas está información.
+Necesidad contractual
+Para permitir que nuestros Socios publicitarios publiquen anuncios dirigidos en nuestra App y
+Sitios
+(esto incluye anuncios en vídeo para obtener una recompensa)
+Identificador de publicidad asociado con tu dispositivo (ID de dispositivo), edad, sexo y
+dirección
+IP (y tus ubicaciones estimadas según tu dirección IP) (Categorías A, C y G del CCPA)
+Obtenemos tu edad y sexo de ti, y la ID del dispositivo y la dirección IP del dispositivo que
+utilizas para acceder al servicio.
+Consentimiento: según lo indicado por ti en tus preferencias de Configuración de
+privacidad/Configuración de cookies y a través de las preferencias de privacidad de tu navegador
+o
+dispositivo (cuando lo requiera el fabricante de tu dispositivo (por ejemplo, dispositivos Apple
+que
+usan iOS 14.5)
+Para poner tarjetas promocionales y anuncios en la aplicación.
+Ubicación, sexo, edad e información que nos has proporcionado opcionalmente a través de tu
+perfil
+(Categorías A, C y G del CCPA)
+Obtenemos información sobre tu edad, sexo y perfil de ti, y datos de ubicación del dispositivo
+que
+utilizas para acceder al servicio.
+Intereses legítimos: personalizar la publicidad para que nuestros usuarios vean anuncios
+relevantes
+que nos permitan generar ingresos de la publicidad está en nuestros intereses legítimos.
+Para poder enviarte información de marketing sobre nuestros eventos, ofertas y servicios.
+Nombre, dirección de correo electrónico, dirección postal, Instagram handle y número de teléfono
+móvil (Categorías A y B de la CCPA)
+Tú nos facilitas esta información.
+Consentimiento o intereses legítimos y de acuerdo con las leyes que se aplican a nuestras
+actividades de marketing. Tenemos un interés legítimo en promocionar nuestro negocio y nuestros
+productos
+Para contactarte para llevar a cabo encuestas de investigación y conocer tus opiniones y para
+consultar si quieres participar en campañas de marketing.
+Dirección de correo electrónico y número de teléfono móvil (Categoría B del CCPA).
+Tú nos facilitas esta información.
+Intereses legítimos: realizar investigaciones para poder desarrollar la app y mejorar el
+servicio
+está en nuestros intereses legítimos.
+Para permitir que los usuarios creen su perfil de LlamameTu y accedan a la app a través de Facebook.
+Datos de Facebook, incluyendo dirección de correo, nombre, foto de perfil, fecha de nacimiento,
+amigos que usan la app, páginas que te gustan, ubicación y fotos (Categorías A, B, C, y H del
+CCPA).
+Obtenemos esta información de Facebook.
+Intereses legítimos: promover nuestros productos y servicios está en nuestros intereses
+legítimos.
+Para mostrarte usuarios cercanos a ti.
+Puntos de acceso WiFi y datos de ubicación cuando uses nuestra App (si das permiso) (Categoría G
+del
+CCPA).
+Obtenemos esta información del dispositivo que utilizas para acceder al servicio (si das
+permiso).
+Intereses legítimos: ofrecer esta funcionalidad como parte del servicio está en nuestros
+intereses
+legítimos.
+Para llevar a cabo análisis que nos ayuden a mejorar la App.
+Puntos de acceso WiFi y datos de ubicación cuando uses nuestra App (si das permiso) (Categoría G
+del
+CCPA).
+Obtenemos esta información del dispositivo que utilizas para acceder al servicio (si das
+permiso).
+Intereses legítimos: ofrecer esta funcionalidad como parte del servicio está en nuestros
+intereses
+legítimos.
+Para llevar a cabo análisis que nos ayuden a mejorar la App.
+Datos de registro y de utilización, incluyendo direcciones IP, tipo de navegador, dominio de
+referencia, páginas a las que se ha accedido, operador de telefonía móvil y términos de búsqueda
+(Categorías F y H del CCPA).
+Proporcionas fotos y videos para usar. Obtenemos la información de registro y uso del
+dispositivo
+que utilizas para acceder al servicio.
+Intereses legítimos: analizar la manera en la que nuestros Usuarios acceden y usan nuestros
+servicios para que podamos mejorar la App y mejorar nuestros servicios está en nuestros
+intereses
+legítimos.
+Para responder a la correspondencia y consultas que nos envías, incluidas consultas en redes
+sociales.
+Dirección de correo electrónico, dirección IP, nombre en la red social y número de teléfono
+(Categorías B y F del CCPA).
+Tú nos facilitas la dirección de correo electrónico, tu nombre en la red social y tu número de
+teléfono cuando te pones en contacto con nosotros, y nosotros obtenemos la dirección IP del
+dispositivo que utilizas para contactarnos.
+Intereses legítimos: responder a sus consultas para asegurarnos de que ofrecemos un buen
+servicio a
+nuestros usuarios y solucionamos problemas está en nuestros intereses legítimos.
+Para bloquear cuentas como parte de nuestros procedimientos de anti-spam.
+Dirección de correo electrónico, número de teléfono, dirección IP e información de sesión IP, ID
+de
+red social, nombre de usuario, texto de agente de usuario (Categorías B y F del CCPA).
+Tú nos facilitas el correo electrónico, número de teléfono y nombre de usuario, y nosotros
+obtenemos
+la otra información del dispositivo que utilizas para contactarnos.
+Intereses legítimos: prevenir cualquier comportamiento no autorizado y mantener la seguridad de
+nuestros servicios está en nuestros intereses legítimos.
+Para investigar y bloquear a los Usuarios por infracciones denunciadas de nuestras Términos de
+Servicios
+Nombre y detalles de registro, información de perfil, contenido de mensajes y fotografías; datos
+de
+uso y del dispositivo, como la dirección IP y la información de la sesión IP (Categorías A, B,
+C, F
+y H del CCPA)
+Tú nos proporcionas tus datos de registro, información de perfil, mensajes y fotografías.
+Nosotros
+obtenemos el resto de información del dispositivo que utilizas para acceder al servicio.
+Intereses legítimos: prevenir comportamientos no autorizados para mantener la seguridad e
+integridad
+de nuestros servicios está en nuestros intereses legítimos.
+Para habilitar las funciones de videollamada y llamada de audio y el envío de imágenes y video.
+Datos de uso de videollamadas y llamadas de audio, imágenes y video (Categorías F y H del CCPA)
+Obtenemos esta información del dispositivo que usas para acceder al servicio
+Intereses legítimos: proporcionar estas funcionalidades como parte de los servicios está en
+nuestros
+intereses legítimos.
+Para crear un perfil más adecuado para ti, lo que nos ayuda con los matches y a personalizar el
+servicio.
+Las apps instaladas en tu dispositivo (solo Android) (categorías F y K del CCPA)
+Obtenemos esta información del dispositivo que usas para acceder a nuestro servicio.
+Consentimiento
+Para defender demandas legales, proteger derechos legales y evitar que haya personas que
+resulten
+perjudicadas.
+Pueden incluir cualquier información que sea pertinente para el caso en cuestión.
+Esta información se puede obtener directamente de ti, de tu dispositivo o de terceros, según la
+información de la que se trate.
+Intereses legítimos: proteger nuestros derechos legales, defender demandas legales y evitar que
+nuestros Usuarios y terceros resulten perjudicados está en nuestros intereses legítimos.
+3. DIVULGACIÓN DE INFORMACIÓN.
+Nuestra política es no divulgar tus datos personales, excepto en las circunstancias limitadas que se
+describen a
+continuación:
+Circunstancias en las que se pueden divulgar datos
+Datos divulgados
+Proveedores de servicios: contratamos a terceros de confianza para que realicen funciones y nos
+brinden servicios. Podemos compartir tu Información de registro o datos personales con estos
+terceros, pero solo con el fin de realizar estas funciones y proporcionar dichos servicios. Más
+información sobre esto disponible directamente debajo
+Esto podría incluir todos los datos, incluidas todas las categorías CCPA enumeradas
+anteriormente.
+Moderadores: para controlar la actividad en la App y aprobar el contenido.
+Identificador de publicidad asociado con tu dispositivo (ID de dispositivo), edad, sexo y
+dirección
+IP (y tus ubicaciones estimadas según tu dirección IP) (Categorías A, C y G del CCPA)
+Ley y abusos: como se expone en los
+Términos de Servicios , es esencial que todos los Usuarios se respeten
+mientras usan la App. Cooperaremos con terceros para hacer que se respeten su propiedad
+intelectual
+y cualesquiera otros derechos. Asimismo, responderemos a las solicitudes de los cuerpos de
+seguridad
+tanto de tu país de residencia como de otros países cuando se nos exija por ley, cuando haya una
+investigación sobre una presunta conducta delictiva, o para proteger los intereses vitales de
+una
+persona. Por ello, esto puede incluir que preservemos o revelemos cualquier parte de tu
+información,
+incluyendo la relativa al registro, si así determinamos que es necesario para cumplir con la
+ley,
+regulación o solicitud legal pertinente; para proteger la seguridad de cualquier persona,
+descubrir
+actividades fraudulentas y problemas técnicos o de seguridad, como por ejemplo a través de
+proveedores de servicios antispam que protegen el servicio de actividades criminales; o para
+proteger nuestra propiedad y nuestros derechos, así como aquellos de terceros. En tales casos,
+plantearemos o renunciaremos a todas cuantas objeciones de orden jurídico o derechos de los que
+dispongamos.
+Esto podría incluir cualquier información personal que LlamameTu tenga, dependiendo de la naturaleza
+de
+la solicitud o del problema que estamos tratando, incluidas todas las categorías CCPA enumeradas
+anteriormente.
+Proveedores de servicios de marketing: para ayudarnos a ofrecer servicios de marketing y
+publicidad
+en sitios web y aplicaciones de terceros y medir la eficacia de nuestras campañas publicitarias.
+Más
+información sobre esto está disponible a continuación.
+Identificador de publicidad asociado con su dispositivo (ID de dispositivo), ubicación estimada
+(basada en su dirección IP), edad, sexo y datos sobre tu visita a nuestros Sitios o App y las
+medidas tomadas al respecto (por ejemplo, si descargaste nuestra App o creaste una cuenta con
+nuestra App), dirección de correo electrónico con hash (sólo para "audiencias personalizadas")
+(Categorías B, C, G, F y K del CCPA)
+Empresas de telecomunicaciones y procesamiento de pagos: para facilitar los pagos de nuestros
+servicios premium
+Nombre del titular de la tarjeta, dirección del titular de la tarjeta, número de la tarjeta,
+monto
+del pago, fecha/hora de la transacción (Categorías A, B y D del CCPA)
+Transferencias comerciales: en el caso de que una entidad del LlamameTu o cualquiera de sus
+afiliados se
+someta a una transición comercial o cambio de propiedad, como una fusión, adquisición por otra
+compañía, reorganización o venta de todos o una parte de sus activos, o en caso de insolvencia o
+administración, es posible que se nos solicite divulgar tus datos personales a un comprador de
+la
+totalidad o parte del negocio o a un perito en insolvencias.
+Esto podría incluir todos los datos personales que LlamameTu tiene, incluidas todas las categorías
+CCPA
+enumeradas anteriormente.
+Antispam y antifraude: tus datos pueden compartirse con otras empresas del LlamameTu, por ejemplo,
+para
+bloquear cuentas y transacciones sospechosas de pagos fraudulentos como parte de nuestros
+procedimientos de antispam y anti fraude.
+Esto podría incluir todos los datos personales que LlamameTu tiene, incluidas todas las categorías
+CCPA
+enumeradas anteriormente.
+Antispam y antifraude: tus datos pueden compartirse con otras empresas del LlamameTu, por ejemplo,
+para
+bloquear cuentas y transacciones sospechosas de pagos fraudulentos como parte de nuestros
+procedimientos de antispam y anti fraude.
+Esto puede incluir la dirección de correo electrónico, número de teléfono, dirección IP e
+información de sesión IP, ID de red social, nombre de usuario, agente de usuario y datos de
+transacciones y pagos (Categorías B, F
+Información agregada: podemos compartir información agregada con terceros que incluye tus datos
+personales (pero que no te identifican directamente) junto con otra información, incluidos los
+datos
+de registro para análisis de la industria y perfiles demográficos.
+MÁS INFORMACIÓN SOBRE DIVULGACIONES
+Compartir tus datos personales con Proveedores de servicios
+Contratamos a ciertos terceros de confianza para que realicen funciones y nos brinden servicios ("Proveedores
+de
+servicios"). Los proveedores con los que LlamameTu comparte los datos personales del Usuario varían según una
+variedad
+de factores, como con cuál de nuestras Aplicaciones, Sitios y servicios se relaciona un Usuario. Por
+ejemplo,
+para
+proporcionar nuestros servicios a los Usuarios, normalmente utilizamos los siguientes proveedores:
+Servicios de facturación: para permitir que los clientes compren funcionalidades de pago de nuestra App (por
+ejemplo, Google Play)
+Servicios de autenticación: para permitir a los clientes autenticar su cuenta (por ejemplo, enlace por
+e-mail)
+Proveedores de redes sociales: para permitir a los clientes crear/conectar su cuenta de LlamameTu con su(s)
+cuenta(s) en
+dichas plataformas (por ejemplo, Facebook o Instagram).
+Servicios de marketing de crecimiento: para permitirnos comercializar y publicitar LlamameTu a clientes
+potenciales
+(por
+ejemplo, AppsFlyer y Facebook).
+Servicios de tecnologías de la información: algunos de los proveedores de software de terceros utilizados en
+la
+operación de nuestro negocio pueden procesar los datos personales de los Usuarios (por ejemplo, si un
+Usuario
+contacta con nosotros a través de las redes sociales con una consulta de ayuda, su consulta es procesada por
+el
+departamento de atención a usuario.
+Llevamos a cabo la debida diligencia con todos los Proveedores de servicios que contratamos para asegurarnos
+de
+que
+cuentan con medidas adecuadas de protección de datos y seguridad de la información y solo les proporcionamos
+los
+datos personales necesarios para el servicio que brindan. Nuestros proveedores también estén sujetos a
+amplias
+obligaciones en virtud de nuestros acuerdos contractuales, incluidos límites estrictos de retención de
+datos.
+Compartir tus datos personales con Proveedores de servicios de marketing y Socios publicitarios
+Podemos asociarnos con editores publicitarios para colocar anuncios de terceros en nuestra Aplicación y
+Sitios
+("Socios publicitarios"). También nos asociamos con proveedores de servicios de marketing (como Facebook,
+por
+ejemplo) ("Proveedores de servicios de marketing") para ayudarnos a comercializar y publicitar nuestra
+Aplicación y
+servicios en sitios web y aplicaciones de terceros y medir la eficacia de nuestras campañas publicitarias.
+Por
+ejemplo:
+para excluirte de campañas publicitarias destinadas a encontrar nuevos usuarios, si ya tienes una cuenta de
+LlamameTu;
+para mostrar anuncios de LlamameTu a los usuarios que han visitado la App o los Sitios de LlamameTu, pero que aún no
+han
+creado una cuenta de LlamameTu;
+para crear una audiencia para nuestros anuncios de otros usuarios potenciales que tienen características
+similares a
+las tuyas en función de la información que los Proveedores de servicios de marketing tienen sobre ti
+(también
+conocida como Audiencia similar); o
+para incluirte en una "audiencia personalizada" que recibirá contenido publicitario de LlamameTu (una audiencia
+personalizada es esencialmente una lista de personas que creemos que es más probable que estén interesadas
+en un
+anuncio en particular).
+Compartimos una cantidad limitada de tus datos personales con empresas que nos ayudan con el marketing y la
+publicidad como:
+el identificador de publicidad asociado con tu dispositivo. Es un número aleatorio asignado por el fabricante
+de
+tu
+dispositivo móvil (por ejemplo, Apple o Google) para ayudar a los anunciantes (incluido el fabricante) a
+saber
+cuándo se ha visto un anuncio o se ha hecho clic en la App o sitios, y cuándo un anuncio genera una
+"conversión"
+(por ejemplo, descargar la aplicación que se te anuncia)
+Tu ubicación estimada (basada en tu dirección IP)
+edad y género
+datos sobre tu visita a nuestros Sitios o App y las acciones tomadas al respecto (por ejemplo, si descargaste
+nuestra App o creaste una cuenta con nuestra App)
+Una versión con hash* de tu dirección de correo electrónico (para crear "audiencias personalizadas").
+*El hash es una forma de encriptar la información convirtiéndola en una combinación de números y letras
+aleatorias;
+este código no puede ser rastreado hasta la dirección de correo electrónico. Cuando se envían direcciones de
+correo
+electrónico con hash a un proveedor de servicios de marketing, se comparan con la lista existente del
+proveedor
+de
+la información con hash de sus propios usuarios y nuestros anuncios se muestran a aquellos de nuestros
+usuarios
+que
+se han emparejado con éxito con los del proveedor. Luego, el proveedor elimina los hash coincidentes y no
+coincidentes.
+Para obtener más información sobre cómo utilizamos las cookies y otras tecnologías de seguimiento, incluido
+cómo
+puedes configurar y administrar tus preferencias con respecto a dichas tecnologías, consulta nuestra  Política de cookies .
+Algunas plataformas requieren el consentimiento del usuario antes de que se le permita a LlamameTu usar los datos
+obtenidos a través de la plataforma con fines publicitarios y, cuando este sea el caso, LlamameTu solo usará
+estos
+datos
+cuando se haya obtenido el consentimiento necesario. A través de la configuración de privacidad de tu
+dispositivo,
+también tienes la opción de evitar o limitar los identificadores de dispositivos que se comparten con
+anunciantes de
+terceros y el uso que se hace de los identificadores de dispositivos.
+En algunos casos, estos terceros también utilizarán los datos que recopilan para sus propios fines, por
+ejemplo,
+pueden agregar tus datos con otros datos que tienen y utilizarlos para informar los servicios relacionados
+con
+la
+publicidad que se brindan a otros clientes.
+Compartir con Facebook
+Ya que compartimos datos con Facebook como nuestro Proveedor de servicios de marketing (incluso a través de
+la
+función "Me gusta" de Facebook), somos Controladores de datos conjuntos con Facebook Irlanda para este
+proceso.
+Este
+acuerdo significa que LlamameTu tiene que proporcionarte este aviso, pero debes comunicarte con Facebook si
+quieres
+ejercer tus derechos de protección de datos. Puedes encontrar más información, incluida la forma en que
+Facebook
+te
+permite ejercer tus derechos de protección de datos y, posteriormente, procesar tu información como
+controlador
+de
+datos independiente en la  Política de datos de Facebook
+Irlanda . Si quieres obtener más información relacionada con la naturaleza del acuerdo que tenemos
+con
+Facebook, envía un correo electrónico a
+admin@erody.com .
+Estos datos mencionados anteriormente pueden incluir acciones que realices en nuestro sitio web, como tus
+interacciones con nuestros Sitios u otra información recopilada de cookies o tecnologías similares, incluido
+el
+píxel de Facebook. Esto nos permite medir la efectividad de nuestra publicidad, mejorar nuestras prácticas
+de
+marketing y nos ayuda a ofrecer publicidad más relevante para ti y personas como tú (incluso en redes
+sociales
+como
+Facebook).
+4. QUÉ PUEDEN VER LOS DEMÁS DE TI
+Creemos que nuestros Usuarios son maravillosos y lo queremos compartir con el resto del mundo, por lo que
+hemos
+diseñado una serie de funciones para mostrarlo. Nuestra App está diseñada para que conectar con otros
+Usuarios e
+interactuar con ellos sea más fácil.
+Al usar LlamameTu, deberías asumir que cualquier cosa que publiques o subas a la aplicación puede ser
+vista y
+accesible públicamente, tanto por Usuarios y como por no-usuarios de la App. Por ello, queremos que nuestros
+Usuarios tengan cuidado con qué información publican ya que puede llegar a ser pública en algún momento.
+Por favor, ten cuidado al publicar datos personales sobre ti en el perfil, tales como datos religiosos o
+relacionados con tu salud. Aunque te pidamos información de tus preferencias sexuales cuando te registras,
+no
+tienes
+obligación de señalarlas. Recuerda que las fotos que publiques en LlamameTu también pueden revelar algún tipo de
+información personal.  Allí donde publiques fotos o información personal, estarás dando
+consentimiento a
+que
+procesemos dicha información y la hagamos pública al resto de Usuarios .
+Tu perfil de LlamameTu y otra información que pongas a disposición a través de la App, incluida cierta
+información
+añadida a tu perfil a través de cuentas de terceros (como Facebook o Instagram; consulta la sección 7 de
+esta
+Política de privacidad para obtener más información sobre esto) pueden ser vistos y compartidos por los
+Usuarios
+con
+personas que pueden o no ser usuarios de la App. Por ejemplo, un Usuario puede recomendarte como pareja a
+su(s)
+amigo(s) de Facebook tomando una captura de pantalla de tu foto de perfil y compartiéndola,
+independientemente
+de si
+dicho(s) amigo(s) también es Usuario de la App.
+Ten en cuenta también que en ciertos países (actualmente, solo en Corea del Sur), los Usuarios cuentan con
+una
+funcionalidad que les permite descargar una copia de su historial de conversaciones (ya que esto es
+requerido
+por
+las leyes locales) y que LlamameTu no tiene control sobre cómo los usuarios pueden publicar o utilizar esa
+información.
+Si inicias sesión o accedes a la App a través de tu cuenta de Facebook u otra cuenta de terceros en un
+dispositivo
+que compartes con otros, recuerda cerrar la sesión de la App y la cuenta de terceros relevante cuando dejes
+el
+dispositivo para evitar que otros usuarios accedan a tu cuenta de LlamameTu.
+5. NUESTRA POLÍTICA CON RESPECTO A LA EDAD.
+Aunque queremos tener cuántas más personas mejor, necesitas tener al menos 18 años para usar la App. Lo
+sentimos
+por
+aquellos que aún no los hayáis cumplido, ¡volved cuándo los cumpláis!
+LlamameTu no recopila a sabiendas ninguna información sobre niños o cualquier persona menor de edad. De la misma
+manera,
+tampoco intentamos atraer a nuestra página a menores de edad. Si nos damos cuenta de que un menor de edad se
+ha
+registrado en LlamameTu y nos ha facilitado información personal, tomaremos las medidas oportunas para bloquear
+el
+registro de dicha persona y eliminar su Perfil de LlamameTu. Si borramos un Perfil por haber violado nuestra
+política de
+menores, podremos guardar tu correo electrónico y dirección IP para que no vuelvas a crear un nuevo Perfil
+en
+nuestra página.
+6. SEGURIDAD.
+LlamameTu ha implementado las medidas de seguridad adecuadas para proteger y prevenir la pérdida, mal uso, acceso
+no
+autorizado o divulgación y alteración de la información bajo nuestro control, incluidos tus datos
+personales.
+Usamos
+medidas de seguridad razonables para salvaguardar la confidencialidad de tu información personal. Nuestros
+expertos
+técnicos en LlamameTu se esfuerzan por garantizar que tu uso de nuestro sitio es seguro.
+Desafortunadamente, ninguna transmisión en Internet puede estar 100% segura y por ello no podemos asegurar
+que
+nunca
+ocurrirá algún caso de acceso desautorizado, pirateo, pérdida de datos, etc. Sin embargo, aquí tienes
+algunos
+consejos para mantener tus datos seguros:
+1.- Asegúrate de salir de tu Cuenta cada vez que uses la aplicación, así solo tú sabrás los datos de acceso.
+2.- No compartas tu contraseña con nadie.
+3.- Cambia de contraseña periódicamente.
+7. VINCULAR OTRAS CUENTAS CON LlamameTu
+Uso de los datos de tus redes sociales para iniciar sesión en LlamameTu
+Cuando inicias sesión en nuestra aplicación con tu cuenta de Facebook, le das permiso a Facebook para
+compartir
+con
+nosotros tu nombre y foto de perfil. A menos que optes por no aceptar, también le das permiso a Facebook
+para
+compartir con nosotros tu dirección de correo electrónico (si hay una asociada con tu cuenta de Facebook),
+fecha
+de
+nacimiento, fotos de perfil, género, los me gusta en las páginas y pueblo/ciudad actual.
+Si te registras o inicias sesión con tu ID de Apple, le das permiso a Apple para compartir tu inicio de
+sesión
+de
+Apple, un nombre (que puedes editar) y un correo electrónico (puedes optar por ocultar tu correo electrónico
+y
+Apple
+creará un dirección de correo electrónico aleatoria para que tu correo electrónico personal pueda permanecer
+privado). Esta dirección de correo electrónico se vinculará a tu cuenta de LlamameTu y se utilizará para
+recuperarla.
+Luego, utilizaremos estos datos personales para crear tu cuenta de LlamameTu. Si eliminas la aplicación LlamameTu de
+tu
+configuración de Facebook, o de tu ID de Apple, ya no tendremos acceso a estos datos. Sin embargo, todavía
+tendremos
+los datos personales que recibimos cuando configuraste por primera vez tu cuenta de LlamameTu con tu Facebook o
+tu
+ID de
+Apple (debes eliminar tu cuenta de LlamameTu por completo para que ya no tengamos acceso a estos datos).
+8. TUS DERECHOS DE PRIVACIDAD EN CALIFORNIA
+Aquellos usuarios que residan en California, tienen los siguientes derechos (además de los que se enumeran en
+la
+sección 9 a continuación) en virtud de la Ley de Privacidad del Consumidor de California, y tienen derecho a
+no
+sufrir discriminación ilegal por ejercer sus derechos en virtud de la Ley:
+1.- Tienes derecho a solicitar que te facilitemos cierta información y te expliquemos cómo hemos recopilado,
+utilizado y compartido tu información personal durante los últimos 12 meses.
+2.- Tienes derecho a solicitar que eliminemos tu información personal que hemos recopilado, sujeto a ciertas
+excepciones.
+La ley "Shine the Light" de California, de la sección del Código Civil 1798.83, requiere que ciertos negocios
+respondan a peticiones de clientes de California sobre las prácticas de dichos negocios con relación a la
+revelación
+de información personal a terceros con propósitos de marketing. Si deseas saber más sobre los derechos que
+alberga
+está ley de la sección del Código Civil 1798.83 de California, escríbenos a admin@erody.com
+De vez en cuando, como parte de una promoción conjunta con un tercero, podemos, si participas en dicha
+promoción,
+divulgar tu información de contacto al tercero para permitirle que comercialice sus productos o servicios.
+Cuando
+esto sea una condición para participar en una promoción, siempre te lo haremos saber antes de que accedas a
+ella.
+Sigue las instrucciones proporcionadas por terceros para darte de baja de sus mensajes.
+Además, bajo la ley de California, los operadores están obligados a revelar cómo responden a las señales de
+"no
+seguimiento" o mecanismos similares que dan la posibilidad a los clientes de ejercer su derecho a saber cómo
+esas
+terceras compañías recogen su información personal, y el papel que juega el operador. En ese caso, no
+seguimos
+la
+información personal de cada usuario en los servicios que ofrecen esos terceros. Esta ley obliga a los
+operadores de
+servicios online a revelar si las empresas terceras pueden recoger información personal sobre las
+actividades
+online
+de los usuarios cuando los usuarios utilizan dichos servicios. Nosotros no permitimos deliberadamente que
+esos
+terceros recopilen información personal sobre las actividades de ningún usuario mientras usan la App.
+9. TUS DERECHOS.
+Las leyes de privacidad aplicables en tu país pueden otorgarte los siguientes derechos:
+1.- Derecho a estar informado: qué datos personales procesa una organización y por qué (es decir, este
+aviso).
+2.- Derecho de acceso: puedes solicitar una copia de sus datos.
+3.- Derecho de rectificación: si los datos que se contienen son inexactos, tienes derecho a que se corrijan.
+4.- Derecho de cancelación: tienes derecho a que se eliminen tus datos en determinadas circunstancias.
+5.- Derecho a la limitación del tratamiento: en circunstancias limitadas, tienes derecho a solicitar que se
+detenga
+el procesamiento pero que se retengan los datos.
+6.- Derecho a la portabilidad de datos: puedes solicitar una copia de sus datos en un formato legible por una
+máquina que se pueda transferir a otro proveedor.
+7.- Derecho de oposición: en determinadas circunstancias (incluso cuando los datos se procesan en base a
+intereses
+legítimos o con fines comerciales) puedes objetar a este procesamiento.
+8.- Derechos relacionados con la toma de decisiones automatizada, incluida la creación de perfiles: existen
+varios
+derechos en este ámbito en los que el procesamiento se lleva a cabo de forma totalmente automática y da
+lugar a
+una
+decisión que tiene efectos legales o significativos para el individuo. En estas circunstancias, tus derechos
+incluyen el derecho a garantizar que hay intervención humana en el proceso de toma de este tipo de
+decisiones.
+Los derechos concretos que te son aplicables (que podrían incluir otros derechos no enumerados anteriormente)
+pueden
+variar en función de tu país. Debes informarte de los derechos que te asisten en virtud de las leyes de
+privacidad
+aplicables en tu país.
+Si deseas ejercer cualquiera de los derechos enumerados arriba, envía un correo electrónico a nuestro
+Delegado
+de
+protección de datos admin@erody.com . También puedes contactar con nosotros remitiendo un escrito por correo
+postal
+a la siguiente dirección: Calle Navas 50, 4ºA (03001) Alicante España. Para tu protección y la protección de
+todos
+nuestros Usuarios, es posible que necesitemos solicitarte información específica para ayudarnos a confirmar
+su
+identidad antes de que podamos responder a las solicitudes anteriores.
+Si tienes alguna inquietud acerca de cómo hemos procesado tu solicitud o tus datos personales, deberías
+contactar
+con nosotros en primera instancia a través de los datos de contacto enumerados anteriormente.
+Si crees que no hemos resuelto tu inquietud, tienes derecho a presentar una queja en cualquier momento ante
+la
+Oficina del Comisionado de Información (ICO), la autoridad supervisora del Reino Unido para cuestiones de
+protección
+de datos ( www.ico.org.uk ). Si vives en un país o
+territorio
+ubicado en la Unión Europea (UE) o en el Espacio Económico Europeo (EEE), también puedes ponerte en contacto
+con
+tu  Regulador de
+protección
+de
+datos . Si resides en un país fuera de la UE, puedes tener derecho a presentar una reclamación ante
+el
+organismo regulador de la privacidad o la protección de datos de tu país.
+Representante de la UE
+De conformidad con el artículo 27 del Reglamento General de Protección de Datos (RGPD), LlamameTu ha designado a
+Miguel
+Angel Boix Rocamora como su representante de RGPD en la UE. Si normalmente resides en un Estado miembro de
+la
+UE,
+puedes ponerte en contacto con
+Miguel Angel Boix Rocamora
+con respecto a asuntos relacionados con el
+RGPD
+mediante:
+El formulario de solicitud en línea en
+ERODY S.A
+Dirección postal: Calle Navas 50, 4ºA (03001) Alicante
+10. UBICACIÓN DE DATOS.
+Queremos que puedas acceder a LlamameTu desde donde quiera que te encuentres en el mundo. Para poder brindar ese
+servicio, operamos una red global de servidores que incluye EE. UU., el Reino Unido, la Unión Europea y
+(para
+los
+Usuarios que ese encuentren en Rusia) Rusia. El hardware está ubicado en centros de datos de terceros pero
+es
+propiedad de LlamameTu. Los datos recopilados por Socios publicitarios también pueden ser guardados fuera del
+Reino
+Unido y del Espacio Económico Europeo. Nos aseguramos de que los datos estén adecuadamente protegidos
+garantizando
+que existan mecanismos legales válidos, como por ejemplo: cláusulas modelo aprobadas por la UE (que podrás
+encontrar aquí) y la implementación de estándares contractuales sólidos. Si deseas obtener más
+información
+sobre la naturaleza de las garantías vigentes, por favor, envía un correo electrónico a
+admin@erody.com
+.
+11. RETENCIÓN Y ELIMINACIÓN DE DATOS.
+Guardamos tu información personal solo durante el tiempo que la necesitemos para la base legal en la que nos
+basamos
+(como se establece en la Sección 2 anterior) y según lo permita la ley aplicable.
+Puedes eliminar permanentemente tu Cuenta en cualquier momento (¡aunque realmente esperamos que no lo hagas!)
+y
+comenzaremos el proceso para eliminar tu información personal de nuestros sistemas, a menos que:
+1.- debemos guardarla para cumplir con la ley aplicable (por ejemplo, si realizas compras dentro de la App,
+es
+posible que se deban conservar algunos datos personales con fines contables);
+2.- debemos guardarla para demostrar nuestro cumplimiento con la ley aplicable;
+3.- existe un problema, reclamo o disputa pendiente que requiere que guardemos la información relevante hasta
+que se
+resuelva; o
+4.- la información debe guardarse para nuestros intereses comerciales legítimos, como la prevención del
+fraude y
+la
+mejora de la seguridad de los Usuarios. Por ejemplo, es posible que sea necesario guardar información para
+evitar
+que un usuario que fue bloqueado por exhibir un comportamiento peligroso o incidentes de seguridad abra una
+nueva
+cuenta.
+Ya que LlamameTu utiliza el aprendizaje automático para, por ejemplo, ayudarnos a detectar y prevenir
+transacciones
+fraudulentas con tarjeta y a detectar y prevenir mensajes que contengan spam en la aplicación (como se
+explica
+más
+arriba), puede que necesitemos almacenar alguna información personal durante más tiempo del que se menciona
+más
+arriba, para que el aprendizaje automático sea efectivo. Cuando esto suceda, se buscará siempre minimizar la
+cantidad de información personal que se utiliza y nos aseguraremos siempre de que esté protegida y
+almacenada de
+forma segura e independiente de otra información del usuario. Revisamos regularmente durante cuánto tiempo
+debe
+ser
+guardada la información personal para contribuir al aprendizaje automático y eliminamos cualquier
+información
+que
+pueda servir para identificar en el momento en que deja de ser necesaria.
+Para prevenir abuso o mal uso de LlamameTu por parte de cualquier Usuario tras la eliminación del perfil/Cuenta,
+debemos
+guardar cierta información bajo absoluta discreción para prevenir que dicho Usuario vuelva a abrir una nueva
+cuenta
+si ha violado nuestras Términos de Servicios y así asegurar que se cumplen todo tipo de leyes y
+regulaciones.
+Atención:  Incluso después de que elimines información de tu perfil o elimines tu Cuenta, es
+posible
+que
+se puedan ver y/o acceder a copias de esa información en la medida en que dicha información se haya
+compartido
+previamente con otros, o copiado o almacenado por otros. No podemos controlar esto, ni aceptamos ninguna
+responsabilidad por ello. Si has dado acceso a tu información personal a aplicaciones o sitios web de
+terceros,
+estos pueden retener dicha información en la medida en que lo permitan sus términos de servicio o políticas
+de
+privacidad.
+Gracias por leer toda la información
+12. MODIFICACIONES DE ESTA POLÍTICA.
+Tal y como LlamameTu evoluciona, podemos revisar esta Política de Privacidad de vez en cuando. La versión más
+actual
+de
+la política regirá nuestro uso de tu información y siempre podrá ser consultada en este documento. Si
+hacemos
+algún
+cambio en esta política que, bajo nuestra responsabilidad, sea material te avisaremos por medio de correo
+electrónico asociado a tu Cuenta o mediante la publicación de un aviso dentro de LlamameTu.
+Fecha efectiva. Esta Política de privacidad fue actualizada el 01 de Octubre de 2021.

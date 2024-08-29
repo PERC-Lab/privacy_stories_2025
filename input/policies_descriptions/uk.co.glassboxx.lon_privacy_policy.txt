@@ -1,0 +1,1 @@
+{"id":14,"identifier":"app-privacy-policy","title":"App - Privacy Policy","page_layout":"empty","meta_title":"","meta_keywords":"","meta_description":"","content_heading":"Privacy Policy ","content":"

@@ -1,0 +1,199 @@
+Homeaglow
+Menu
+Become a Cleaner
+Book a Cleaning
+Sign In
+Help
+Consumer Privacy Policy
+Last Updated:
+May 2, 2022
+Welcome to the website of Homeaglow, Inc. (doing business as Homeaglow), and its subsidiaries, affiliated brands, and affiliated companies, ( "Homeaglow", "we" ,
+"us" , or
+"our" ). Homeaglow created the website homeaglow.com, as it may be modified, relocated and/or redirected from time to time, (the
+"Site" ), and associated mobile applications (the
+"App" ) (the Site and App together are the
+"Platform" ) to provide information about Homeaglow, to facilitate the provision of residential professional services including residential cleaning (the
+"Professional Services" ) by independent contractors ( "Service Providers" ), and to provide Homeaglow's matching and related services for the Professional Services (collectively, the
+"Services" ). In the USA, we are a Delaware corporation with our head office at 2711 Centerville Road, Suite 400, Wilmington, New Castle County, Delaware 19808.
+Please read this Privacy Policy carefully so that you understand how we treat your information. By using any of our Services, you confirm that you have read, understood, and agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use any of the Services. If you have any queries, please email us at
+privacy@homeaglow.com .
+Assistance for The Disabled
+Alternative formats of this Privacy Policy are available to individuals with a disability. Please contact
+privacy@homeaglow.com
+for assistance.
+This Privacy Policy explains:
+The categories of personal information we collect about you
+The categories of sources from which we collect your personal information
+The purposes for which we use your personal information
+How we may disclose your personal information
+Privacy rights
+Changes to this Privacy Policy
+CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+We do not collect any information from anyone under 13 years of age. The Platform and Homeaglow's services are all directed to people who are at least 13 years old or older. If you are under the age of 13, you are not authorized to use the Platform.
+Scope:
+This Privacy Policy applies to the personal information of individuals who review, book, and receive Professional Services through the Platform and Services ( "Consumer" ,
+"you" , or
+"yours" ). It does not apply to the Service Providers, except for California Service Providers, for whom it does apply. "Consumer" also does not include (a) Homeaglow's employees, contract workers, or applicants or employees or (b) agents of a business engaged in a transaction with Homeaglow in their capacities as employees or agents of that business.
+"Personal information"
+means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular Consumer or household.
+Other web sites
+The Platform may contain links to web sites and services not operated or controlled by Homeaglow ("Third Party Sites"). The policies and procedures we described here do not apply to Third Party Sites. The links from the Platform do not imply that Homeaglow endorses or has reviewed the Third Party Sites. We suggest contacting those sites and services directly for information on their privacy policies.
+1. THE CATEGORIES OF PERSONAL INFORMATION WE COLLECT ABOUT YOU
+Identifiers , for example: real name, telephone number, postal address, e-mail address, unique personal or online identifier, login credentials, and account name.
+Commercial Information , for example: records of products or services purchased, purchasing or consuming histories or tendencies including information about your home (e.g., number of rooms, instructions for cleaning, etc.) that you give us for purposes of obtaining Professional Services and metrics information about when and how you use the Services.
+Internet Activity Information , for example:interactions with Homeaglow's Internet web site including, browsing history and search history, device data, browser information, operating system characteristics, Internet service provider and IP address.
+Location data (Service Providers) , for example: We collect precise or approximate location data from Service Providers’ mobile devices when the Homeaglow app is running in the foreground (app open and on-screen) or background (app open but not on-screen).
+Homeaglow collects such data from the time a Service Provider sends their ETA until the Service Provider is onsite or an hour after the service is expected to be completed, whichever is sooner.
+Service Providers may use the Homeaglow app without enabling collection of location data from their mobile devices. However, this may affect certain features in the Homeaglow app.
+Financial information : for example: payment information to pay for Services, such as debit or credit card information, bank account information, signatures, and billing addresses.
+Sensory or Surveillance Data , for example: voice-mails; recordings as described below in "User Content".
+User content:
+We collect the data you submit when you contact customer support, provide ratings, or otherwise contact Homeaglow. This may include feedback, photographs, or recordings you might create, including audio or video recordings you submit in connection with customer support.
+Demographic data:
+We may collect demographic data about you, including through surveys.
+Communications data:
+During our communications with you, we collect the content of these communications as well as metadata about the communications, for example: date and time of the call or text (SMS or MMS) message and phone numbers.
+Inferences:
+We may draw inferences about you from other personal information we collect. For example, we might infer based on your use of a regular cleaning service at a previous address that you would be interested in a regular cleaning service at a new address.
+More about payment card information:
+Although users can submit credit card or other payment card information to pay for Services through the Platform, Homeaglow does not store this information itself. Payment card information is securely transmitted to a third-party payment card processor. The processor then communicates to Homeaglow whether your payment has cleared, and provides a secure payment token, but does not provide payment card information to Homeaglow.
+Do we use cookies?
+Yes. Cookies are small files that the Platform or our service provider transfers to your computer's hard drive through your web browser that enables the Platform's or service provider's systems to recognize your browser and capture and remember certain information. We use cookies to help us understand how users use the Platform. For example, cookies gather information about how long you spend on a web page so that we can understand what web pages are of most interest to users.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off cookies by adjusting your browser settings. If you turn off your cookies, some of the features on the Platform may not function properly.
+Web beacons.
+We include small graphic images or other web programming code, called web beacons (also known as "pixel tags", "web bugs" or "clear GIFs"), on the Platform. The web beacons are minute graphics with a unique identifier. They are used to track the online movements of web users. In contrast to cookies, which are stored in a user's computer hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
+We may collect your email address via cookies and pixels on the Website through the use of trusted third party partners. These partners may combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via direct mail. If you do not want us to collect information about you, please contact us to opt out at
+privacy@homeaglow.com .
+2. THE CATEGORIES OF SOURCES FROM WHICH WE COLLECT YOUR PERSONAL INFORMATION
+You:
+Homeaglow collects personal information from the individual him/herself, as voluntarily provided by that individual, via the Platform, in person, or through forms and surveys embedded in the Platform.
+Automated Technologies:
+Homeaglow also collects Internet Activity Information through automated technologies on the Platform, e.g., cookies.
+Government:
+Homeaglow may receive personal information from law enforcement officials, public health officials, and other government authorities.
+Google, Facebook, and other companies:
+Homeaglow may receive personal information, for example, from social media platforms, consumer research companies, and analytics or marketing/advertising companies.
+Affiliated brands:
+Homeaglow may receive personal information from other entities within the Homeaglow, Inc. family of brands.
+Public internet sources:
+Homeaglow may collect personal information about you from internet sources such as public databases.
+Recording Technologies:
+Homeaglow may also collect personal information about you from voicemail technologies and audio/video recording technologies with consent to the extent required by law for example when you contact customer support or provide feedback.
+Other sources:
+Homeaglow may also collect personal information about you from other sources such as referrals from other users and feedback from Service Providers.
+3. THE PURPOSES FOR WHICH WE USE YOUR PERSONAL INFORMATION
+Providing matching and related services for the Professional Services:
+To submit, track, and facilitate your requests for Professional Services.
+To process payments.
+To provide you with products, or services that you request from us.
+To carry out our obligations arising from any contracts between you and us.
+To allow you to participate in interactive features of the Services when you choose to do so.
+To enable and facilitate communications through the Services and between you and us.
+We may use location data to calculate Service Provider ETAs and track progress of service.
+Support and Marketing:
+For customer support.
+To ensure content from the Services is presented in the most effective manner for you and for your computer or other device from which you access the Services.
+To notify you about changes to the Services.
+To improve or modify the Services, for example based on your feedback and how you use the Services.
+To calculate conversion rates and other elements of the Services' performance.
+For marketing, advertising, and promotional purposes.
+To perform operations to maintain the Services, including to troubleshoot software bugs and operational problems; to conduct data analysis, testing, and research; and to monitor and analyze usage and activity trends.
+Monitoring, Security, and Compliance:
+To comply with legal obligations.
+To monitor compliance with Homeaglow policies.
+To protect the rights, property, or safety of Homeaglow, Consumers, or others.
+To conduct internal audits and investigations and monitor use of Homeaglow information systems and other electronic resources or information systems.
+In connection with a corporate transaction, sale, or assignment of assets, merger, divestiture, or other changes of control or financial status of Homeaglow or any of its subsidiaries or affiliates.
+To report suspected criminal conduct to law enforcement and cooperate in investigations.
+To exercise Homeaglow's rights under applicable law and to support any claim, defense, or declaration in a case or before a jurisdictional and/or administrative authority, arbitration, or mediation panel.
+Tracking Across Time and Different Sites
+The Platform tracks your online activities over time and across websites or online services on an individually identifiable basis. For example, we may serve you advertisements on other websites based on what appeared to interest you on our Platform. We allow third parties to use our Platform to track your activities over time or across other websites.
+Deidentified Information
+At times, Homeaglow converts personal information into deidentified information using reasonable measures to ensure that the deidentified information cannot be associated with the individual ("Deidentified Information"). Homeaglow maintains Deidentified Information in a deidentified form and does not attempt to reidentify it, except that Homeaglow may attempt to reidentify the information solely for the purpose of determining whether its deidentification processes ensure that the information cannot be associated with the individual. Homeaglow prohibits vendors, by contract, from attempting to reidentify Homeaglow's Deidentified Information.
+4. HOW WE MAY DISCLOSE YOUR PERSONAL INFORMATION
+Homeaglow generally maintains the confidentiality of your personal information. However, Homeaglow may have a legitimate business need to disclose your personal information for one of the purposes listed in Section 3, above, to one or more of the categories of external recipients listed below.
+Vendors : Homeaglow discloses your personal information to service providers and contractors for the purposes above to assist us in providing the Services and in meeting our business needs and legal obligations. Homeaglow only discloses your personal information to service providers and contractors subject to written contracts as required by applicable law.
+Service providers and contractors include law firms, auditors, IT service providers, marketers, and any other entity providing services to Homeaglow.
+Service Providers : If you submit a service Request through our Services, we will disclose information to the Service Provider as necessary for the Service Provider to provide their Professional Services, for example, your address, requested service details, and name.
+Affiliated brands : Other brands within the Homeaglow, Inc. family of brands.
+Required Disclosures:
+We may be required to disclose personal information in a court proceeding, in response to a court order, subpoena, civil discovery request, other legal process, or as otherwise required by law.
+Legal Compliance and Protections:
+We may disclose personal information when we believe disclosure is necessary to comply with the law or to protect the rights, property, or safety of Homeaglow, our users, or others.
+Corporate Transactions:
+We may disclose your personal information in connection with a corporate merger, consolidation, bankruptcy, the sale of all, or substantially all, of our membership interests and/or assets or other corporate change, including to any prospective purchasers.
+Sale or share of personal information:
+To opt out of the sale or sharing of your personal information,
+click here to submit an opt out request .
+5. PRIVACY RIGHTS
+HOW TO EXERCISE YOUR RIGHTS
+Except for opt-out rights, which are described in the applicable subsection below, you can submit requests to exercise your rights in the following ways:
+Call
+(833) 450-1848 .
+Email
+privacy@homeaglow.com .
+Homeaglow may need to verify your identity in accordance with applicable law.
+PRIVACY RIGHTS FOR CALIFORNIA RESIDENTS
+This Subsection ("Privacy Rights for California Residents") applies only to California residents who are Consumers.
+Data Retention
+Homeaglow's Record Retention Schedule (the
+"Schedule" ), a copy of which can be requested by emailing
+privacy@homeaglow.com , has been created to ensure that records are kept as long as legally and operationally required. The Schedule sets forth the appropriate retention periods for various types of records based upon applicable retention obligations imposed by law as well as the operational needs and requirements of Homeaglow.
+Your California Privacy Rights
+Subject to applicable law, California residents have the following rights:
+Right to Opt Out of Sales:
+You have the right to opt out of sales of your personal information.
+You can
+click here to OPT OUT OF SALES .
+You can also submit a request by sending an email to
+privacy@homeaglow.com .
+Right to Know:
+You have the right to submit a verifiable request for copies of specific pieces of your personal information collected in the preceding 12 months and for information about Homeaglow's collection, use, and disclosure of your personal information during that same 12-month time period.
+In addition, you have a right to know the categories of your personal information that Homeaglow sold or shared for cross-context behavioral advertising and the parties to which those categories were sold or shared.
+Right to Delete:
+You have the right to submit a verifiable request for the deletion of personal information that you have provided to Homeaglow.
+Right to Correct:
+You have the right to submit a verifiable request for the correction of inaccurate personal information maintained by Homeaglow, taking into account the nature of the personal information and the purposes of processing the personal information.
+Right to Restrict Use and Disclosure of Sensitive Personal Information:
+You have the right to restrict Homeaglow's use and disclosure of your sensitive personal information to purposes permitted under the CPRA, such as security, quality control, uses required by law, and disclosures to vendors in support of the permitted purposes. This right only applies to sensitive personal information collected or processed by Homeaglow for the purpose inferring characteristics about you.
+Inferring characteristics:
+Homeaglow does not collect or process sensitive personal information for the purpose of inferring characteristics about Consumers.
+How We Will Verify Your Request:
+The processes that we follow to verify your identity when you make a request to know and delete and correct are described below. The relevant process depends on how and why the request is submitted.
+If you submit a request by any means other than through a password-protected account that you created before the date of your request, the verification process that we follow will depend on the nature of your request as described below:
+Requests to Know Categories Or Purposes:
+If you request to know how we collect and handle your personal information, we will match at least two data points that you provide with your request, or in response to your verification request, against information about you that we already have in our records and that we have determined to be reliable for purposes of verifying your identity. Examples of relevant data points include your mobile phone number, your zip code, or information about products or services that you have purchased from us.
+Requests to Know Specific Pieces Of Personal Information:
+We will match at least three data points that you provide with your request to know, or in response to our request for verification information, against information that we already have about you in our records and that we have determined to be reliable for purposes of verifying your identity. In addition, we may require you to sign a declaration under penalty of perjury that you are the individual whose personal information is the subject of the request.
+Requests to Correct or Delete Personal Information:
+Our process for verifying your identity will depend on the sensitivity (as determined by Homeaglow) of the personal information that you ask us to correct or delete. For less sensitive personal information, we will require a match of two data points as described in Point No. 1, above. For more sensitive personal information, we will require a match of three data points and a signed declaration as described in Point No. 2, above.
+We have implemented the following additional procedures when verifying the identity of requestors:
+If we cannot verify your identity based on the processes described above, we may ask you for additional verification information. If we do so, we will not use that information for any purpose other than verification.
+If we cannot verify your identity to a sufficient level of certainty to respond to your request, we will let you know promptly and explain why we cannot verify your identity.
+Authorized Agents
+If an authorized agent submits a request to know or delete on your behalf, the authorized agent must submit with the request either (a) a power of attorney that is valid under California law, or (b) a document signed by you that authorizes the authorized agent to submit the request on your behalf. In addition, we may ask you or your authorized agent to follow the applicable process described above for verifying your identity. You can obtain "Authorized Agent Designation" form by contacting us at
+privacy@homeaglow.com .
+Homeaglow's Non-Discrimination Policy
+Homeaglow will not unlawfully discriminate against you for exercising your privacy rights under the California law.
+Do Not Track Setting
+Some web browsers incorporate a “Do Not Track” feature (DNT) that signals to the websites that you visit that you do not want to have your online activity tracked. Many websites and applications, including our Platform, do not currently respond to web browser DNT signals because such signals are not yet uniform. For more information about DNT signals, please visit
+http://allaboutdnt.com.
+Disclosures for Direct Marketing Purposes
+California Consumers who use the Services may request that we provide certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes. You can
+click here to submit an opt out request .
+PRIVACY RIGHTS FOR COLORADO AND VIRGINIA RESIDENTS
+If you would like to opt out of targeted advertising,
+click here to submit an opt out request .
+Homeaglow does not use profiling of Consumers to make decisions with legal or similarly significant effects on the Consumer.
+6. CHANGES TO THIS PRIVACY POLICY
+If we change this Privacy Policy, we will post those changes on this page and update the Privacy Policy modification date above. If we materially change this Privacy Policy in a way that affects how we use or disclose your personal information, we will provide a prominent notice of such changes and the effective date of the changes before making them.
+For More Information
+For questions or concerns about Homeaglow's privacy policies and practices, please contact us at
+privacy@homeaglow.com .
+© Homeaglow 2015-2023 Terms
+|
+Privacy
+|
+California Do Not Sell My Personal Information
+|
+Help
