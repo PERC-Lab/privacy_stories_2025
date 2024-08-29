@@ -17,6 +17,7 @@ Use annotator/processor.ipynb to load an excel file for annotation and modify th
 navigate to the annotator directory and run
 
 ```python main.py```
+
 open the link provided in terminal 
 This does rely on the model outputting stories in the proper format of 1. {story}, 2. {story} , etc...
 
