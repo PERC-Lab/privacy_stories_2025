@@ -9,7 +9,7 @@ graphs_stories/graphs.ipynb
 #### To create privacy stories 
 upload a privacy policy file to the input folder and use story_prompting1.ipynb
 Run through processing and prompting, note: This has not yet been made very efficient, throughout each step please update the relevant app information. 
-output -> check output for your new csv 
+output -> output/{app_name}_privacy_stories.xlsx 
 
 
 #### To annotate/answer questions about output privacy stories
