@@ -4,7 +4,7 @@
 
 ### Overview
 
-**Privacy Stories** This repository puts together the work I did for privacy stories throughout 2023-2024. There are several items throughout the repo we will not mention here including apsjs (to get info from the play store) and most of the utils (extra, other functions to get the data required for this project...) 
+**Privacy Stories** This repository puts together the work I did for privacy stories throughout 2023-2024. There are several items throughout the repo we will not mention here including apsjs (to get info from the play store to use this navigate to this directory and ```npm install google-play-scraper``` then call desired files) and most of the utils (extra, other functions to get the data required for this project...) 
 
 ---
 
