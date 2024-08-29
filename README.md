@@ -8,7 +8,8 @@ graphs_stories/graphs.ipynb
 
 #### To create privacy stories 
 upload a privacy policy file to the input folder and use story_prompting1.ipynb
-output -> output/{app_name}_privacy_stories.xlsx 
+output -> output/{app_id}_privacy_stories.xlsx 
+or leave output file blank to have all sent to privacy_stories_1_1.xlsx
 
 
 #### To annotate/answer questions about output privacy stories
@@ -20,5 +21,7 @@ navigate to the annotator directory and run
 open the link provided in terminal 
 This does rely on the model outputting stories in the proper format of 1. {story}, 2. {story} , etc...
 
+#### To view annotated policies 
+policies_annotated/annotated_policies/{app_id} 
 
 
