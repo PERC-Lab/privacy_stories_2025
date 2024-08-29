@@ -2,7 +2,8 @@
 
 
 
-#### To create graphs based on annotated privacy policies that display connections of actions, data types and purposes -> graphs_stories/graphs.ipynb 
+#### To create graphs based on annotated privacy policies that display connections of actions, data types and purposes -> 
+graphs_stories/graphs.ipynb 
 
 
 #### To create privacy stories 
