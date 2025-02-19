@@ -10,7 +10,7 @@ To prompt models for generation of privacy behaviors and stories one must first 
 For model finetuning will require gpu access, our fine-tuning code (utils/local_llm) (trainllama.py) may be run in a google colab notebook at 15-30 minutes per training step.
 
 To run annotation prompt ```python run_prompts.py``` to use default parameters in file or 
-```python run_llm_annotations.py --models groq:qwen-2.5-32b openai:gpt-4o-latest --num_runs 2``` to set manually. 
+```python run_llm_annotations.py --models groq:qwen-2.5-32b openai:gpt-4o-latest --num_runs 2``` to set manually models must in in [![AISuite](https://img.shields.io/badge/LLM%20Training-View%20Project-purple)]((https://github.com/andrewyng/aisuite)) format. 
 # For Annotators: 
 
 Annotating/Annotator_{model}.xlsx contains our annotation schema for answering questions related to privacy stories. 
