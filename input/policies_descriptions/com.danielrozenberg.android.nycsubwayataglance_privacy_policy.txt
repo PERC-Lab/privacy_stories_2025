@@ -1,6 +1,0 @@
-Privacy Policy — Daniel Rozenberg Apps
-Privacy Policy — Daniel Rozenberg Apps
-This app does not collect any data.
-The app sends your current location information to a remote network service (operating in the U.S. by the same entity that created the app) so it can perform its primary function. This server
-does not keep your location information
-in logs or any other way.

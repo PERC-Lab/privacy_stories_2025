@@ -1,0 +1,47 @@
+Privacy Policy
+
+This Privacy Policy describes how and when our collects, uses and shares your information when you use the our’s mobile applications and related services, which we here collectively call the «App». We will ask for your consent before collecting or using information for a purpose other than those that are set out in this Privacy Policy.
+
+By using the App, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy.
+
+Information We Collect
+We do not collect classical personal information through our App (such as you name, address, email or phone number) and you can use our App without providing us with your classical personal information. We will receive your classical personal information (such as you name, address, email or phone number) only when you contact us directly and will use such information only to respond to your inquiry.
+
+Technical Information
+To facilitate App support, App development and improvement as well as other services to you, you agree that our or other third parties may use analytic technologies to collect, use, store and transmit non-personally identifiable technical and related information regarding your mobile device (including unique device id or UDID), IP address, geolocation, device make and model, operating system, software and applications, including application usage data. In addition, our and/or third parties may collect, store, use and transmit non-personally identifiable app data, session data, carrier information well as online and Application usage metrics, statistics and/or analytics. Data collected by third parties will be collected, used, stored, transferred and disclosed pursuant to the third party’s Privacy Policy. Non-exclusive list of third parties that may collect data via this App:
+
+Аdvertising
+We may feature advertising within our App. To offer interest-based ads (IBA), meaning ads relevant to you, we need to collect data and share it with our partners, who may use different technologies. The advertisers may collect and use information about you, such as advertising ID, IDFA, IP address and other information that may be personal to you for the purpose of interest-based advertising.
+
+Please see the following list of advertising providers that are allowed to show interest-based advertising and review their data processing practices, including the technologies they use for the purposes of interest-based advertising.
+
+
+
+If you log into the App using a third party site or platform, you represent and warrant that (i) your access and use of such features in connection with the App will comply with the applicable terms and policies of such site or platform; and (ii) that you are over the minimum age limit that is prescribed for such third party site or platform by the legislation in the individual jurisdictions.
+
+How we use your information
+We use the information we collect about you/your device to deliver services to you and to operate our business. Such use by us and by our Partners may include:
+
+Delivering our services: developing, delivering and improving our apps, services, and content, tailoring our apps and services, providing software updates and app support, understanding and analyzing trends in connection with usage of the Apps, administering the Apps, and customer communications.
+Displaying advertisements: displaying third party advertisements in our Apps and showing advertisements for our Apps in other publisher’s apps. Please see more in Advertising Section of this Privacy Policy.
+Cross-promotion: cross promoting our Apps and services, meaning we may promote one of our Apps while you are using a different App of ours.
+Analytics and research: understanding and analyzing trends in connection with the usage of the Apps, data about where the App was downloaded from. We may also create reports and analysis for the purposes of research or business intelligence, for example to track potential problems or trends with our Apps and services, or to test our new features and content. We use the data we receive from Third Party Social Network only for internal analytics.
+Third Party Sites and Contributors
+The App may contain links to websites that are operated by third parties. We do not control those websites and as such this Privacy Policy does not apply to those websites. Please consult the terms and conditions and Privacy Policies of those third party websites to find out how they collect and use Your personal data and to establish whether and for what purpose they use cookies.
+
+Advertisements contained on Our App operate as links to that advertiser's websites and as such any information they collect by virtue of Your clicking on that link will be collected and used in accordance with the Privacy Policy of that advertiser.
+
+Information we share
+We do not share personal information that directly identifies you (such as your name, e-mail or postal address) with third parties for their own use without your consent, unless it is either required by law or we determine that disclosure is reasonably necessary to enforce our rights, property or operations or to protect our users or third parties. We may share anonymous or aggregated information, or other data that does not directly identify you, with third parties, for instance to show trends about use of our App.
+
+Children
+According to our Terms of Use, you must be at least 13 years old to access and/or use our App. We strongly recommend that minors aged 13-16 seek consent from a parent or legal guardian before accessing and/or using our App and providing any private information. We do not collect information about children under the age of 13. In the event any personal information was collected, we will delete it as soon as possible if you contact us in writing by using the e-mail specified in Chapter «Contact Information» of this Privacy Policy.
+
+Information security
+Security of our users' information is a priority at our. However, while we take responsible measures to protect your Personal Information, the internet is not a 100% secure environment. We cannot guarantee the absolute security of all information transmitted or electronically stored. We disclaim any liability for any unauthorized access to, disclosure or damage to, theft of, or loss of any Personal Information. By using our App, you acknowledge that you understand and agree to assume these risks.
+
+Changes to Our Privacy Policy
+We reserve the right to make changes to Our Privacy Policy from time to time. Any such changes to Our Privacy Policy will be posted here.
+
+Contact Information
+If you have any questions, comments or complaints about this Privacy Policy, please contact us as follows: you may email us. We will respond within a reasonable amount time.

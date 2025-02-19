@@ -1,0 +1,160 @@
+USER AGREEMENT AND PRIVACY POLICY by Wajidalitv Developer
+CREATE NOaaW
+GAMEMAKER
+CONTEST
+FAQ
+COMMUNITY
+BLOG
+CREATE APP
+login
+CREATE NOW
+GAMEMAKER
+CONTEST
+FAQ
+COMMUNITY
+BLOG
+USER AGREEMENT AND PRIVACY POLICY by Wajidalitv
+PRIVACY
+POLICY for com.wFastbrowser_17585186 by Wajidalitv
+Last Updated March 30, 2017
+By installing the mobile application linking to this privacy policy (the “Privacy Policy” and “Affiliated Application”), you are agreeing to comply with, and be bound by, the following Privacy Policy, and when applicable any other AppsGeyser operating rules policies, and other supplemental terms and conditions or documents that may be published from time to time. Please review the Privacy Policy carefully.
+General
+The Affiliated Application is using one or more of the services offered by AppsGeyser. While AppsGeyser is not the publisher of the Affiliated Application, it does offer the Affiliated Application mobile analytics and intelligence services by collecting certain information relating to your use of the Affiliated Application and/or other applications installed on your device, and other functions of your mobile device in order to allow the Affiliated Application and other AppsGeyser partners to deliver advertisements, products, and services that are relevant and meaningful to their users (collectively: the “Services”).
+Privacy Policy
+This Privacy Policy outlines the privacy practices associated with the AppsGeyser Service and covers our treatment of personal information that we collect when you install a mobile application that uses our Service. Please note that we are not responsible for and have no control of any mobile application’s (including the Affiliated Application’s) privacy practices and have no control over how the developer of a mobile application collects, uses or shares information about you. For information about how a mobile application collects, uses or shares information about you, please see the applicable mobile application’s privacy policy.
+Information you provide
+Account Information. You register a phone number when you create an account. Phone numbers are used to provide our Services to you and other users. You may optionally add other information to your account, such as a profile name and profile picture. This information is end-to-end encrypted.
+Messages. We cannot decrypt or otherwise access the content of your messages or calls. App queues end-to-end encrypted messages on its servers for delivery to devices that are temporarily offline (e.g. a phone whose battery has died). Your message history is stored on your own devices.
+Additional technical information is stored on Signal servers, including randomly generated authentication tokens, keys, push tokens, and other material that is necessary to establish calls and transmit messages. Signal limits this additional technical information to the minimum required to operate the Services.
+Contacts. App can optionally discover which contacts in your address book are Signal users, using a service designed to protect the privacy of your contacts. Information from the contacts on your device may be cryptographically hashed and transmitted to the server in order to determine which of your contacts are registered.
+User Support. If you contact User Support, any personal data you may share with us is kept only for the purposes of researching the issue and contacting you about your case.
+Managing your information. You can manage your personal information in App’s application Settings. For example, you can update your profile information or choose to enable additional privacy features like a Registration Lock PIN.
+Information we may share
+Third Parties. We work with third parties to provide some of our Services. For example, our Third-Party Providers send a verification code to your phone number when you register for our Services. These providers are bound by their Privacy Policies to safeguard that information. If you use other Third-Party Services like YouTube, Spotify, Giphy, etc. in connection with our Services, their Terms and Privacy Policies govern your use of those services.
+Other instances where App may need to share your data:
+To meet any applicable law, regulation, legal process or enforceable governmental request.
+To enforce applicable Terms, including investigation of potential violations.
+To detect, prevent, or otherwise address fraud, security, or technical issues.
+To protect against harm to the rights, property, or safety of Signal, our users, or the public as required or permitted by law.
+Information We Collect From You
+When you install an Affiliated Application on your device that uses our Service, we may automatically collect certain information from your Android device, device make and model, mobile web browser type and version, IP address, MAC address, the device’s operating system’s make and version, locale information, MCC (Mobile Country Code) information, the mobile application name, a list of mobile applications installed on your device and other technical data about your device.
+When you install an Affiliated Application, you may also grant the mobile application permission to collect certain types of information via a permission screen consent process and to use some of your network connection and device’s resources when your resources are idle and use WiFi (only occasionally cellular data may be used, but very limited).
+We do not control the permission screen consent process – it is typically run by your mobile operating system; HOWEVER, ONCE SUCH PERMISSION IS GRANTED BY YOU ON AN OPT-IN BASIS, WE MAY COLLECT SOME, BUT NOT ALL, OF THE INFORMATION THAT A MOBILE APPLICATION COLLECTS IN ACCORDANCE WITH THE PERMISSIONS YOU GRANT. FOR EXAMPLE, IN ACCORDANCE WITH YOUR PERMISSION TO THE AFFILIATED APPLICATION, WE MAY COLLECT PRECISE GEOLOCATION, BROWSER HISTORY, COUNTRY, ZIP CODE AND DEVICE IDS (INCLUDING IMEI, DEVICE SERIAL NUMBER AND MAC ADDRESS) AND/OR ANY OTHER PERSONAL OR IDENTIFIABLE INFORMATION (THE “PERSONAL INFORMATION”). We or our data partners may also obtain information from other sources and combine that with information we collect through our Service. For example, we may collect one of the unique identifiers associated with your mobile device as listed above and demographic or interest preference information from other companies and combine that with information we collect through the Service to allow our customers to deliver advertisements that may be of interest to you on your mobile device or to identify you on other devices or browsers. We anonymize all Personal Information on your device before collecting it or sharing it with our data partners.
+Affiliated Application incorporates third party oneAudience services for gathering information from your device with oneAudience’s privacy policy located here - http://www.oneaudience.com/privacy/.
+In addition to other information described in this policy, we may collect and share precise location information, through methods such as mobile “SDKs”.
+This location information may be used by itself, aggregated, or combined with mobile identifiers (such as IDFAs and Android IDs), and shared with third parties, for purposes related to advertising, attribution (e.g., measuring ad performance) analytics
+and research.
+You can remove your consent to having your location data collected by changing the settings on your device.(Certain services may lose functionality as a result.)
+You can opt-out from any interest-based advertising through your device settings. When you have opted out using this setting on a device, advertisers will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
+An Affiliated Application relies in part on applications and services provided by Google and YouTube, and use the YouTube API Services. Use of the YouTube API Service is subject to the You Tube Terms of Service, available at: https://www.youtube.com/t/terms and the Google Privacy Policy available at: http://www.google.com/policies/privacy.
+We may also collect Data related to data being collected under Telegram privacy policy - https://telegram.org/privacy.
+Telegram is a communication service. You provide your mobile number and basic account data (which may include profile name, profile picture and about information) to create a Telegram account.
+Telegram is a cloud service. Telegram stores messages, photos, videos and documents from your cloud chats on Telegram servers so that you can access your data from any of your devices anytime without having to rely on third-party backups.
+All data is stored heavily encrypted and the encryption keys in each case are stored in several other data centers in different jurisdictions.
+This way local engineers or physical intruders cannot get access to user data.
+Telegram uses phone numbers as unique identifiers so that it is easy for you to switch from SMS and other messaging apps and retain your social graph.
+Telegram asks your permission before syncing your contacts.
+Telegram stores your up-to-date contacts in order to notify you as soon as one of your contacts signs up for Telegram and to properly display names in notifications.
+Telegram only needs the number and name (first and last) for this to work and store no other data about your contacts.
+Telegram automatic algorithms can also use anonymized sets of phone numbers to calculate the approximate number of potential contacts an unregistered phone number may have on Telegram. When you open the 'Invite friends' interface, Telegram displays the resulting statistics next to your contacts to give you an idea of who could benefit most from joining Telegram.
+You can always stop syncing contacts or delete them from Telegram servers in Settings > Privacy & Security > Data Settings.
+If you are using Android, Telegram will ask you for permission to access your phone call logs (READ_CALL_LOG).
+If you grant this permission, Telegram will be able verify your account by transmitting a phone call instead of asking you to enter a code.
+Telegram uses this permission only to confirm receipt of the confirmation call by verifying the number in the call log.
+We may also collect Data related to data being collected under Signal privacy policy - https://signal.org/legal/.
+You register a phone number when you create a Signal account.
+Phone numbers are used to provide our Services to you and other Signal users.
+You may optionally add other information to your account, such as a profile name and profile picture.
+This information is end-to-end encrypted.
+Signal cannot decrypt or otherwise access the content of your messages or calls.
+Signal queues end-to-end encrypted messages on its servers for delivery to devices that are temporarily offline (e.g. a phone whose battery has died).
+Your message history is stored on your own devices.
+Additional technical information is stored on Signal servers, including randomly generated authentication tokens, keys, push tokens, and other material that is necessary to establish calls and transmit messages.
+Signal limits this additional technical information to the minimum required to operate the Services.
+Signal can optionally discover which contacts in your address book are Signal users, using a service designed to protect the privacy of your contacts.
+Information from the contacts on your device may be cryptographically hashed and transmitted to the server in order to determine which of your contacts are registered.
+Information from Third-Party Social Media Services
+"Wajidalitv" allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
+Google
+Facebook
+Twitter
+LinkedIn
+If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
+You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
+How We Use Information
+Any information that you submit to us remains your property. However, we may use it for the purposes described herein.
+Service.
+We reserve the right to use the information (including Personal Information) we collect, in order to administer, operate, and continuously improve our Service. We may also use the information to monitor and analyze trends, usage and activities in connection with our Service. Provided, however, that no Personal Information shall be disclosed to third parties within the scope of this clause, other than AppsGeyser’s trusted affiliates which are responsible for supporting or enhancing our Services, and for such purposes only. For this purpose, although we do not hold an official or self-issued certificate, we strive to abide by the Safe Harbor rules under www.export.gov/SafeHarbor.
+Advertisements. We reserve the right to use the Personal Information (and/or any other applicable information) we collect to create, market and distribute anonymized audience segments to third parties. We will share the Personal Information (and/or any other applicable information) we collect with unaffiliated third party advertisers and marketers for purposes unrelated to the original consumer transaction. We or our data partners may customize personalized content and advertisements and connect certain demographic or other data about you (received from third parties) to data we have collected from you, such as your mobile device identifier or IP address. For this purpose, although we do not hold an official or self-issued certificate, we strive to abide by the Safe Harbor rules under www.export.gov/SafeHarbor.
+Aggregate Information. We compile aggregated information about our users to better optimize our Service, preferences, and to assist in our marketing efforts. We may also share aggregated data about our user base including the number of users that we have, certain trends, statistical data, etc., without disclosing any Personal Information.
+Legal Disclaimer. Notwithstanding anything to the contrary, we reserve the right to share any information, including Personal Information (a) as required by law and/or to comply with a judicial proceeding, court order or legal process served on AppsGeyser; (b) when we believe that disclosure is necessary to protect our rights; (c) if we believe that you are in violation of the terms and conditions of this Privacy Policy or any other of our operating rules, code of conduct, policies and other supplemental terms and conditions or documents that may be made available by us from time to time, and including of the Affiliated Application, and such disclosure is reasonably required to protect AppsGeyser and/or anyone on its behalf injured by such wrongdoing and/or otherwise required in taking legal measures against you.
+Opting Out
+Cancellation of Information Collection.
+TO COMPLETELY DISABLE APPSGEYSER’S COLLECTION AND USE OF ANY PERSONAL INFORMATION, YOU MUST UNINSTALL ALL AFFILIATED APPLICATIONS ON YOUR DEVICE. HOWEVER, DELETING THE SAID APPLICATIONS WILL ONLY TAKE EFFECT FOR PURPOSES OF TRANSACTING FUTURE BUSINESS. SUCH ACTION WILL ALSO NOT BE IN EFFECT WITH RESPECT TO DELETION OF PERSONAL INFORMATION ALREADY COLLECTED AS PART OF OUR SERVICE, AND APPSGEYSER WILL BE ABLE TO CONTINUE AND MAKE USE OF SUCH INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY, AS AMENDED FROM TIME TO TIME. IF YOU WISH TO HAVE ANY PRIOR COLLECTED PERSONAL INFORMATION REMOVED FROM OUR DATABASE, PLEASE CONTACT US AT WWW.APPSGEYSER.COM. PLEASE NOTE, HOWEVER, THAT AS DESCRIBED HEREIN, CERTAIN RESIDUALS OF THE PERSONAL INFORMATION MIGHT BE INCORPORATED UNDER OTHER CONTENT OR MATERIALS CREATED AND USED BY APPSGEYSER AND/OR OTHER APPLICABLE THIRD PARTIES (THE “RESIDUALS”), AND DUE TO THE RESIDUALS’ NATURE, THEY COULD NOT BE IDENTIFIED IN ORDER TO BE REMOVED, NOR CAN APPSGEYSER PREVENT THE USE OF SUCH RESIDUALS. MOREOVER, WE RESERVE THE RIGHT TO KEEP CERTAIN RECORDS FOR MONITORING, REGULATORY, LITIGATION AND/OR ENFORCEMENT PURPOSES. PLEASE NOTE THAT IF YOU EVER INSTALL ANOTHER AFFILIATED APPLICATION THAT UTILIZES OUR SERVICE IN THE FUTURE, APPSGEYSER WILL SUBSEQUENTLY BE ABLE TO COLLECT AND USE YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.
+Proper use
+You agree that you will use the Service in compliance with all applicable local, state, national, and international laws, rules and regulations, including any laws regarding the transmission of technical data exported from your country of residence. You shall not, shall not agree to, and shall not authorize or encourage any third party to: (a) use the Service to upload, transmit or otherwise distribute any content that is unlawful, defamatory, harassing, abusive, fraudulent, obscene, contains viruses, or is otherwise objectionable as reasonably determined by the Service; (b) upload, transmit or otherwise distribute content that infringes upon another party’s intellectual property rights or other proprietary, contractual or fiduciary rights or obligations; (c) prevent others from using the Service; (d) use the Service for any fraudulent or inappropriate purpose; (e) interfere with, damage, disable, overburden, impair or disrupt in any way the Service; (f) act in any way that violates the Service policies, as may be revised from time to time. Violation of any of the foregoing may result in immediate termination of this Agreement, and may subject you to state and federal penalties and other legal consequences. AppsGeyser reserves the right, but shall have no obligation, to investigate your use of the Service in order to determine whether a violation of the Agreement has occurred or to comply with any applicable law, regulation, legal process or governmental request.
+Unsolicited materials
+Any unsolicited materials submitted or sent to AppsGeyser, will be deemed to be not confidential or secret. By submitting or sending information or other material to AppsGeyser you: (a) Warrant that you have all rights of any kind to the material and that to the best of your knowledge no other party has any rights to the material; (b) Unless stated specifically otherwise therein, grant AppsGeyser an unrestricted, perpetual, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute the material, and you further agree that AppsGeyser is free to use any ideas, know-how, concepts or techniques you send us for any purpose, without any compensation to you or any other person. In order to remove all doubt, AppsGeyser’s privacy related obligation of this Privacy Policy shall not apply towards unsolicited information.
+Links to Other Services and Websites
+The Service, as well as any advertisement or other monetization means, may contain services, products, and/or links to other services, products, and websites, that are not owned or controlled by us. Please be aware that we are not responsible for the content nor for the privacy practices of these other websites, products, and services. We encourage you to be aware when you access a third party’s website or service and to read the privacy statements of each and every website and service you visit.
+Security
+The security of your information is important to us. We follow generally accepted industry standards to protect the solicited information submitted to us, both during transmission and once we receive it. However, no method of electronic transmission or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security, and therefore you transmit information to us at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to Personal information is strictly limited, and not accessible to the public. All of our users’ Personal Information is restricted and used only in accordance with this Privacy Policy.
+Business Transitions
+If we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information will likely be among the assets transferred.
+Changes in this Privacy Statement
+We reserve the right to modify the Privacy Policy at any time, so please review it frequently. If we decide to change the Privacy Policy, we will post those changes to the Privacy Policy and update the “Last Updated” date above. We may also provide additional notice on our website at www.appsgeyser.com. Your continued use of the Service following notice of changes to the Privacy Policy will constitute your acceptance of any changes. Provided that, we will not change the way we use your Personal Information without receiving your consent.
+Contacting Us About Privacy Questions or Concerns
+If you have any questions regarding our Privacy Policy, or in the event that you wish to verify which of your Personal Information we have collected, please contact us at support@appsgeyser.com or by mailing us at 901 N. Pitt Street, Suite 325,Alexandria, VA 22314.
+Governing Law
+This Privacy Policy constitutes a binding agreement between you and AppsGeyser. Any matter relating to this Privacy Policy shall be governed and construed in accordance with the laws of the State of Virginia, USA, without giving effect to any choice or conflict of law rules, and any and all disputes, claims, and causes of action arising out of or connected with this Privacy Policy shall be resolved exclusively via arbitration before the American Arbitration Association in Virginia, in accordance with the then current Commercial Arbitration Rules of the American Arbitration Association. Nothing herein shall be construed to preclude any party from seeking injunctive relief in order to protect its rights pending an outcome in arbitration. To the extent permitted by law, you agree that you will not bring, join or participate in any class action lawsuit as to any claim, dispute or controversy that you may have arising out of or connected with this Privacy Policy, the Services, and/or AppsGeyser. You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. Any and all claims, judgments and awards filed by You shall be limited to actual out-of-pocket costs incurred by You but in no event attorneys’ fees. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.
+APPSGEYSER
+Create
+Create Template
+Apps
+AppsGeyser.io Blog
+Sitemap
+Referral Program
+APPMAKER
+Audio/Video Apps Maker
+Business Apps Maker
+App Converter
+Data Apps Maker
+Education Apps Maker
+Game Apps Maker
+Social Media Apps Maker
+APK Builder
+Website Apps Maker
+French
+Russian
+Spanish
+Resources
+Support
+Convert Website to App
+Convert HTML to APK
+AppsGeyser Premium
+Create Store App
+Convert Website to APK
+How to Make an App
+Guest posting and link building
+Customer service automation
+Company
+About
+Testimonials
+Boost Up Your Telegram
+Channel
+Add Telegram members Подписчики Telegram Telegram members Africa Telegram leden kopen Как раскрутить канал в Telegram
+Follow Us
+Facebook
+Twitter
+Blog
+YouTube
+Telegram
+Copyright © 2011-2023
+Besttoolbars ,
+2023
+Privacy Policy
+Terms of Service
+Legal Info
+Opt-Out
+Cookie Policy
+DMCA

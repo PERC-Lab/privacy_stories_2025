@@ -1,0 +1,272 @@
+Política de Privacidade do Grupo Imply®
+Em conformidade com a Lei Geral de Proteção de Dados “LGPD” (Lei Federal
+nº 13.709.2018), teremos acesso e controle sobre algumas de suas
+informações enquanto você estiver em nossos sites ou neles se cadastrar.
+Além disso, seremos responsáveis por definir o uso interno dessas
+informações e por protegê-las. Faremos tudo isso zelando pela sua
+privacidade e pela proteção de seus dados pessoais. Nós prezamos pela
+segurança dos seus dados, respeitamos sua privacidade e nos importamos
+com a transparência de nossas próprias ações.
+Por esse motivo, apresentamos esta Política com informações sobre
+coleta, uso, compartilhamento, armazenamento, entre outros tratamentos
+das suas informações e de seus dados pessoais.
+Para facilitar a compreensão desta Política, fique atento em algumas
+definições:
+Quando você encontrar o termo
+“dados pessoais” , saiba
+que estamos nos referindo a toda e qualquer informação relacionada a
+pessoa natural identificada ou identificável. Também são considerados
+dados pessoais aqueles utilizados para formação do perfil comportamental
+de determinada pessoa natural. A pessoa a quem os dados pessoais se
+referem são chamadas de “Titulares”. Atente-se para o fato de que nem
+todo dado é dado pessoal.
+Esta Política abrange a governança de dados de um modo geral, mas,
+sobretudo, de dados pessoais. Se, por outro lado, nós nos referirmos a
+“Controlado(a)”, saiba que estamos nos referindo àquele a quem compete
+tomar as decisões acerca do uso dos dados pessoais, no caso nós do
+Grupo Imply® , que, de agora em diante, será também
+referida pelos termos
+“IMPLY”, “nós” ou “nossos” . E,
+por fim, quando nos referirmos a
+“usuário” , saiba que
+estamos nos referimos a você, ‘Titular’ dos dados, pessoa natural ou
+instituição que trafega em nossos sites e que também poderá ser
+identificado como “você”, “seu” ou “sua”.
+A presente Política de Privacidade está dividida nos seguintes tópicos:
+1. Coleta de dados
+2. Uso dos dados e agentes de tratamento
+3. Compartilhamento dos dados
+4. Armazenamento e segurança dos dados
+5. Direitos dos Titulares de dados
+6. Contato relacionado à proteção de dados
+7. Mudanças na Política de Privacidade
+1. Coleta de dados
+Os tipos e as quantidades de dados, sejam eles pessoais ou não, que
+coletamos variam de acordo com o tipo de atividade que você prática no
+nosso site. Os dados coletados são utilizados apenas para as finalidades
+de prestação dos serviços oferecidos pela IMPLY e para as finalidades
+descritas nesta Política. Toda a nossa atividade de coleta e utilização
+de dados assenta-se sobre alguma base legal autorizativa.
+A seguir, nós listamos os dados que coletamos, explicamos em quais
+situações a coleta ocorre e, por fim, demonstramos, no item 1.6, a base
+legal que nos autoriza a fazê-lo.
+1.1. Visitantes dos domínios IMPLY
+No caso de haver simples navegação nos sites da IMPLY - sem que haja
+qualquer tipo de cadastro -, coletamos dados referentes a essa
+atividade. Os dados de navegação dizem respeito a informações sobre o
+navegador (browser e versão utilizada), o sistema operacional, o
+endereço de IP, o registro da data/hora da visita, as URLs (Uniform
+Resource Locators), os conteúdos e informações pesquisados e
+visualizados no nosso Portal, a definição da tela e do comportamento na
+Plataforma. Objetivamos com isso verificar a sua identidade e também
+monitorar e controlar o uso que você e outros usuários fazem dos nossos
+Portais.
+A coleta dos dados de navegação ocorre, entre outras maneiras, por meio
+de cookies. Os cookies são pequenos arquivos de texto depositados por um
+site servidor no computador do usuário para “memorizar” algumas
+informações relativas à navegação e para, a partir desse procedimento,
+associar e distinguir os usuários. Os cookies capturam os dados não
+sigilosos do equipamento e cumprem diferentes funções. Nossos Portais se
+utilizam de basicamente três tipos de cookies.
+Nós utilizamos cookies operacionais cuja função consiste basicamente em
+capturar informações do seu equipamento tais como browser utilizado,
+versão e definição do monitor com o propósito de viabilizar a melhor
+experiência de navegação em nosso website. Por meio da utilização de
+cookies operacionais, nós conseguimos permitir a disposição do conteúdo
+dos nossos Portais de forma adequada ao tamanho da sua tela por exemplo.
+Conseguimos também ajustar a velocidade de conexão, ativar
+funcionalidades essenciais (como software e antivírus), entre outras.
+Esses cookies permanecem habilitados o tempo todo durante a sua
+navegação, mas, caso você deseje recusá-los, desabilitá-los ou apagá-los
+por meio das configurações do seu navegador, você poderá fazê-lo. Nesse
+caso, algumas áreas do website poderão não funcionar corretamente. Além
+dos cookies operacionais, nós utilizamos cookies analíticos cuja função
+consiste em nos ajudar a entender como você utiliza nossos Portais.
+Por meio de cookies analíticos, nós conseguimos gerar dados estatísticos
+agregados de uso dos nossos websites através do Google Analytics como,
+por exemplo, índice de audiência, locais mais acessados, etc. Esses
+dados são utilizados para permitir o aprimoramento dos nossos Portais no
+futuro. Para que funcionem corretamente, os cookies analíticos precisam
+do seu consentimento.
+Por fim, utilizamos ainda um outro tipo de cookies, qual seja, os
+cookies comportamentais de marketing, cuja finalidade consiste em exibir
+anúncios relevantes que possam ser de seu interesse. Por meio da captura
+de dados relacionados às atividades que você prática em nosso Portal nós
+conseguimos identificar alguns de seus gostos e suas preferências e,
+conseguimos, com isso, direcionar produtos do seu interesse. Para mais
+informações a respeito da nossa Política de Cookies, acesse nossa
+Política de Cookies disponível em https://vasco.eleventickets.com
+1.2. Histórico de ações praticadas em nossos sites
+Todas as atividades que você prática em nossos Portais são registradas
+para controlar a licitude de suas ações e também a fim de perceber suas
+preferências.
+Nossa análise em relação a isso pode te ajudar em futuras compras e
+atendimentos. Para desempenhar essas funções corretamente, nós coletamos
+e cruzamos algumas informações relativas ao seu acesso.
+1.3. Outras informações
+Nós podemos coletar dados pessoais que você mesmo tornou público como,
+por exemplo, dados divulgados por meio de comentários na internet. Nós
+coletaremos esses dados possam ter alguma relação com as atividades que
+você pratica ou praticou nos nossos Portais.
+Além disso, poderemos coletar dados que você mesmo voluntariamente nos
+fornecer como, por exemplo, aqueles compartilhados por meio de
+comunicações com a IMPLY por meio de nossos formulários, chat ou serviço
+de atendimento ao consumidor.
+2. Uso dos dados e agentes de tratamento
+No geral, nós tratamos diversos dados pessoais para garantir um
+atendimento de qualidade e melhorar sua experiência em nossos Portais.
+Além disso, objetivamos com o tratamento de dados atender a uma série de
+finalidades específicas, entre elas:
+a. Auxiliar no diagnóstico e solução de problemas técnicos;
+b. Desenvolver novas funcionalidades;
+c. Realizar o atendimento de solicitações, dúvidas e reclamações em
+nossa Central de Atendimento;
+d. Identificar corretamente o usuário cadastrado;
+e. Auxiliar no diagnóstico e solução de problemas técnicos que sejam
+relacionados aos nossos sites;
+f. Desenvolver novas funcionalidades, melhorando a sua experiência
+conosco; e
+g. Entrar em contato com você, quando necessário e/ou autorizado por
+você. Esses contatos podem ser sobre comunicação de promoções e
+lançamentos de produtos, eventos e feiras, respostas a dúvidas,
+respostas a reclamações e solicitações diversas.
+Além dos casos acima mencionados, nós também tratamos dados pessoais
+para outras finalidades. Confira a seguir:
+a. Realizar investigações e medidas de prevenção e combate a ilícitos,
+fraudes, crimes financeiros e crimes de lavagem de dinheiro,
+financiamento e/ou divulgação de terrorismo, pedofilia, homofobia,
+racismo e pirataria;
+b. Garantir o cumprimento de obrigação legal ou regulatória ou
+garantir o exercício regular de direitos da IMPLY. Nesses casos,
+podemos, inclusive, utilizar e apresentar as informações em processos
+judiciais e administrativos, se necessário e solicitado por órgãos
+oficiais; e
+c. Colaborar com o cumprimento de ordem judicial, de autoridade
+competente ou de órgão fiscalizador.
+A IMPLY
+é considerada para fins da Lei Geral de
+Proteção de Dados, como a “Controladora” dos dados pessoais sob
+tratamento. Isso significa dizer a IMPLY é o agente que toma as decisões
+sobre o tratamento de dados pessoais para as finalidades descritas neste
+documento. Além disso, isso significa que a IMPLY assume uma série de
+obrigações definidas na LGPD perante os Titulares dos dados pessoais e
+de autoridades públicas.
+3. Compartilhamento de dados
+Para a execução das atividades de tratamento de dados já mencionadas,
+nós poderemos, se necessário, compartilhar os seus dados pessoais com
+outras unidades do Grupo IMPLY, com prestadores de serviços auxiliares
+ou com órgãos reguladores. Jamais vamos comercializar seus dados
+pessoais ou compartilhá-los sem o seu consentimento ou sem justificativa
+legal.
+Os prestadores de serviços auxiliares e parceiros, bem como as outras
+unidades da IMPLY, nos ajudam na administração dos nossos sites de
+acordo com as nossas instruções. Eles nos auxiliam também em análises
+antifraude, na intermediação de pagamentos (como bancos e
+administradoras de cartão), gestão de campanhas de marketing e
+armazenamento em nuvem. Eventualmente, poderemos compartilhar seus dados
+pessoais com autoridades judiciais, policiais ou governamentais para
+cumprir integralmente com obrigações legais e regulatórias.
+IMPORTANTE:
+A IMPLY possui sua sede no Brasil, e todos
+os dados pessoais e tratamentos realizados são regidos pela lei
+brasileira. A IMPLY SE RESERVA NO DIREITO DE ACESSAR, LER, PRESERVAR E
+DIVULGAR TODO E QUALQUER DADO QUE ACREDITA SER NECESSÁRIO PARA O
+CUMPRIMENTO DE OBRIGAÇÃO LEGAL OU REGULATÓRIA OU ORDEM JUDICIAL; PARA
+FAZER CUMPRIR OU APLICAR OS TERMOS DE USO; OU PARA PROTEGER OS DIREITOS,
+PROPRIEDADE OU SEGURANÇA DA IMPLY, DOS NOSSOS FUNCIONÁRIOS, DE USUÁRIOS
+E OUTROS. Ressaltamos que, caso não concorde com os compartilhamentos
+realizados, recomendamos que não faça o uso dos nossos sites.
+4. Armazenamento e Segurança dos Dados
+A IMPLY utiliza medidas técnicas e organizacionais apropriadas para
+garantir a segurança dos dados pessoais coletados, protegendo-os contra
+tratamentos ilícitos e/ou não autorizados, contra perdas acidentais,
+danos e destruição. As páginas do nosso site são protegidas por meio do
+mais avançado método de criptografia de dados disponível atualmente para
+uso comercial. Além disso, as contas criadas em nossos sites são de uso
+restrito e protegidas por senha, de forma a resguardar a privacidade e a
+segurança dos usuários. Tudo isso significa que seus dados estão seguros
+conosco.
+Agora, isso não significa que você não deva também cooperar para
+garantir a sua privacidade. Nós fazemos a nossa parte, mas você precisa
+também tomar alguns cuidados. Uma das medidas de segurança que você pode
+adotar diz respeito às suas senhas. Quando você cadastrar seu e-mail em
+nosso site, dê preferência a uma senha diferente daquela que você
+utiliza para acessar sua caixa de e-mail pessoal. Essa dica vale para
+todo e qualquer site em que se cadastrar. Além disso, você deve também
+impedir e evitar o acesso não autorizado de terceiros à sua conta e aos
+seus dados pessoais, proteger a sua senha e/ou outro mecanismo de
+conexão de forma adequada e limitar o acesso ao seu computador ou
+dispositivo e navegador. Você pode fazer isso, por exemplo, efetuando o
+logout após ter concluído o acesso à sua conta. Caberá, ainda, a você
+providenciar a alteração de sua senha periodicamente.
+Seus dados pessoais são armazenados após seu cadastro em nossos sites. A
+falta de acesso não ocasiona a sua perda. Via de regra, seus dados ficam
+armazenados enquanto houver uma finalidade para seu uso.
+Há, porém, exceções. Alguns de seus dados podem ser mantidos mesmo
+depois de cessadas as finalidades para as quais eles foram inicialmente
+coletados. Isso pode acontecer no caso de necessidade de manutenção dos
+dados para cumprimento de alguma obrigação legal ou regulatória ou,
+também, para uso exclusivo nosso. Nesse último caso, garantimos que seus
+dados serão anonimizados e não serão compartilhados com terceiros.
+Ressaltamos que os dados completos de cartão de crédito não ficam
+armazenados em nosso sistema.
+5. Direitos dos(as) Titulares de Dados
+A transparência sobre o tratamento de suas informações e dados pessoais
+é nossa prioridade, até mesmo porque a IMPLY é feita por pessoas que
+também possuem informações e dados pessoais e prezam pela sua
+privacidade. Com a entrada em vigor a Lei Geral de Proteção de Dados
+Pessoais no Brasil, os usuários passam a ter garantidos todos os
+direitos previstos no Capítulo III da Lei, a saber:
+Direito à confirmação da existência do tratamento: o Titular pode
+questionar, junto à IMPLY, se há a realização de operações de
+tratamento relativos aos seus dados pessoais;
+Direito de acesso: o Titular pode solicitar e receber uma cópia de
+todos os dados pessoais armazenados;
+Direito de retificação: o Titular pode requisitar a retificação de
+dados pessoais que estejam incompletos, inexatos ou desatualizados;
+Direito de eliminação: o Titular pode requisitar a exclusão de seus
+dados pessoais de banco de dados geridos pela IMPLY, salvo se houver
+um motivo legítimo para a sua manutenção, como eventual obrigação
+legal de retenção de dados. Na hipótese de eliminação, a IMPLY se
+reserva no direito de escolher o procedimento de eliminação empregado;
+Direito de solicitar a suspensão temporária de tratamento ilícito de
+dados pessoais: a qualquer momento, o Titular de dados poderá
+requisitar da IMPLY a anonimização, bloqueio ou eliminação de seus
+dados pessoais que tenham sido reconhecidos por autoridade competente
+como desnecessários, excessivos ou tratados em desconformidade com o
+disposto na Lei Geral de Proteção de Dados (“LGPD”);
+Direito de oposição a um tratamento de dados pessoais: nas hipóteses
+de tratamento de dados pessoais não baseadas na obtenção do
+consentimento, o Titular poderá apresentar à IMPLY uma oposição, que
+será analisada a partir dos critérios presentes na LGPD;
+Direito à portabilidade dos dados: o Titular poderá requisitar à IMPLY
+que seus dados pessoais sejam disponibilizados a outro fornecedor de
+serviço ou produto, respeitados o segredo comercial e industrial da
+Instituição, bem como os limites técnicos de sua infraestrutura; e
+Direito à revogação do consentimento: o Titular tem direito a revogar
+o seu consentimento. Entretanto, ressalta-se que isso não afetará a
+legalidade de qualquer tratamento realizado antes da retirada. Na
+hipótese de revogação do consentimento, talvez não seja possível
+fornecer determinados serviços. Sendo este o caso, o Titular de dados
+será informado.
+Você pode exercer os seus direitos entrando em contato por meio do
+e-mail dpo@imply.com ou do formulário fale conosco:
+https://www.imply.com/pt/contato/
+6. Contato relacionado à proteção de dados e demais situações
+Caso você tenha dúvidas, comentários ou sugestões relativas a esta
+Política, ou acredite que suas informações e dados pessoais tenham sido
+utilizados de maneira inconsistente com a presente Política, entre em
+contato por meio do e-mail dpo@imply.com ou do formulário fale conosco
+no link: https://www.imply.com/pt/contato/
+7. Mudanças na Política de Privacidade
+A presente Política de Privacidade poderá ser constantemente atualizada.
+Sendo assim, incentivamos que você visite esta página periodicamente
+para tomar conhecimento das modificações realizadas. Além disso, no caso
+de haver atualizações e alterações que impliquem na necessidade de
+obtenção de um novo consentimento, este será solicitado.
+8. Observações Gerais
+Informações selecionadas sobre lançamentos, eventos e promoções da IMPLY
+e/ou seus parceiros serão enviadas apenas para os usuários que fizeram a
+opção por esse serviço, sendo possível, a qualquer momento, suspender o
+recebimento.
+Data de atualização: 22/09/2022

@@ -1,6 +1,6 @@
 {
     "files.associations": {
-        "*.ts": "typescript",
+        ".fantomasignore": "ignore",
         "plyconfig.json": "jsonc"
     }
 }

@@ -1,0 +1,14 @@
+Privacy Policy - The Prayers App
+Privacy Policy for "The Prayers" App
+Last Updated:
+[2023-09-19]
+1. Introduction
+Welcome to “The Prayers” mobile application (“The Prayers,” “we,” “us,” or “our”). We are committed to protecting the privacy and security of your information. This Privacy Policy explains the type of information we collect, or not collect, how we use it, and the measures we take to protect it. By using "The Prayers" app, you agree to the terms and conditions of this Privacy Policy.
+2. Information We Do Not Collect
+2.1 Personal Identifiable Information (PII)
+We do not collect or store any Personal Identifiable Information (PII) such as names, addresses, phone numbers, or email addresses while you use "The Prayers" app. Your privacy is a priority to us, and we ensure that no data that could potentially identify you is collected or stored by our application.
+3. Information We Collect
+3.1 Non-Personal Information
+Although we don’t collect personal identifiable information, we may collect non-personal information to improve the functionality and user experience of the app. This information cannot be used to identify individual users.
+4. Use of Information
+Since we do not collect PII, there is no PII data that will be used, shared, or sold to third parties. Non-personal information collected is used solely for the purpose of enhancing the app’s functionality and improving user experience.

@@ -1,0 +1,221 @@
+Privacy policy | Octopus Energy
+Skip to main content
+A hamburger menu icon
+Menu
+Home
+Quote
+Business
+Blog
+Help & FAQs
+About us
+A greener future
+Our tariffs
+Our policies
+Contact us
+Careers
+Home
+Account
+An icon representing a human
+Privacy policy
+We are committed to providing our customers with truly excellent customer service. We recognise that customers value their data and privacy, and so we treat our customer data with great care. This webpage sets out how and when we collect, use and share your personal information that you, or others, provide to us. This privacy policy was last updated on 9 October 2023. 1. Who we are This privacy policy applies to Octopus Energy Group Limited (09718624) and its subsidiaries, including Octopus Energy Limited (09263424), Octopus Energy Services Limited (10434397), Octopus Energy Operations Limited (14415312), Kraken Technologies Limited (12014731) and KrakenFlex Limited (09115827) each registered and trading at UK House, 5th Floor, 164-182 Oxford Street, London, W1D 1NN. We have appointed data protection officers who are responsible for different entities in our group and for oversee questions in relation to this privacy notice. If you do have any questions or requests, please contact us by email at
+dpo@octoenergy.com . 2. How do we collect and use your data? We only collect and process data about you where we have a reason for doing so and only where that reason is permitted under data protection law. This section sets out how we collect and use your data. It’s important that you keep your personal information with us up to date, so please let us know if anything changes. When you purchase products or services from our website or our apps When you purchase products or services from us, we will use your personal information to complete your purchase. The details we collect from you may include your name, address, date of birth, email address, phone number, MPAN/MPRN meter details and payment details such as credit or debit card information or direct debit details. If applicable, we will also collect vulnerability data when you sign up, such as your age, any disabilities or health conditions or any financial circumstances of you or a member of your household. We record this information on our priority services register, which helps us provide extra support to you (please refer to
+octopus.energy/policies/extra-support
+for more information). We need to process your personal information in this way to enter and perform the contract for the product or service you have asked us to supply you with. This may include sending you information about your account, such as statements, payment and meter reading reminders and occasional updates about important changes, such as updates to your tariff. When you phone, email or contact us on social media When you phone or email us with general queries, we may process your personal information (your name, address, contact details and other personal information you’ve given us) in order to provide the customer services you have asked us to, for example providing more information about our pricing. We rely on your consent to handle your personal information in this way. If you do not provide us with the data we request from you for customer services purposes, we may not be able to fully answer your queries. We log and record the interactions you have with us, such as phone calls, email opens and click throughs to help us better service your requests. Marketing communications This section applies if you have opted in to receive marketing communications from us or have previously expressed an interest in our products and services and have not opted out. We will process your personal information (your name, address, contact details and other personal information you’ve given us) to provide you with marketing communications in line with any preferences you have told us about. Where you have opted to receive marketing communications, we rely on your consent to contact you for marketing purposes. If you have not opted in and we send you marketing emails, we do this because of our legitimate interest to promote the success of the products and services you have expressed an interest in. Every email we send to you for marketing purposes will also contain instructions on how to unsubscribe from receiving them, or you can contact us anytime at
+hello@octopus.energy . We may also use the basis of legitimate interest to share information about our products and services via post, phone, targeted or generic adverts on our website or apps, or services from other Octopus Energy Group companies. We never share your information with any third parties for their direct marketing purposes. Third party platforms We may sometimes provide personalised advertising via third party platforms. For example, we’ll hash your data (so no one can view it) and reference it against Facebook’s platform. If you have a profile with Facebook, we’ll ask them to exclude you from irrelevant adverts, such as “join Octopus Energy” adverts, and send you more relevant adverts instead. All of this is done without Facebook revealing your identity to us and vice-versa. We do this on the basis of legitimate interest to ensure that you receive more tailored and relevant information about our products and services. If you are part of an industry scheme or apply for any government grants or funding If you apply for or enquire about the Warm Home Discount scheme, the Energy Company Obligation scheme, or if any other funding applies to you, such as the Energy Bills Support Scheme, Green Home Grant (GHG) and Renewable Heat Incentive (RHI), then we will collect information relevant to the provision of these schemes, including your name, address, contact details and any eligible benefits you receive. We do this in order to fulfil our obligations in providing these schemes. If you have a Green Deal Plan, we will collect information about you to manage this for you, for example your name, contact details, Green Deal Plan ID, daily charges and other information about the energy supply at your home. We can also get this information from your Green Deal Provider or others involved in your Green Deal Plan. We may share the information we hold on you with others involved in your Green Deal Plan, including the Secretary of State, in order to properly administer your plan. To make our website or apps better and more secure We will use your personal information to provide you with a more effective user experience, such as by displaying services we think you will be interested in. Using your information in this way means that your experience of our website and apps will be more tailored to you, and the content you see on our website and apps may differ from someone else. We also share your aggregated, anonymous data with third party analytics and search engine providers that assist us in the improvement and optimisation of our website and apps. We will use your personal information for the purposes of administering our website and apps and making them more secure, including troubleshooting, data analysis, testing, research, statistical and survey purposes. We process your data for this reason because we have a legitimate interest to provide you with the best experience we can, and to ensure that our website and apps are kept secure. You can ask us to stop using your personal information in this way by using the “do not track” functionality in your internet browser. If you enable “do not track” functionality, our website may be less tailored to your needs and preferences. Technical information and analytics When you visit our website, we will automatically collect the following information: technical information, including the IP address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, screen resolution, operating system and platform; and information about your visit, including the full Uniform Resource Locators, clickstream to, through and from our website (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page. When you use our apps, we will automatically collect the following information: technical information, including the number of users on the app, session duration, the operating system used, device model information, first launch, app opens and updates, the occurrence of software bugs, and any in-app purchases. We may also collect information on your location on our websites and apps, such as your location data when accessing the website or apps in line with the location settings on your phone or internet browser. This can be disabled or amended via the relevant IOS/Android platforms or in your internet browser settings. We work closely with various third parties, including advertising networks, analytics providers, hosting providers and search information providers from whom we may also receive general aggregated anonymous information about you. Smart meters If you have a smart meter, it will send information to us, and we will collect consumption information directly from the smart meter, in line with the consents we receive from you about this. We need to collect information from your smart meter so we can generate accurate bills for your energy usage. If you are on one of our smart tariffs, we may need to request half hourly data for the period you were on that smart tariff for the purpose of producing your final bill and for us to be able to deliver this product to you. If we are no longer your energy supplier at the point we need this data, we may make this request using an “other user” licence (as defined by Smart Energy Code Administrator and Secretariat). We may also analyse information we collect from smart meters in order to develop new products and services and to tailor these to your needs. We do this because of our legitimate interest to develop new products and services for the energy market. If you generate energy If you generate energy and export this under one of our export tariffs, or through the Feed-in Tariff (FiT) scheme, we collect information about this generation so we can accurately calculate the payments that are owed to you. If you are eligible for the FiT scheme, we will also ask for information to confirm both your identity and your FiT installation, so that we can comply with our obligations under the FiT scheme. Electric vehicles and charge points If you sign up to a scheme with us for access to electric vehicle charge points, we will collect information about your consumption (including location of the charge point) as well as your name, address and vehicle information (such as vehicle make/model and licence plate number) in order to accurately charge you. We will receive your consumption data from the charge point operator, which we will process in order to calculate a charge to add to your account. In some cases (for example if you are on our Intelligent Octopus tariff), we may receive data about your electric vehicle’s location, which we will use to provide our services. Product and Service Development We are always looking for ways to make energy better, for both our customers and for the planet. We sometimes process your data where we have a legitimate interest for doing so, for example: to better understand our customer demographic and the content of customer communications and requests to create more relevant campaigns, products and services. to make predictions about future behaviour based on current behaviour, to help develop and tailor our products and services. to build a profile personally for you, so we can do things like show you products and services that we think will be of particular interest and relevance to you. For data analysis, testing, research, statistical and survey purposes. Where we do process your personal data, we rely on legitimate interests to process your data in this way, we always carry out a “balancing” test in line with the ICO’s guidance to ensure that our processing is necessary and is not outweighed by your rights to privacy. Information we receive from third parties As well as the information you provide us with directly, we also receive information from some third parties. We work with various affiliates and partners, such as price comparison websites, telesales agencies and door-to-door sales agencies, and if you sign up to our services through one of our affiliates or partners, they may send us your personal information. We also have access to the national energy databases, and we may receive information about your property, meter details and previous suppliers from these databases. We may receive a notification from your landlord or letting agent to let us know that you have moved into a property that we supply. They may provide us with your name and email address, as well as the date that you occupied the property from, and any opening meter readings that were taken. If you come to us through our friends and family referral scheme, then we will receive your initial details through this link, and we will also tell the person whose link you used that you have done so. We may also receive personal information from your old supplier when you move to us, if they hold information that we need to in order for us to provide our services to you. If you use our electric vehicle charge point services, we may receive your location data in line with the location settings on your phone when you use our mobile app. This can be disabled or amended via the relevant IOS/Android platforms. Charge point operators will share the RFID card hex code or digital token of customers using our electric vehicle charge point services with us. We will use this information to locate your account to process your bills. 3.
+Sharing your information Where we share your information with any third parties, we always do so in line with this privacy policy and in compliance with data protection laws. We also ensure that these third parties only use your data in line with our instructions. Some of the organisations we may share your information with include: Our group companies, where necessary for the provision of our services. The Octopus Energy Group includes all subsidiaries Octopus Energy Group Limited, including the companies listed at the top of this policy. Our engineers and other subcontractors we use to help us with installations and to attend emergencies. Our meter operators, where we may need to share information such as your meter point details and technical details regarding your meter. If there was ever a situation where your meter needed to be exchanged, we would pass your contact details to our meter operator, with your permission. Anyone who is named and authorised on your energy account. Our affiliates and partners, including our whitelabel partners and price comparison websites, to the extent necessary to enable us to deliver our services to you. Payment providers, to help us process your payments to us. Your new supplier if you move away from us so they can continue to supply you with energy. Credit reference agencies and fraud prevention agencies, both when you first sign up and routinely whilst you have an account with us to help us assess your ability to pay for your energy bills, and any fraud, credit or security risks. Please see our domestic customer terms and conditions,
+octopus.energy/policies/terms-and-conditions
+for more information on this. There is also more information contained in TransUnion’s Credit Reference Agency Information Notice, which can be found here
+transunion.co.uk/crain . Debt collectors where we have a legitimate interest to recover sums owed to us for our services. Our telesales and field sales partners, but only where necessary to perform our services. Electric vehicle charge point operators and associated parties necessary to communicate your usage data where you use our charging network services. Aggregated smart meter data with our partners and regulatory and industry bodies to assist them with research and studies. Network operators, to enable the safe and reliable delivery of power at all times and where necessary to provide services such as grid balancing and flexibility options. We may also share your information for the following reasons. If our business is sold We will transfer your personal information to a third party as follows: if we sell or buy any business or assets, we will provide your personal information to the seller or buyer (but only to the extent we need to, and always in accordance with data protection legislation); and if one of the Octopus Energy Group companies, or the majority of its assets, are acquired by somebody else, in which case the personal information held by such company will be transferred to the buyer. We process your personal information in this way because we have a legitimate interest to ensure our business can be continued by the buyer. Where we have a legal obligation In some circumstances we may need to share your personal information if we are under a duty to disclose or share it to comply with a legal obligation, or to allow us to comply with our supply licence conditions and other Ofgem obligations. For example, to investigate something like theft or fraud. In difficult circumstances We speak to thousands of customers a day, and some of those people will be in difficult circumstances. Occasionally people will share information which indicates that they, or a member of their household, are in imminent danger or at serious risk, and in line with guidance from the Information Commissioner, in such circumstances we may refer the situation to relevant authorities or sources of assistance. In such cases we will consider first and foremost the interests of the person at risk. 4. Cookies What is a cookie? A cookie is a small file of letters and numbers that we store on your device. Cookies are an essential and widely used tool, and they enable our website to function properly and efficiently, as well as providing us with helpful information about how people use our website. How do we use cookies? Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good user experience when you browse our website and keeps your visit secure from cross-site forgery. It also allows us to improve our website, and we use cookies to do helpful things, such as submitting your meter readings through our website, or remembering which tariff you’ve selected for your quote. By continuing to browse our website, you are agreeing to our use of cookies. Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, which we do not have any control over. These cookies are likely to be analytical/performance cookies or targeting cookies. What options do I have? Some necessary cookies are always saved - stuff breaks without them. You have the choice to allow or deny cookies in two additional categories - "Analytics & customisation" and "Marketing & social media". This option appears when you first visit our website, and at any time when you use the "Change cookie settings" link in the website footer. Octopus character You may notice the Octopus character in the corner of your screen letting you know how charged your current device is, and whether carbon intensity is currently high. This information does not use cookies. The information about your device's battery percentage and whether it's charging or not is taken from the browser battery status API
+w3.org/TR/battery-status , and the carbon intensity levels are taken from the carbon intensity API
+carbonintensity.org.uk . Both of these APIs are open to all sites, and the former is one of many endpoints that a browser exposes. You can stop a website from retrieving information about your devices’ battery status in the settings of your browser of choice. The Octopus character's only cookie use is to remember not to re-appear for a while after you've dismissed it. Types of cookie we use
+Name
+Purpose
+Cookies
+Category
+Amazon Web Services
+Aids the distribution of sessions across AWS instances & handles cross-origin
+AWSALB
+AWSALBCORS
+Essential
+Fospha
+Ad attribution modelling
+_IJCID
+Social networking & marketing
+Inspectlet
+User experience analytics for improvement and optimisation
+__insp_nv
+__insp_slim
+__insp_targlpt
+__insp_targlpu
+__insp_uid
+__insp_msId
+__insp_pad
+__insp_sid
+Analytics & customisation
+Stripe Payments
+Manages credit card payments without storing card details
+__stripe_mid
+Essential
+Facebook Advertising
+Facebook pixel to improve ad relevance & performance
+_fbp
+Social networking & marketing
+Reddit
+Reddit pixel to improve ad relevance & performance
+_rdt_uuid
+Social networking & marketing
+Bing
+Bing pixel to improve ad relevance & performance
+_uetsid
+_uetvid
+MUID
+Social networking & marketing
+Twitter
+Twitter pixel to improve ad relevance & performance
+muc_ads
+personalization_id
+Social networking & marketing
+LinkedIn
+LinkedIn pixel to improve ad relevance & performance
+lang
+bcookie
+lidc
+li_gc
+Social networking & marketing
+TikTok
+TikTok Pixel to improve ad message relevance & performance
+_abck
+ttwid
+_ttp
+Social networking & marketing
+Google Analytics & Advertising
+Analytics for improvement, optimisation and advertising performance
+CONSENT
+Essential
+Google Analytics & Advertising
+Analytics for improvement, optimisation and advertising performance
+_ga
+_gcl_au
+_gid
+AEC
+HSID
+SIDCC
+Analytics & customisation
+Google Analytics & Advertising
+Analytics for improvement, optimisation and advertising performance
+_gat_UA-67011385-1
+IDE
+NID
+APISID
+SAPISID
+SSID
+__Secure-1PAPISID
+__Secure-1PSID
+__Secure-3PAPISID
+__Secure-3PSID
+__Secure-3PSIDCC
+__Secure-3ENID
+Analytics & customisation
+Microsoft Clarity
+Connects multiple page views by a user into a single Clarity session recording.
+_clsk
+Analytics & customisation
+Microsoft Clarity
+Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behaviour in subsequent visits to the same site will be attributed to the same user ID.
+_clck
+Analytics & customisation
+Microsoft Clarity
+Identifies the first-time Clarity saw this user on any site using Clarity.
+CLID
+Social networking & marketing
+Microsoft Clarity
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+MUID
+Social networking & marketing
+Cross-site security
+Security cookie to protect against cross-site request forgery
+csrftoken
+Essential
+Octopus Application & User Management
+For tracking if customers are signed in, database routing, cookie messages and site personalisation
+dismissCookieMessage
+isLaptop
+octosession
+multidb_pin_writes
+Essential
+Intercom
+Enables personalised user support and communication
+intercom-id-*
+intercom-session-*
+Essential
+New Relic
+Performance monitoring
+JSESSIONID
+Essential
+Loggly
+Website analytics for improvement, optimisation
+logglytrackingsession
+Essential
+The cookie names provided in this table are not exhaustive and can vary as we and our vendors update our systems, or where session identifiers are included in the cookie name.
+Cookie preferences You can manage your cookie preference on our website at any time from the ‘change cookie settings’ in the footer of our website. This allows you to turn preferences on or off as you choose. We have grouped our cookies into three categories: Essential:
+These are necessary cookies and things break without them. They do geek-tech wizardry like keeping our servers running when we're really popular or protecting you from hackers. Analytics and customisation:
+These cookies help us understand how our customers are using our site. They help us build better features and tailor our content for different people. Marketing and social media:
+These cookies help us reach you on social media or other websites to help you with queries or suggest relevant offers. Turning cookies off You can block cookies by activating the setting on your browser that allows you to refuse the setting of some or all cookies. However, if you use your browser settings to block all cookies you may not be able to access all or parts of our website, some website features may not work as intended, and your personal data will be less secure. If you don’t want us, or anyone else, to use cookies in your browser, you can: Remove cookies from your hard drive; Set your browser to block cookies; and Set your browser to send you a warning notice before a cookie is stored on your computer. For more information on cookies, this website may help
+allaboutcookies.org . This website is not owned or run by Octopus, but we think it’s helpful. You might not be able to make the most out of our website without cookies, as some functions need cookies to work. Should you change your mind, simply turn cookies back on and she'll be apples. 5.
+Where is my data stored? We are based within the UK, however some of the third parties and agents that we work with may be based outside of the European Economic Area (EEA), so their processing of your personal information may involve a transfer of data outside of the EEA. Whenever we transfer your personal information outside of the EEA, we will always ensure it is protected by making sure we have safeguards in place. This might mean only transferring your personal information to a country that has been deemed by the European Commission to provide an adequate level of protection, or by using specific contractual protections. You can contact us at
+dpo@octoenergy.com
+for details of how we protect specific transfers of your data. All information that you provide us with is stored on our secure servers, or those of our third parties’ data storage providers. 6.
+How long do we retain your data for? We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, accounting or administrative requirements. To determine the appropriate retention period for the personal information we hold, we consider the amount, nature and sensitivity of the personal information, the risk of harm from unauthorised use or disclosure of your personal information, the reasons why we handle your personal information, the applicable legal requirements and whether we can achieve those purposes through other means. In some circumstances, we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical analysis, such as looking at email open rates, or to improve our website and develop new products. In these cases, we may use this information indefinitely without further notice to you. 7.
+What are my rights under data protection laws? You have various rights under the data protection laws, which you can exercise by contacting us. The easiest way to do this is by email to
+dpo@octoenergy.com . Right to object You have the right to object to us handling your personal information where we are handling your personal information based on our legitimate interests. If you ask us to stop handling your personal information in this way, we will stop unless we can show you that we have compelling grounds as to why we should continue to use your personal information. You can also ask us to stop handling your personal information for marketing purposes at any time. Right of access You have the right to access your personal information which we are handling, and you are entitled to receive confirmation and details about whether your personal information is being processed by us. Right to rectification You have the right to require us to rectify any inaccurate personal information we hold about you. You also have the right to ask us to complete personal information which you think is incomplete. Right to restriction You can restrict our processing of your personal information where: you think we hold inaccurate personal information about you; our handling of your personal information breaks the law, but you do not want us to delete it; we no longer need to process your personal information, but you want us to keep it for legal reasons; or where we are handling your personal information because we have a legitimate interest (as described in the “How We Use Your Data” section above) and are in the process of objecting to this use of your personal information. Where you exercise your right to restrict us from using your personal information, we will then only process your personal information when you agree, except for storage purposes and to handle any legal claims. Right to data portability This right only applies to your personal information we are handling because you consented to us using it or because there is a contract in place between us. You have the right to receive your personal information in a structured, standard machine-readable format, and the right to ask us to send your information to another organisation or to give it to you. Right to erasure You have the right to require us to erase your personal information in the following circumstances: where we no longer need to use your personal information for the reasons we told you we collected it for; where we needed your consent to use your personal information, you have withdrawn your consent and there is no other lawful way we can continue to use your personal information; where you object to our use of your personal information and we have no compelling reason to carry on handling it; if our handling of your personal information has broken the law; and where we must erase your personal information to comply with a law we are subject to. Right to complain You have the right to lodge a complaint with the Information Commissioner's Office, the supervisory authority for data protection issues in the United Kingdom. 8.
+What about websites we link to? Our website and apps may contain links to third party websites. If you click on a link to any of these websites, you will leave our website or app and this may allow third parties to collect or share your data. We have no control over the contents of those third party websites and so will not accept any responsibility or liability for any materials on there. We encourage you to check their privacy policies before you submit any personal information to these websites. 9.
+Updates and contact Changes to our privacy policy We keep our privacy policy under regular review. Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email or post. Please check back frequently to see any updates or changes to our privacy policy. Information Commissioner We would always rather you speak to us first if you have any questions about our handling of your personal data, so we can resolve any problems as quickly as possible. However, if you are not happy with the way we have handled your data, or would like more information about your rights, you can contact the Information Commissioner’s Office, the UK’s independent authority on data privacy at
+ico.org.uk . Contact us Any questions, comments or requests regarding this privacy policy are welcomed and should be addressed to our data protection officer, Lynne Higgins. The best way to reach her is on
+dpo@octoenergy.com , or you can use any of the ways listed on our website here
+octopus.energy/contact-us .
+Hey I'm Constantine, welcome to Octopus Energy!
+× Close window
+Help & FAQs
+Contact us
+Complaints
+Careers
+Press
+Our policies
+Our tariffs
+Accessibility
+Tech blog
+Change cookie settings
+Download the Octopus Energy app on the App Store
+🇩🇪
+Octopus Energy DE
+🇪🇸
+Octopus Energy ES
+🇫🇷
+Octopus Energy FR
+🇮🇹
+Octopus Energy IT
+🇯🇵
+Octopus Energy JP
+🇳🇿
+Octopus Energy NZ
+🇺🇲
+Octopus Energy USA
+Octopus Energy Ltd is a company registered in England and Wales.
+Registered number: 09263424. Registered office: UK House, 5th floor, 164-182 Oxford Street, London, W1D 1NN.
+Modern slavery statement.
+🍪
+We use cookies to provide a great experience.
+If you're happy with this, continue browsing.
+Read more . Fine tune That's cool
+Octopus Energy
+The only energy supplier Which? has recommended 5 years in a row
+Rated
+5
+/ 5 based on
+191708
+reviews. |
+Review us
+Your browser is out of date
+In order to provide you with the latest digital energy web services you need to use the latest and greatest web browsers.
+Update your browser
+for a better web experience, here and all over the internet.

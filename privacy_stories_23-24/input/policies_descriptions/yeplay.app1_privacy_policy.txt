@@ -1,0 +1,6 @@
+Yeplay
+Yeplay POLÍTICA DE PRIVACIDAD Y CONTENIDO
+· La app no recoge ningún dato de caracter personal del usuario como, por ejemplo, nombre, fotografías o localización.
+· En consecuencia la app no comparte ningún dato personal con ninguna otra entidad o terceras personas.
+· Las imágenes y los videos introducidos por el usuario son enviados al servidor de la app con el fin de poder ser recuperados posteriormente por el propio usuario, y con el fin de que la app pueda ofrecer las funcionalidades según su descripción.
+· Permitimos que terceras compañías publiquen anuncios y recopilen cierta información anónima cuando visite nuestra aplicación. Estas empresas pueden utilizar información anónima, como su ID de publicidad de Google, el tipo y la versión de su dispositivo, la actividad de navegación, la ubicación y otros datos técnicos relacionados con su dispositivo, a fin de proporcionar anuncios.

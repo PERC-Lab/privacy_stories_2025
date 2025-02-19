@@ -1,38 +1,59 @@
-# 📜 Privacy Stories
-[![Version](https://img.shields.io/badge/version-0.2.7-blue.svg)](https://github.com/your_repo)
-[![Python](https://img.shields.io/badge/python-green.svg)](https://www.python.org/)
+## Privacy Stories Generator (Requirements Specification) 
 
-### Overview
+This repository takes input software documentation to output a list of privacy behaviors and privacy requirements in the form of privacy stories. 
 
-**Privacy Stories** This repository puts together the work I did for privacy stories throughout 2023-2024. There are several items throughout the repo we will not mention here including apsjs (to get info from the play store to use this navigate to this directory and ```npm install google-play-scraper``` then call desired files) and most of the utils (extra, other functions to get the data required for this project...) 
 
----
+### Description 
 
-## 🔮 Getting Started
+Different parts of this repository will require diffent technical capabilities.
+To prompt models for generation of privacy behaviors and stories one must first gather the appropriate API keys or access tokens for aisuite to use its model provides. 
+For model finetuning will require gpu access, our fine-tuning code (trainllama.py) may be run in a google colab notebook at 15-30 minutes per training step.
 
-### 1. Create Graphs Based on Annotated Privacy Policies
+#### Data
+The directory input is a copy of the directory annotations except for without the annotations (these directories are our documentation data)
 
-Generate graphs to visualize the connections between actions, data types, and purposes in the annotated privacy stories & their apps data safety sections.
+#### Prompting 
 
-- **Notebook**: [`graphs_stories/graphs.ipynb`](graphs_stories/graphs.ipynb)
+story_prompting.ipynb guides through the creation of the prompt template for generating privacy behaviors and stories, as well as sending these templates to our models. 
+judge_prompting guides through prompting for LM-LM evalutation. 
 
-### 2. Generate Privacy Stories
 
-To use openai, first create a secrets.py file in the utils directory. Add OPENAI_API_KEY = {your open api key}, 
-also provides functionality to run local models with Ollama. 
+#### Evaluation 
 
-Upload a privacy policy file to the `input` folder, then use the following notebook to generate privacy stories:
+utils.ipynb walks through the evaluation of models for F1 score and ELO rating. 
 
-- **Notebook**: [`story_prompting1.ipynb`](story_prompting1.ipynb)
-- **Output**: `output/{app_id}_privacy_stories.xlsx` 
-  - Leave the output file blank to default to `privacy_stories_1_1.xlsx`.
+```python annotate.py``` can be used to open our annotation file allowing for preference choices.
 
-### 3. Annotate and Answer Questions About Privacy Stories
+#### Training
+trainllama.py walks through our fine-tuning approach. utils.ipynb walks through the creation of training data from prefference data. llamainf.py will inference the model created from this training script with our task. 
 
-Annotate / answer questions about the generated privacy stories using the annotation tool.
 
-- **Notebook**: [`annotator/processor.ipynb`](annotator/processor.ipynb) - Load an Excel file for annotation and customize your questions.
-- **Run the Annotation App**:
-  ```bash
-  cd annotator
-  python main.py
+### Requirements 
+
+#### Functional Requirements:
+
+##### I/O
+The system may process any text file as software documentation 
+The system shall output the generated privacy behaviors and requirements in a parsable csv 
+
+##### Prompting
+The system allows for management, refinement and creation of prompt templates (prompt_templates.py)
+
+##### Eval
+The system provides F1 evaluations across input documentation datasets
+
+Non-Functional Requirements 
+
+##### Training
+The system shall allow for fine-tuning of small (<7b param) LMs efficiently such that they can be currently used in Google Colab or Kaggle Notebooks. 
+
+##### Usability
+
+The system shall provide user-friendly notebooks with descriptions that allow someone with no coding experience to use them. Code shall be overly commented to be easily understood how all functions operate. 
+
+
+
+
+
+
+

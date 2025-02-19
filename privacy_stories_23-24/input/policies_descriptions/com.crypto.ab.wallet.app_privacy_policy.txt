@@ -1,0 +1,52 @@
+Privacy Policy - AliceBob Wallet
+Skip to content
+Support
+Support
+Privacy Policy
+AliceBob LLC (collectively, “AliceBob,” “Wallet,” “we,” “our,” and/or “us”) values the privacy of individuals who use our websites (the “Website” or “Site”), applications, or services and any services that link to this Privacy Policy (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and disclose Personal Data from users of our Site and Services. For the purposes of this Privacy Policy, “Personal Data” means information that relates to an identified or identifiable natural person.
+By using our Site or Services, you agree to the collection, use, and disclosure of your Personal Data as described in this Privacy Policy. Beyond this Privacy Policy, your use of our Site or Services is also subject to our Terms of Use.
+INFORMATION WE COLLECT
+We may collect limited Personal Data from or about you or your devices from various sources, as described below.
+Information You Provide to Us.  When you contact us, sign up for our newsletter, sign up for advanced customer service, or participate in certain beta programs and services, we collect any Personal Data you provide to us, such as your name, email address, and country of residence.
+Information We Collect Automatically.  We may automatically collect information about you and your devices when you use our Site or Services. For example, when you visit our Website, we collect your internet protocol (IP) address, web browser type, web browser language, operating system type, the website you visited before browsing to our website, a pseudonymous User ID that is unique to AliceBob for AliceBob’s internal use in improving its products and services, the pages you view, the length of time you spend on a page, the dates and times of your visits, the hyperlinks you click on, and other information about your use of our Website. When performing an exchange through Third-Party Services, we log information such as the wallet addresses and the transaction IDs involved.
+Cookies.  We and the Third Parties may collect information using cookies, pixel tags, or similar technologies. Our third-party partners, such as analytics or advertising partners, may use these technologies to collect information about your online activities over time and across different services. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Site. You can block cookies by setting your internet browser to block some or all of the cookies.
+Information We Receive from Third Parties . We may receive Personal Data about you from third parties, such as data or marketing partners, and combine it with other Personal Data we have about you.
+CHILDREN
+We do not intend to solicit or collect Personal Data from anyone under the legal age of your country. If you are under 16 or are not of the legal age of your country, do not enter any personal information on our Website.
+HOW WE USE THE PERSONAL DATA WE COLLECT
+We use the Personal Data we collect for the following purposes:
+To provide, maintain, debug, improve, and enhance our Site and Services.
+To understand and analyze how you use our Site and Services and develop new products, services, features, and functionality.
+To communicate with you, provide you with updates and other information relating to our Site and Services, provide information that you request, provide you with our newsletter, respond to comments and questions, and otherwise provide customer support.
+For marketing purposes, such as developing and providing promotional and advertising materials that may be useful, relevant, valuable, or otherwise of interest to you.
+To personalize your experience on our Site, such as identifying you as a repeat visitor.
+To facilitate the connection of third-party services or applications.
+To create de-identified and/or aggregated data to improve for our business purposes, including to improve our Services.
+To find and prevent fraud, detect security incidents, and respond to trust and safety issues that may arise.
+For compliance purposes, including enforcing our Terms of Use or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency.
+To contract with Third Parties, including providing customer service, verifying customer information, providing advertising or marketing services, providing analytic services or providing similar services on behalf of the business or service provider.
+For other purposes for which we provide specific notice at the time the Personal Data is collected.
+THIRD-PARTY CONDITIONS/POLICIES
+Third-party websites have their own terms and conditions and privacy policies, and you should read these carefully before you submit any personal information to these websites. We do not endorse or otherwise accept any responsibility or liability for the content of such third-party websites or third-party terms and conditions or policies.
+HOW LONG WE STORE YOUR PERSONAL INFORMATION
+We keep your personal information for no longer than necessary for the purposes for which the personal information is processed. The length of time for which we retain personal information depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.
+You may request to remove the personal data. Should that be the case, user requests could be fulfilled by the erasure of personal data to the extent permissible by the applicable law and regulations. In certain cases, we are obliged to store your information to be legally compliant.
+YOUR RIGHTS TO YOUR INFORMATION
+In accordance with effective regulations, You have a significant number of rights related to your Personal Information, such as e.g.:
+The right to access and amend the personal data we hold about you. You have the right to request a copy of the personal data we hold about you. Also, you have the right to correct or update your Personal Data at any time.
+The right to delete the Personal Data. You may request to remove the personal data. If you do not want to use our Services or want your data to be erased, you can request us to remove your account permanently. Should that be the case, your requests could be fulfilled by the erasure of personal data to the extent permissible by the applicable law and regulations. In certain cases, we are obliged to store your information to be legally compliant.
+The right to restrict processing. You have the right to ask us to restrict the processing of your Personal Data. When processing is restricted, we can still store your information, but will not use it further.
+The right to object to the processing of your data. You have the right to object to our use of your Personal Data for our own purpose at any time.
+The right to data portability. You have the right to receive Personal Data you provide to us in a “commonly used machine-readable format.” This allows you to obtain and reuse your information for your own purposes across different services.
+The right to lodge a complaint with a Supervisory Authority.
+In case you want to exercise your rights, please contact us.
+SECURITY
+We use reasonable organizational, technical, and administrative measures to protect Personal Data within our organization. However, as no electronic transmission or storage of Personal Data can be entirely secure, we can make no guarantees as to the security or privacy of your Personal Data. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us.
+CHANGES TO POLICY
+We may update this Policy at any time without prior notice. We encourage you to review it periodically in order to be aware of the changes we may have made. Reading it carefully and checking for any modifications is your responsibility. By using the Services, you accept and agree to the Policy and the Terms of Use.
+CONTACT US
+If you have any questions about this Policy, please contact us via  support@alicebob.com .
+© 2023 AliceBob LLC
+Support
+Privacy Policy
+Terms of Use

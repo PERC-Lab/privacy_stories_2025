@@ -1,0 +1,55 @@
+User Data Policy
+Contact
+Licenses
+Legal Notice
+Home
+Apps
+User Data Policy
+About
+Privacy Pledge
+Our goal is to make your mobile experience smarter and to bring more quality. As we build these apps, we are committed to the principles of respecting your privacy, keeping your data safe, and letting you decide how your information is used and shared.
+This is our Privacy Pledge:
+We will only collect data that is useful or needed by the apps, services and your experience.
+We will be transparent about our data practices and will explain them in clear language.
+We will never sell your data.
+We will never share personally identifiable data.
+We share data only in absolut clear cases, like in a highscore list for game apps.
+We will always take the security of your data seriously.
+Privacy Policy
+This Privacy Policy describes the policies and procedures of qooApps on the collection, use and disclosure of your information, including any Personal Information (as below), on www.qooapps.com (each a "Website" and collectively the "Websites"), the services which are running on the webserver (each a "Service" and collectively the "Services") and the applications we offer to users (each an "App" and collectively the "Apps").
+Our Websites, Services and collected data of our Apps are hosted in Germany by STRATO, a company headquartered in Berlin, Germany.
+Our Websites have a SSL certificate and all data transfer using the HTTPS procotol (secure HTTP).
+If something in this policy does not make sense or if you have any questions, please contact us.
+What Information Do We Collect And Why?
+BLE Scanner This app for Wear OS Watches just collects the names and MAC Ids from nearby BLE devices, but do not store them. For this purpose the nearby devices and location permission is requested from the user.
+Wear Chronograph This watchface stores only the status of the in-app-purchase (option to customize all features in the watchface). All other visible private data, like: Heart rate, steps or next calendar entry, are handled by their complcations and will only graphical visualized in this watchfaces without any storing.
+Heart Rate Watch Face This watchface stores only the status of the in-app-purchase (option to customize all features in the watchface) and the recent measured heart rates (no longer as 24h) to display a historical graph. This data will never been shared and it will completely deleted when this watchface is removed from the watch.
+Sporty Watch This watchface App records your HR and location data and store it on the local private storage. This storage will be cleared when the App is uninstalled. The recording will be controlled by the user, there will be no recorded data without user action. Inside the app you need to enter your personal data like weight, height, gender and age to calculate the calories burned. This setting can be overwritten anytime and will be cleared when the app is uninstalled. The App has the further capability to upload this data to Google Drive, TrainingPeaks and/or Strava, were the user must be log in before.
+Sporty Go! This app records your HR and location data and store it on the local private or public storage. The permission to use the public storage is given by the user and can be removed anytime later.  The app private storage will be cleared when the app is uninstalled. The recording will be controlled by the user, there will be no recorded data without user action. Inside the app you need to enter your personal data like weight, height, gender and age to calculate the calories burned. This setting can be overwritten anytime and will be cleared when the app is uninstalled. The app has the further capability to upload this data to TrainingPeaks and/or Strava, were the user must be log in before.
+Photo Fit Watch with Companion qooApps Photo Share The watchface Photo Fit Watch shows a photo, which can be uploaded by the user using the qooApps Photo Share app/service from his smartphone. This companion is just a service app (without UI) and it registers as a photo sharing service, so the user can easily pick a photo and then share it, straight to the watchface on his watch and only there. This is done by a peer-to-peer connection from the phone to the watch, the data will be immediately transfered and only stored in the watchfaces private data storage -  nowhere else.
+My Agenda The My Agenda App requests calendar entries from your connected Google or Microsoft Calendar. Only title, location, color, start time, end time of an entry will be collected. This data will be stored in the private data section of the watch and will be removed if you use the 'Logout & Clear' Button in the app settings.
+Calendar Pro/Fit Watch  with Companion
+qooApps Calendar Service or qooApps Tizen Service The watchface Calendar Pro/Fit Watch requests calendar entries from your connected phone using the companion apps 'qooApps Tizen Service' (no UI) or 'qooApps Calendar Service' (with UI). Only title, location, color, start time, end time of an entry will be collected. This data will be stored in the private data section of the watch and will be removed if you uninstall the watchface. On the phone the data will be collected just on the request of the watch and will be removed instead.
+Weather Fit Watch/Weather Pro Watch
+This App transfers your location to the Service, but with a very reduced accuracy, so your current location can not really back traced. Your location will be stored, just for a statistical heatmap on the Site and without any link to your identity. This data will deleted after 2 or 3 days.
+GEARTRIS, GEARTRIS Fit Watch and Road Racer Watch
+These game Apps collect your Gear device unique id, which is not your serial number and which is not shown in any UI, the last 4 characters of your BT id, your nation, your gear model type and your game score. On our site only the shortened BT id, nation, gear model type and score will be shown.
+qooApps Connect Companion with Calendar Active Watch
+The App Calendar Active Watch request a unique code from the Service to be identifiable by the Companion App. The App 'qooApps Connect Companion' ask the user for this code and transfer a shortened calendar schedule to the Service. The Calendar entries are limited to less then 30 characters per item and only title, location, start time, end time will be collected. This data will be stored encrypted in a secure database.
+E-Mails
+Your mails, that was sent to the official support mail address support@qooapps.com, will be handled strictly confidential with any attachments, text and addresses. These mails will be deleted at least after one year.
+Support
+Since I do this as a self-employed person, I may not be able to respond to support mails within 72 hours, e.g. during the annual holiday.
+© 2010-2023 qooApps
+Home Apps User Data Policy About
+Voriges Bild (prev. image) Nächstes Bild (next image) ✕ Datenschutzeinstellungen Auf dieser Website werden Cookies genutzt. Sie können alle Cookies akzeptieren oder nur bestimmte auswählen. Sie können diese Einstellungen jederzeit ändern.
+Alle ablehnen
+Alle akzeptieren
+Speichern
+Cookie-Einstellungen
+Essenziell Sind für die einwandfreie Funktion der Website erforderlich. Informationen anzeigen Name: – Anbieter: Eigentümer dieser Website Diverse Session-Cookies oder z.B. Ihre Cookie-Einstellungen. Datenschutzerklärung Externe Medien Inhalte von externen Plattformen wie YouTube, Vimeo etc. Informationen anzeigen Name: Google Fonts
+Anbieter: Google Schriftarten, die zur Gestaltung dieser Website genutzt werden. Datenschutzerklärung Name: Vimeo Video
+Anbieter: Vimeo Videos von Vimeo. Datenschutzerklärung Name: YouTube Video
+Anbieter: YouTube Videos von YouTube. Datenschutzerklärung Datenschutzerklärung
+|
+Impressum Cookie-Einstellungen

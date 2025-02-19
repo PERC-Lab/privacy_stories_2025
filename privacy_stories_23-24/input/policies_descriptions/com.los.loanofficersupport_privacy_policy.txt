@@ -1,0 +1,74 @@
+Loan Officer Support - Privacy Policy
+Privacy Policy
+This Privacy Statement describes how Loan Officer Support (LOS), uses the information you provide.
+A loan officer support privacy policy is a document that outlines how a lending institution protects the privacy of its customers' personal and financial information. It typically includes information on data collection,
+use, and sharing practices, as well as the rights of borrowers to access and control their personal information. Having a clear and comprehensive privacy policy in place can help lenders demonstrate compliance with
+privacy regulations and build trust with their customers.
+LOS being a loan officer platform likely has a comprehensive privacy policy that covers a range of topics. Here are some typical points that might be included:
+1. Information Collection:
+a. Personal Information:
+When you register on the App, we may collect personal information may include the following:
+Your name
+Your company name
+Contact information including phone number email address
+Information about your business
+Professional or employment-related information
+Information about your business
+Login credentials such as user ID & password
+b. Device Information :
+To ensure the functionality and security of the App, we may collect device-related information, including IP address, browser type, operating system, and other technical data.
+c. Usage Statistics :
+In order to improve our services and enhance user experience, we gather anonymous usage statistics regarding interactions with the App. This data helps us understand how users engage with the
+App, identify areas for improvement, and make informed decisions to optimise our services..
+We only collect and process information that is necessary for providing and improving our services.
+2. Use of Information :
+LOS uses the collected information primarily to provide and improve its services and personalise user experiences. LOS uses the collected data, such as process loan applications, assess eligibility, verify identity,
+manage accounts, provide customer support, and improve their services.
+We analyse the data to identify patterns and trends, enabling us to offer tailored suggestions and recommendations to users.In addition, the information allows us to maintain the security and integrity of our services.
+By verifying identities and managing accounts, we can ensure that only authorised individuals have access to sensitive information, protecting both the user and LOS from potential fraudulent activities.
+We are committed to respecting your privacy and complying with all applicable data protection laws. We will never sell or distribute your personal information to third parties without your explicit consent.
+3. Information Sharing :
+We value your privacy and will only retain your personal information for the purpose of responding to your query. We do not share your information with third parties unless necessary or required by law.
+To protect your privacy, we have implemented:
+a. Secure Storage : Your information is stored securely with strict access controls.
+b. Limited Access:
+Only authorised personnel can access your information, following rigorous access controls and regular audits.
+c. Data Encryption:
+Advanced encryption techniques are used to protect your information during transmission.
+d. Legal Compliance:
+If legally obligated, we will disclose your information within the limits of applicable laws and regulations.
+Your privacy is our priority, and we strive to provide a safe and secure environment for your information.
+4. User Controls :
+a. Accessing and Correcting your Personal Information:
+As a valued user, we understand the importance of having control over your personal information stored within the App. We believe in providing you with a
+seamless experience, which includes easy access and efficient correction of any inaccuracies in your profile information.
+b. Communication Preferences:
+You can manage your communication preferences, including opting in or opting out of specific types of communications from the App.
+c. Data Deletion:
+If you wish to delete your personal information from our systems, please contact us using the provided contact details, and we will promptly address your request, subject to any legal
+obligations.
+At LOS, we are committed to maintaining the highest standards of data security and user privacy. By offering comprehensive user controls, we empower you to personalise and safeguard your personal information. Take
+advantage of these robust features and exercise full control over your profile within our platform.
+5. Data Security :
+a. Confidentiality Measures:
+We implement industry-standard security practices to protect your personal information from unauthorised access, loss, or misuse. Physical, technical, and administrative safeguards
+ensure data confidentiality and integrity.
+b. Regular Audits:
+align with evolving technological advancements and best practices in data protection.
+6. Cookies and Tracking :
+a. Cookie Usage:
+The App may utilise cookies or similar tracking technologies to enhance user experience and provide personalised services. These cookies store certain preferences and facilitate efficient
+navigation.
+b. Cookie Management:
+You can manage cookie preferences through your device's browser settings. However, disabling cookies may affect the functionality and performance of certain features in the App.
+7. Updates to the Privacy Policy :
+a. Policy Amendments:
+Our privacy policy is subject to periodic updates to reflect changes in our services, legal requirements, or industry standards. Any amendments will be communicated through prominent
+notifications within the App.
+b. Policy Access:
+You can easily access the most recent version of our privacy policy directly within the App. Simply navigate to the "Privacy Policy" section, and you'll find the latest version available for your
+reference.
+At LOS, we prioritise transparency and respect for your privacy. If you have any questions or concerns regarding our privacy policy or any updates, please don't hesitate to reach out to us. Our support team is always
+ready to assist you.
+Loan Officer Support
+v1.004

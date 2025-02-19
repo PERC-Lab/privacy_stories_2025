@@ -1,0 +1,42 @@
+Política de privacidad
+Política de privacidad
+La protección de tu privacidad es importante para nosotros. Por eso, queremos ser transparentes en cuanto a las prácticas de privacidad que seguimos. Tómate un momento para leer y familiarizarte con nuestra política de privacidad.
+Información recopilada
+1. Información del dispositivo:
+Recopilamos información sobre el dispositivo móvil que utilizas para acceder a nuestra aplicación, incluyendo el modelo del dispositivo, la versión del sistema operativo, la identificación del dispositivo único y otra información técnica similar.
+2. Información de anuncios:
+Nuestra aplicación utiliza servicios de publicidad de terceros, como AdMob y otros, para mostrar anuncios relevantes. Estos servicios pueden recopilar información anónima sobre tu actividad de navegación a través de cookies u otras tecnologías similares para proporcionarte anuncios personalizados basados en tus intereses.
+3. Información de Firebase:
+Utilizamos Firebase, una plataforma de desarrollo de aplicaciones móviles de Google, que puede recopilar información del dispositivo y utilizarla para mejorar la funcionalidad de la aplicación y proporcionar servicios adicionales, como análisis de uso y notificaciones. Puedes revisar la política de privacidad de Firebase de Google para obtener más detalles sobre cómo manejan la información recopilada.
+Uso de la información recopilada
+1. La información del dispositivo y otra información recopilada se utiliza para:
+Mejorar la funcionalidad de la aplicación.
+Personalizar tu experiencia de usuario.
+Ofrecerte contenido relevante.
+2. La información de anuncios se utiliza para:
+Proporcionar anuncios relevantes a los usuarios.
+Mejorar la calidad de los servicios de publicidad.
+3. La información adicional que nos proporcionas se utiliza para:
+Mejorar nuestros servicios.
+Responder a tus consultas.
+Ofrecerte una mejor atención al cliente.
+Compartir información
+No vendemos, compartimos ni transferimos de ninguna otra manera tu información personal a terceros, excepto según se describe en esta Política de privacidad.
+Podemos compartir información recopilada de forma anónima y agregada con terceros, como anunciantes o socios comerciales, para fines de análisis o investigación de mercado.
+Opciones de privacidad
+Puedes optar por no recibir anuncios personalizados ajustando la configuración de privacidad en tu dispositivo o utilizando las opciones de exclusión proporcionadas por los servicios de publicidad de terceros.
+Si no deseas que se recopile información a través de cookies u otras tecnologías similares, puedes ajustar la configuración de privacidad en tu dispositivo.
+Cumplimiento del GDPR
+A partir del 16 de enero de 2024, seguimos los requisitos del Reglamento General de Protección de Datos (GDPR por sus siglas en inglés) establecidos por la Unión Europea para la recopilación, uso y protección de los datos personales de los usuarios de la UE y el Reino Unido.
+Utilizamos una Plataforma de Administración de Consentimiento (CMP) certificada por Google para recopilar tu consentimiento antes de mostrar anuncios a usuarios de la UE y el Reino Unido.
+Ley DMCA
+Respetamos los derechos de propiedad intelectual de otros y nos comprometemos a cumplir con la Ley de Derechos de Autor del Milenio Digital ("DMCA", por sus siglas en inglés). Si crees que algún contenido de nuestra aplicación infringe tus derechos de autor, puedes enviar un correo:
+heymundomx@gmail.com .
+Cambios a esta política de privacidad
+Podemos actualizar esta Política de privacidad de vez en cuando. Te recomendamos que revises periódicamente esta página para obtener la versión más reciente de nuestra Política de privacidad.
+Si tienes alguna pregunta o inquietud acerca de nuestra Política de privacidad, no dudes en ponerte en contacto con nosotros a través de:
+heymundomx@gmail.com .
+Última actualización :
+30 de agosto, 2023
+Creado por
+HeyMundo

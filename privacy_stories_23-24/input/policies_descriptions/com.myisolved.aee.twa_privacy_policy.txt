@@ -1,0 +1,367 @@
+Privacy & Security Policy | isolved HCM
+Search and Contact
+Search
+Contact
+800.733.8839
+Get Started
+Login
+Who We Serve
+Platform
+Resources
+Partners
+Why isolved?
+Company
+isolved Privacy Policy
+Additional Privacy Information for California Residents
+isolved’s Biometric Information Privacy Policy and Statement
+Effective Date:
+January 1, 2023
+Last Updated On:
+April 10, 2023
+Policy Overview
+isolved, Inc.
+(“ isolved ”, “ we ”, “ us ” or “ our ”) respects your privacy and is committed to complying with this privacy policy (“ Privacy Policy ”), which describes what information we collect about you, how we collect it, how we use it, with whom we may share it and what choices you have regarding our use of your information.
+Our Privacy Policy applies to all isolved websites and collective services that link to this Policy (collectively, our “ Sites ”).
+isolved is an HR and benefits administrator in the United States, and our Sites are intended for use by representatives of our business customers and potential customers, representatives of the businesses that license or are interested in licensing our technology, and their and our employees within the United States. Our Sites are not intended for use by consumers for personal, family and household purposes.
+All references to “ you ” and “ your ” in this Privacy Policy refers to the individual representatives of such business entities, and the employees whose data is collected through our Sites.
+Changes to our Privacy Policy
+We may change this Privacy Policy at any time and from time to time. The most recent version of the Privacy Policy is reflected by the effective date located at the bottom of this Privacy Policy. All updates to this Privacy Policy are effective immediately upon notice thereof, which we may give by any means, including, but not limited to, by posting a revised version of this Privacy Policy or other notice on our Sites.
+We reserve the right to make any changes to this Privacy Policy at any time. The version of this Privacy Policy posted our Sites on each respective date you visit our Sites will be the Privacy Policy applicable to your access and use of our Sites on that date. Our electronically or otherwise properly stored copy of this Privacy Policy will be deemed to be the true, complete, valid, and authentic copy of the version of this Privacy Policy in force on each respective date you visited our Sites. This Privacy Policy is our notice to you, and does not constitute a contract between you and us.
+Information We Collect on our Sites
+We may collect certain information from or about you in connection with your use of, or your submissions to, our Sites, as described in this Privacy Policy (collectively, the “Collected Information”). Collected Information includes, without limitation, any information that may be used to identify an individual, including, but not limited to, a first and last name, a physical address, business name, a phone number, an email address, employer name, and employer information (i.e., employer address and other identifying information), and passively collected information, such as cookie data, as described below. In order to continuously improve our service and tailor our subsequent communications to you, we may also ask you to provide us with additional information regarding your demographics, comments, professional interests, and contact preferences.
+Cookies and Usage Reports
+By placing a small file known as a “cookie” on your computer (or other device), isolved's and its third-party service providers' servers passively gather information about all visitors' use of our Sites as permitted by applicable law, including for statistics collection and analysis, website optimization, analytics (as described below), market research, and maintenance of user login information.
+The information that we and our third-party service providers track with cookies includes, but is not limited to, the type of browser (such as Google Chrome or Internet Explorer) and Internet-connected devices being used to access our Sites, your Internet protocol (“IP”) address, your home domain or Internet service provider, your referrer URL (which is the URL for the website that you were viewing prior to visiting our Sites), how you were directed to our Sites, which specific pages you access on our Sites, how long you view each page, the time and date you access our Sites and the total number of visitors to our Sites and any portions thereof.
+We, and our third-party service providers, may use the information collected from cookies or similar files on your computer for security purposes (such as authentication), to facilitate site navigation and to personalize your experience while visiting our Sites. This data helps us and our third-party service providers improve our respective product and services.
+Most popular Internet browser applications will allow you to configure the browser so as not to accept cookies. However, setting your browser to reject cookies may, in certain instances, prevent you from taking full advantage of our Sites (or some portion thereof) and its capabilities, or cause some features of our Sites to function improperly or more slowly.
+Google Analytics and Web Beacons
+We use Google Analytics, a web analysis service provided by Google, together with other analytics services in order to better understand your use of our Sites and how we can improve it. Google Analytics collects information such as how often users visit a website, what pages you visit when you do so, and what other websites you used prior to coming to such website. Google Analytics collects only the IP address assigned to you on the date you visit a website, rather than your name or other directly identifying information. We do not combine the information collected through the use of Google Analytics with your personal information. Although Google Analytics plants a persistent cookie on your web browser to identify you as a unique user the next time you visit a website, the cookie cannot be used by anyone but Google. Google Analytics uses its cookie(s) and the information Google Analytics collects to track your online activities over time and across different websites when you use our Sites, and other websites. Google's ability to use and share information collected by Google Analytics about your visits to our Sites is governed by the
+Google Analytics Terms of Service
+and the
+Google Privacy Policy . Google utilizes the data collected to track and examine the use of our Sites, to prepare reports on its activities, and share them with other Google services. To more fully understand how Google may use the data it collects on our Sites, please review “How Google Uses Information from Sites or Apps That Use Our Services” (located
+here ). Other analytics services used on our Sites include those offered by HubSpot.
+Correspondence
+We appreciate your questions and comments about our Sites and welcome your messages at our Contact page, which you can find at
+www.isolvedhcm.com/contact . If you correspond with isolved through our Sites or via email, the Collected Information may include the content of, and metadata regarding, any correspondence you may have with us.
+We may share your messages with those within our organization who are most capable of addressing the issues contained in your message. We may archive your message for a certain period of time or discard it.
+Opting Out of Promotional Correspondence
+We may send you emails with promotional offers or information. If you would no longer like to receive information, newsletters or other promotional messages from us, please click the link at the bottom of any such email you receive from us and follow the unsubscribe instructions, or alternatively you may contact us at
+www.isolvedhcm.com/contact
+to request that your email address is removed from our newsletter or other promotional or marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
+Online Account Management
+If you elected to subscribe to any online services provided via our Sites, including the ability to access any password-protected areas of our Sites, you may be required to submit personal information for the purpose of verifying your identity and your authority to manage the account. This information will be used exclusively by isolved, our agents, suppliers, and third-party service providers for internal use and to respond to your service requests.
+How We Use the Information That We Collect
+isolved and our third-party services providers collect and use the Collected Information to operate our Sites and deliver the services provided through our Sites, including to provide certain services and improve the user experience, address website integrity and security issues, and conduct research and analysis to maintain, protect, develop, and improve our Sites, and use any information submitted by users as described below or elsewhere in this Privacy Policy.
+We may send you information that you request from us, promotional materials regarding isolved or any third-party entity or individual affiliated with isolved, and any other communication for any other legitimate and lawful business purposes.
+Additionally, we may retain and use certain Collected Information to facilitate and otherwise address certain inquiries or requests regarding our services or our Sites, or respond to your questions or requests for information about or from isolved.
+We may also use Collected Information as necessary to ensure compliance with any isolved policies and any applicable law, regulation, or order.
+With Whom We Share Information That We Collect
+In addition to the uses described elsewhere in this Privacy Policy, we may add Collected Information to our database.
+isolved may use and disclose certain aggregated, anonymized information, such as website usage data, to our trusted business partners. Such information may also be shared with other users or the general public for advertising, informational, or comparison purposes.
+We may also disclose Collected Information if we become subject to a subpoena or court order, or if we are otherwise legally required to disclose information. We may also use and disclose Collected Information as required or permitted by applicable law, including to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
+As isolved grows and develops its business, it is possible that its corporate structure or organization might change or that it might merge or otherwise combine with, or that it or portions of its business might be acquired by, another company. In any such transactions, customer and website information generally is, and should be expected to be, one of the transferred business assets. Also, if any bankruptcy, liquidation, or reorganization proceeding is brought by or against us, your information may be considered a company asset that may be sold or transferred to third parties.
+Job Applicants
+Any personal information you provide us when applying for a career position with us will be used solely to consider and act upon your application. We may retain your personal information for a period of time, but only for as long as necessary for such purposes. We may disclose your personal information to our agents for the purpose of evaluating your qualifications for the particular position you applied for, or other available positions. We may also disclose your personal information to third parties hired by us to collect, maintain, and analyze candidates for career positions.
+Sweepstakes, Promotions, Contests & Surveys
+You may wish to participate in certain online polls, surveys, contests, sweepstakes, and other promotions that may be offered on or through our Sites. Participation and disclosure of personal and contact information required to enter is voluntary. We may use such information to administer the polls, surveys, contests, sweepstakes, and other promotions, share information with our trusted service providers, and communicate with you and others whose contact information you provide to us.
+Your Choices
+When submitting information, corresponding, making requests for information, and otherwise interacting with isolved and its representatives through or in connection with our Sites, please take care to share only such information as is needed or that you believe is appropriate.
+Please see the Opting Out of Promotional Correspondence section above with respect to how to opt out of our emails with promotional offers or information. If you have created an online account, you may also change your correspondence preferences by logging into your account. You may disable your online account access at any time; however, this will not necessarily result in the deletion of any Collected Information.
+How We Protect Your Information
+isolved takes commercially reasonable measures to secure and protect information transmitted via or stored on our Sites and our related systems. Nevertheless, no security system is impenetrable. We cannot guarantee that information that users of our Sites may happen to transmit or otherwise supply will be totally secure.
+Linked Websites
+For your convenience, some hyperlinks may be posted on our Sites that link to other websites not under our control. We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of those sites or of any companies that we do not own or control. We do not endorse any of these websites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages. We encourage you to read the privacy policy of each website that you visit. In addition, should you happen to initiate a transaction on a website to which our Sites links, the information that you submit to complete that transaction becomes subject to the privacy practices of the operator of that linked website.
+User-Provided Content
+Any information, communications, or material of any type or nature that you submit to our Sites by posting, messaging, uploading, or otherwise (collectively, a “ Submission ”) is done at your own risk and without any expectation of privacy. We cannot control the actions of other users of our Sites and we are therefore not responsible for any Submissions contained on our Sites.
+Additionally, when accessing our blog or any interactive or social feature on our Sites, please be aware that these areas may allow you to post and share with other users, certain messages, content, or other information. Please refrain from posting any personal information in such forums. Your use of these portions of our Sites is solely at your own risk.
+Social Media Platform and Websites
+Any of your Submission to any of our pages on a social media platform, including those social media platforms for which links are provided on our Sites, is done at your own risk and without any expectation of privacy. We cannot control the actions of other users of a social media platform, and of the social media platform operators, and we are therefore not responsible for any Submissions or other content contained on a social media platform. The privacy policy and terms and conditions (or equivalent documents) posted on each social media platform governs your access to and use of each such social media platform.
+Children
+Our Sites are intended for a general audience and is not intended for use or view by children under 13 years of age without parental consent, and we do not knowingly collect information about children or sell products to children. Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any information from children under the age of 13.
+Inapplicability of GPDR, and Visiting our Sites From Outside the United States
+isolved is not subject to the GDPR. isolved does not have offices in and is not otherwise established in the European Union or Great Britain. Our Sites are not intended for use within the European Union or the United Kingdom, or other jurisdictions outside the United States, and we do not offer goods or services to persons in the European Union or the United Kingdom, nor do we monitor the behavior of persons in the European Union or the United Kingdom.
+If you are visiting our Sites, or any part thereof, from outside of the United States, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy, as described in this Privacy Policy. By using any portion of our Sites, you understand and consent to the transfer of your information to our facilities in the United States and those third parties with whom we share it as described in this Privacy Policy.
+Do Not Track Requests
+Certain state laws require that we indicate whether we honor “Do Not Track” settings in your internet browser concerning targeted advertising. We adhere to the standards set out in this Privacy Policy and do not monitor or follow any Do Not Track browser requests.
+Contact
+If you have any questions or suggestions about our Sites, isolved, our services, or our privacy practices, please contact us at
+www.isolvedhcm.com/contact .
+Additional Privacy Policy for California Residents
+This isolved Privacy Policy for California Residents ( “Policy” ) supplements the
+isolved Privacy Policy
+and
+Terms of Use
+and is adopted to comply with privacy rights law of California. California residents can find more information about consumer privacy at
+https://oag.ca.gov/privacy/consumer-privacy-resources . The Policy applies solely to all visitors, users, and others who reside in the State of California ( "consumers"
+or
+"you" ).
+Privacy Notice & Information We Collect
+When you visit any of our Sites (inclusive of isolved, Inc., its affiliated entities,
+"isolved,"
+"we"
+or
+"us" ) websites, isolved may collect information that identifies, relates to, describes, references, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer (you), household, or device ( "Personal Information" ). Personal information does not include:
+Publicly available information from government records.
+Deidentified or aggregated consumer information.
+Information excluded from California consumer privacy laws, like:
+health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA), clinical trial data, or other qualifying research data;
+personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FCRA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
+Your Personal Information may be collected to support isolved business operations and for website optimization, however isolved does not sell your Personal Information. Selling does not include isolved performing services on behalf of a client or other person or entity.
+isolved may use and disclose certain aggregated, anonymized information, such as website usage data, to our trusted business partners. Such information may also be shared with other users or the public for advertising, informational, or comparison purposes.
+isolved may also disclose information collected if it becomes subject to a subpoena or court order, or if it is otherwise legally required to disclose information. isolved may also use and disclose collected information as required or permitted by applicable law, including to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
+As isolved grows and develops its business, it is possible that its corporate structure or organization might change or that it might merge or otherwise combine with, or that it or portions of its business might be acquired by, another company. Under such circumstances, website information generally is, and should be expected to be, one of the transferred business assets. Further, if any bankruptcy, liquidation, or reorganization proceeding is brought by or against isolved, certain information may be considered a company asset that may be transferred to third parties.
+Collection Notice
+isolved collects your Personal Information to support its business operations, including for the purposes listed below.
+The following tables list uses of certain information that may be obtained from your visitation of isolved websites.
+We collected the following categories of Personal Information from consumers within the last twelve (12) months:
+Category
+Examples
+Retention Period
+Collected
+Business Purpose
+A. Identifiers.
+Online identifier, Internet Protocol address, email address, or other similar identifiers.
+None
+Yes
+Processing and Operational Optimization
+B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+Some Personal Information included in this category may overlap with other categories.
+None
+No
+None
+C. Protected classification characteristics under California or federal law.
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+None
+No
+None
+D. Commercial information.
+Records products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies based on your activity on our Sites.
+None
+Yes
+Processing and Operational Optimization; isolved sales
+E. Biometric information.
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+None
+No
+None
+F. Internet or other similar network activity.
+Browsing history, search history, information on a consumer's interaction with a website, application, or advertisement.
+None
+Yes
+Processing and Operational Optimization; isolved sales
+G. Geolocation data.
+Physical location or movements.
+None
+Yes (Snapshot)
+Processing Time and Attendance; isolved Time
+H. Sensory data.
+Audio, electronic, visual, thermal, olfactory, or similar information.
+None
+No
+None
+I. Professional or employment-related information.
+Current or past job history or performance evaluations.
+None
+Yes
+Internal Records; Human Resource
+J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+None
+No
+None
+K. Inferences drawn from other Personal Information.
+Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+None
+Yes
+Processing and Operational Optimization; isolved sales
+We obtain the categories of Personal Information listed above from the following categories of sources:
+Directly from you. For example, from forms you complete or products and services you purchase.
+Indirectly from you. For example, from observing your actions on our Sites.
+Use of Personal Information
+We may use, or disclose the Personal Information we collect for one or more of the following purposes:
+To fulfill or meet the reason you provided the information. For example, if you share your name and contact information to request a price quote or ask a question about our products or services, we will use that Personal Information to respond to your inquiry. If you provide your Personal Information to purchase a product or service, we will use that information to process your payment and facilitate delivery 1 .
+We may also save your information to facilitate new product orders or process returns.
+To provide, support, personalize, and develop our Sites, products, and services.
+To create, maintain, customize, and secure your account with us.
+To process your requests, purchases, transactions, and payments and prevent transactional fraud.
+To provide you with support and to respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
+To personalize your Sites experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Sites, third-party sites, and via email or text message (with your consent, where required by law).
+To help maintain the safety, security, and integrity of our Sites, products and services, databases and other technology assets, and business.
+For testing, research, analysis, and product development, including to develop and improve our Sites, products, and services.
+To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+As described to you when collecting your Personal Information or as otherwise set forth in applicable California law.
+To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us about our Sites users/consumers is among the assets transferred.
+We will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+1
+NOTICE: YOU ACKNOWLEDGE AND AGREE THAT ANY INFORMATION YOU TRANSMIT, POST, OR SHARE TO A PUBLIC FORUM, A NON-CONFIDENTIAL MEDIUM, OR IN A CHATBOT WILL NOT BE TREATED AS CONFIDENTIAL OR SENSITIVE INFORMATION. PLEASE DO NOT PUT CONFIDENTIAL OR SENSITIVE INFORMATION INTO THE CHATBOT.
+Sharing Personal Information
+We may share your Personal Information by disclosing it to a third party for a business purpose. We only make these business purpose disclosures under written contracts that describe the purposes, require the recipient to keep the Personal Information confidential, and prohibit using the disclosed information for any purpose except performing the contract. In the preceding twelve (12) months, Company has not disclosed Personal Information for a business purpose to the categories of third parties indicated in the chart below.
+Personal Information Category
+Category of Third-Party Recepients
+Business Purpose Disclosures
+Sales
+A: Identifiers.
+Processing and Operational Optimization; isolved Sales
+None
+B: California Customer Records Personal Information categories.
+Processing and Operational Optimization; isolved Sales
+None
+C: Protected classification characteristics under California or federal law.
+None
+None
+D: Commercial information.
+Processing and Operational Optimization; isolved Sales
+None
+E: Biometric information
+None
+None
+F: Internet or other similar network activity.
+Processing and Operational Optimization; isolved Sales
+None
+G: Geolocation data.
+None
+None
+H: Sensory data.
+None
+None
+I: Professional or employment-related information.
+Processing and Operational Optimization; isolved Sales
+None
+J: Non-public education information.
+None
+None
+K: Inferences drawn from other Personal Information.
+Processing and Operational Optimization; isolved Sales
+None
+Deidentified Patient Information
+We do not sell or disclose deidentified patient information.
+Choices About How We Use and Disclose Your Information
+At isolved, we strive to provide you with choices about the personal information you provide to us. The following are ways you can exercise control over your information:
+Tracking Technologies and Advertising.
+You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+Disclosure of Your Information for Third-Party Advertising.
+isolved will not sell or share your personal information with unaffiliated or non-agent third parties for promotional purposes.
+Promotional Offers from isolved.
+If you do not wish to have your contact information used by isolved to promote our own or third parties' products or services, you can opt-out by sending us an email stating your request to
+PrivacyOffice@isolvedhcm.com .
+isolved does not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ( "NAI" ) on the NAI's website.
+Right to Know and Data Portability
+You have the right to request that we disclose certain information to you about our collection and use of your Personal Information over the past 12 months (the "right to know"). Please see the Questions and Answers section below for general questions.
+Data Portability General Questions and Answers:
+Question - What are the specific pieces of personal information collected about the consumer?
+Answer - See charts above.
+Question - What are the personal information categories collected about the consumer?
+Answer - See charts above.
+Question - What are the source categories from which isolved collected the personal information?
+Answer - This information is collected either through your visit to our website, or by your employer if your employer uses isolved systems, products or services are used.
+Question - What are the personal information categories sold, if any, and the categories of third parties purchasing that personal information?
+Answer - isolved does not sell your personal information.
+Question - The personal information categories disclosed for a business purpose, if any, and the categories of third parties receiving that personal information?
+Answer - See charts above.
+The third parties that may receive such information are service providers to isolved involved in the provision of products and services to your employer or you, who are bound by confidentiality, privacy and security covenants.
+Question - What is the business or commercial purpose for collecting or selling personal information?
+Answer - Collection of personal information is only for the provision of isolved products and services to our clients, processing and operational optimization. isolved does not sell your personal information.
+Question - What personal information is shared for cross-context behavioral advertising?
+Answer - isolved does not share your information for such purposes.
+For more detailed requests, once we receive your request and confirm your identity (see
+Exercising Your Rights to Know or Delete ), we will disclose to you specifics about:
+The categories of Personal Information we collected about you.
+The categories of sources for the Personal Information we collected about you.
+Our business or commercial purpose for collecting or selling that Personal Information.
+The categories of third parties with whom we share that Personal Information.
+If we sold or disclosed your Personal Information for a business purpose, two separate lists disclosing:
+sales, identifying the Personal Information categories that each category of recipient purchased; and
+disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
+The specific pieces of Personal Information we collected about you (also called a data portability request).
+We do not provide a right to know or data portability disclosure for business-to-business
+information.
+Right to Delete
+You have the right to request that we delete any of your Personal Information that we collected from you and retained, subject to certain exceptions (the "right to delete"). Once we receive your request and confirm your identity (see
+Exercising Your Rights to Know or Delete ), we will review your request to see if an exception allowing us to retain the information applies. We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
+Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you.
+Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+Debug products to identify and repair errors that impair existing intended functionality.
+Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
+Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+Comply with a legal obligation.
+Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+We will delete or deidentify Personal Information not subject to one of these exceptions from our records and will direct our service providers to take similar action.
+We do not provide these deletion rights for business-to-business Information.
+Exercising Your Rights to Know or Delete
+To exercise your rights to know or delete described above, please submit a request by either:
+Calling us at
+866-231-1193 .
+Emailing us at
+PrivacyOffice@isolvedhcm.com .
+Website -
+https://www.isolvedhcm.com/contact .
+Only you, or someone legally authorized to act on your behalf, may make a request to know or delete related to your Personal Information. To designate an authorized agent for the purposes described in this Policy, email
+PrivacyOffice@isolvedhcm.com .
+You may also make a request to know or delete on behalf of your child by sending an email to
+PrivacyOffice@isolvedhcm.com .
+You may only submit a request to know twice within a 12-month period. Your request to know or delete must:
+Provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative, which may include:
+Power of attorney
+Other lawful binding documentation allowing a representative to act on your behalf
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity and authority to make the request and confirm the Personal Information relates to you.
+You do not need to create an account with us to submit a request to know or delete. [However, we do consider requests made through your password protected account sufficiently verified when the request relates to Personal Information associated with that specific account.]
+We will only use Personal Information provided in the request to verify the requestor's identity or authority to make it.
+Response Timing and Format
+We will confirm receipt of your request within ten (10) business days. If you do not receive confirmation within the 10-day timeframe, please contact
+PrivacyOffice@isolvedhcm.com
+or call
+866-231-1193 .
+isolved will generally provide a substantive respond to a verified consumer request within forty-five (45) days of its receipt. If we require more time (up to another 45 days), we will inform you of the reason and extension period.
+If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+Any disclosures we provide will only cover the 12-month period preceding our receipt of your request. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your Personal Information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+Non-Discrimination
+We will not discriminate against you for exercising any of your consumer privacy rights under the laws of California. Unless permitted by California law, we will not:
+Deny you goods or services.
+Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+Provide you a different level or quality of goods or services.
+Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+Other California Privacy Rights
+California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of our Sites that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. isolved does not share your information for such purposes.
+Changes to Our Privacy Policy
+We reserve the right to amend this privacy policy at our discretion and at any time. When we make changes to this privacy policy, we will post the updated notice on our Sites and update the notice's effective date.
+Your continued use of our Sites following the posting of changes constitutes your acceptance of such changes.
+Contact Information
+If you have any questions or comments about this notice, the ways in which isolved collects and uses your information described here and in the Privacy Policy, your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us at:
+Phone:
+866-231-1193
+Website:
+https://www.isolvedhcm.com/contact
+Email:
+PrivacyOffice@isolvedhcm.com
+Postal Address:
+isolved, Inc.
+Attn: Privacy Office Request
+11215 N. Community House Rd.
+Suite 800
+Charlotte, NC 28277
+If you need to access this Policy in an alternative format due to having a disability, please contact
+PrivacyOffice@isolvedhcm.com
+or call us at
+866-231-1193
+isolved’s Biometric Information Privacy Policy and Statement
+isolved has instituted the following policy related to any biometric data that isolved may possess as a result of isolved’s operations or of isolved’s clients’ and client employees’ use of isolved products and services. **isolved’s clients are responsible for developing and complying with their own biometric data retention and destruction policies as may be required under applicable law. **
+Biometric Information:
+Biometric information refers to measurable biological or physical characteristics that can be used to identify an individual, such as a person’s facial images, fingerprints, voiceprints, handprints, iris scans and the like. Some laws regulate the use of biometric information by requiring collectors, users and storers of it to obtain permission from the individual whose biometric information is collected or used, or by requiring that those individuals receive information about biometric information storage, such a duration of retention and data purging details.
+The reason for this, we believe, is to protect this unique information from compromise and ensure that individuals providing their biometric information make informed decisions about doing so.
+How Biometrics Work with isolved Time Solutions:
+While the isolved Timeclocks do contain touchpads, the technology does not use a fingerprint.  Instead, the touchpad senses features on a portion of the finger surface and then, through a complex technical process, facilitates the assignment of a designation to the employee.  That designation (or “Template”) is not a fingerprint and cannot be used to construct a fingerprint.
+isolved Timeclocks can function with or without the use of a touchpad. isolved does not control the Timeclocks and isolved does not have control of the work environments or circumstances of the employer.  It is the employer who engages the settings, including whether or not to use the touchpad feature.  If, however, employer chooses to engage the touchpad function, biometric information is not captured or used by isolved. Additionally and out of an abundance of caution, isolved requires each employee’s consent prior to the use of the touchpad feature on its timeclocks.
+If for any reason isolved were to receive biometric information it would delete immediately. isolved complies with applicable retention and destruction requirements as defined by law.
+The isolved Position on Biometric Information and isolved Timeclocks:
+Because isolved Timeclocks do not capture or use a fingerprint in their functionality, isolved does not believe that isolved Timeclocks capture biometric information as defined by law in any state. More specifically, neither the Timeclocks nor isolved collect, capture, possess, purchase, receive, obtain, use or store biometric identifiers. Nor does isolved sell, lease, trade or otherwise profit from biometric information.  isolved does recognize that employers using isolved Timeclocks may wish, out of an abundance of caution, to take conservative measures relative to biometric information.  isolved recommends consultation with legal and regulatory advisors about whether obtaining employees’ written consents or releases relative to using an isolved Timeclock would be advantageous.   isolved views such measures as the responsibility of the employer and not isolved.
+Careers
+Privacy
+California Privacy Notice
+Terms of Use
+All content copyright © isolved 2012–2023. All rights reserved.
+Schedule a Demo Today

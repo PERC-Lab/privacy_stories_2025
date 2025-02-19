@@ -1,0 +1,280 @@
+FANCY TEXT APP Policy
+ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SỬ DỤNG DỊCH VỤ
+Các điều khoản và điều kiện sử dụng dịch vụ hiển thị dưới đây (sau đây gọi là " Điều khoản và
+Điều kiện ", hoặc “ Điều Khoản Sử Dụng ”) quy định các điều khoản và điều kiện được đồng ý bởi và giữa FANCY TEXT APP (sau đây gọi “ HOCTOT ”, hoặc “ chúng
+tôi ”) và người sử dụng (sau đây gọi tắt là “ người
+dùng ”, hoặc “ bạn ”) về việc, hoặc có liên quan tới việc cung cấp, sử dụng dịch vụ mạng xã hội trực tuyến và các dịch vụ khác cung cấp bởi FANCY TEXT APP (sau đây gọi tắt là “ Dịch
+vụ ”).
+- Ứng dụng trình duyệt FANCY TEXT APP bao gồm:
++ Cộng đồng: Là mạng xã hội (social network), tất cả nội dung do người dùng tạo và đăng tải, tất điều khoản về
+nội dung như bên dưới
++ Trình duyệt Web trên ứng dụng (browser): Cung cấp chức năng duyệt web html và html5 trên ứng dụng, chúng tôi
+không chịu trách nhiệm về nội dung và url người dùng truy cập
+ĐỊNH NGHĨA
+Các từ ngữ và điều khoản sau sẽ có ý nghĩa như được định nghĩa dưới đây khi được sử dụng trong Điều khoản và Điều kiện:
+“ mạng xã
+hội ”, hoặc “ MXH ” hoặc “ social
+network ”, hoặc “ Sản
+Phẩm ” được hiểu là là hệ thống thông tin cung cấp cho cộng đồng người sử dụng mạng các dịch vụ lưu trữ, cung cấp, sử dụng, tìm kiếm, chia sẻ và trao đổi thông tin với nhau, bao gồm dịch vụ tạo trang thông tin điện tử cá nhân, diễn đàn (forum), trò chuyện (chat) trực tuyến, chia sẻ âm thanh, hình ảnh và các hình thức dịch vụ tương tự khác.
+“ FANCY TEXT APP ” được hiểu là mạng xã hội có tên gọi “FANCY TEXT APP” cung cấp bởi FANCY TEXT APP.
+“ Dịch vụ ” được hiểu là dịch vụ mạng xã hội, và các dịch vụ khác bao gồm trong đó, có hoặc được cung cấp kèm theo, hoặc các dịch vụ khác có liên quan tới việc cung cấp, khai thác, sử dụng dịch vụ mạng xã hội mà thông qua đó người dùng có thể truy cập, tải về, và sử dụng được mạng xã hội theo nhưng mong muốn. Dịch vụ có thể được cung cấp trực tiếp trên trang thông tin điện tử hoặc ứng dụng trên máy tính cá nhân hoặc trên thiết bị di động.
+“ Website ” được hiểu là trang thông tin điện tử có địa chỉ  https://1timetech.com/ , và các trang thông tin điện tử khác được sử dụng bởi Chúng tôi tùy từng thời điểm để duy trì, cung cấp, vận hành dịch vụ, hoặc có liên quan tới việc cung cấp Dịch vụ.
+“ Đối tác ” được hiểu là các đối tác, có thể là thể nhân hoặc pháp nhân mà có hợp tác với  Moon
+Truyện  trong việc cung cấp Dịch vụ,…
+“ Tài khoản ” được hiểu là có nghĩa là một tập hợp các chuỗi ký tự, các bất kỳ các dấu, hình ảnh, và các loại thông tin khác dưới mọi hình thức dùng để định danh một chủ thể duy nhất tại mạng xã hội FANCY TEXT APP.
+“ Điều khoản và Điều kiện riêng biệt ” có nghĩa là các tài liệu đã phát hành, hoặc sẽ được FANCY TEXT APP phát hành mà nội dung của tài liệu đó không trùng lặp, hoặc chỉ trùng lặp một phần với Điều khoản và Điều kiện này. Việc phát hành Điều khoản và Điều kiện riêng biệt được thể hiện thông qua việc tải lên bởi Chúng tôi liên quan đến Dịch vụ, dưới tiêu đề “thỏa thuận”,''hướng dẫn”, “chính sách”, hoặc dưới dạng tiêu đề khác tại website cung cấp Dịch vụ đó. Điều khoản và Điều kiện riêng biệt là một bộ phận cấu thành của Điều khoản và Điều kiện này. Việc đề cập tới Điều khoản và Điều kiện trong văn bản này cũng ngụ ý và bao hàm/bao gồm cả các Điều khoản và Điều kiện riêng biệt.
+" Nội dung " được hiểu là, bao gồm nhưng không giới hạn tới các thông tin như văn bản, tập tin âm thanh, âm nhạc, hình ảnh, video, phần mềm, chương trình, mã máy tính, vv... mà có thể được truy cập, hoặc sử dụng thông qua Dịch vụ.
+" Nội dung đệ trình " có nghĩa là những nội dung mà Người dùng đã gửi, truyền hoặc tải lên, hoặc dẫn chiếu tới dưới mọi hình thức, bao gồm nhưng không giới hạn tới các ký tự, văn bản, nội dung, thông điệp, thông báo, hình ảnh, các tập tin hình ảnh (dù hình ảnh động hoặc hình ảnh tĩnh), tập tin âm thanh, đoạn clip,...
+" Dịch vụ trả tiền " có nghĩa là Dịch vụ hoặc Nội dung được cung cấp cho Người dùng, mà không phải là miễn phí. Việc thu phí trong trường hợp này có thể do FANCY TEXT APP đưa ra hoặc do bên thứ ba khác.
+“ Bất khả kháng ” là các sự kiện xảy trong quá trình cung cấp Dịch vụ xảy ra do sự kiện khách quan nằm ngoài ý chí chủ quan của Chúng tôi. Bất khả kháng xảy ra ngoài dự liệu hợp lý của Chúng tôi và khiến Chúng tôi không thể khắc phục được dù đã áp dụng các biện pháp hợp lý trong khả năng của mình. Bất khả kháng bao gồm nhưng không giới hạn tới thiên tai, chiến tranh, bạo loạn, đình công, sự cố kỹ thuật khách quan, tấn công bởi tin tặc, xâm nhập hệ thống trái phép, đánh cắp thông tin, các hành động hacking khác,…
+THỎA THUẬN VỚI NGƯỜI DÙNG VỀ CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+Tất cả Người dùng đồng ý và cam kết sử dụng Dịch vụ phù hợp với các quy định trong Điều khoản và Điều kiện, cũng như với các Điều khoản. Người dùng không thể sử dụng Dịch vụ trừ khi họ đồng ý với các Điều khoản và Điều kiện đó. Thỏa thuận/cam kết này là hợp lệ và không thể thay đổi.
+Khi sử dụng và/hoặc tiếp tục sử dụng Dịch vụ, người dùng được coi là đã đồng ý với các Điều khoản và Điều kiện cũng như với mọi thay đổi, chỉnh sửa, bổ sung của Điều khoản và Điều kiện tại mọi thời điểm.
+Nếu có các Điều khoản và Điều kiện riêng biệt cho các Dịch vụ, hoặc từng Dịch vụ, người dùng cũng đồng ý tuân thủ theo các Điều khoản và Điều kiện riêng biệt đó cũng như tuân thủ các Điều khoản và Điều kiện thông thường. Điều khoản và Điều kiện riêng biệt cho các Dịch vụ có hiệu lực ngay lập tức kể từ thời điểm được đăng tải và hiển thị trên website.
+Người dùng xác nhận và đồng ý rằng giữa người dùng và Chúng tôi không tồn tại bất kỳ một quan hệ liên doanh, đối tác, quan hệ lao động, hoặc quan hệ đại lý nào xuất phát từ Điều khoản và Điều kiện hoặc do việc Người dùng sử dụng Dịch vụ của Chúng tôi. Chúng tôi thực hiện Điều khoản và Điều kiện này theo quy định của pháp luật hiện hành và không nội dung nào trong Điều khoản và Điều kiện này cản trở quyền của Chúng tôi tuân thủ các quy định hoặc yêu cầu của chính phủ, tòa án, cơ quan thi hành án, cũng như của các cơ quan Nhà nước có thẩm quyền khác liên quan đến việc người dùng sử dụng Dịch vụ của Chúng tôi hoặc thông tin do chúng tôi nhận được hoặc thu được từ việc sử dụng Dịch vụ của Người dùng.
+SỬA ĐỔI ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+Chúng tôi có thể sửa đổi các Điều khoản và Điều kiện và/hoặc Điều khoản và Điều kiện riêng biệt khi Chúng tôi cho là cần thiết mà không cần thông báo trước cho người dùng. Sửa đổi sẽ có hiệu lực ngay lập tức khi các Điều khoản và Điều kiện sửa đổi đó được đăng tải trên website điều hành bởi Chúng tôi dành cho việc cung cấp Dịch vụ đó. Người dùng sẽ được coi là chấp thuận với các sửa đổi đó thông qua việc tiếp tục sử dụng Dịch vụ.
+Người dùng đồng ý rằng người dùng có trách nhiệm chú ý đến, cũng như kiểm tra các điều khoản và điều kiện một cách thường xuyên khi sử dụng Dịch vụ từ khi một thông báo riêng biệt liên quan đến các sửa đổi Điều khoản và Điều kiện hay sửa đổi Điều khoản và Điều kiện riêng biệt đó có thể không được cung cấp. Mặc dù vậy, việc thông báo liên quan đến sửa đổi Điều khoản và Điều kiện như vậy không phải là bắt buộc và không ảnh hưởng tới hiệu lực của việc sửa đổi Điều khoản và Điều kiện.
+TÀI KHOẢN
+Người dùng khi cung cấp thông tin của mình tới Chúng tôi sẽ phải cung cấp những thông tin xác thực, chính xác và đầy đủ trong khi sử dụng Dịch vụ cũng như giữ những thông tin đó luôn được cập nhật mỗi khi có sự thay đổi, sửa đổi, hoặc thay thế. Những thông tin cơ bản mà người dùng cần phải cung cấp bao gồm:
+- Giới tính
+- Ngày, tháng, năm sinh
+- Số điện thoại, địa chỉ thư điện tử (nếu có)
+Trường hợp chủ tài khoản dưới 14 tuổi và chưa có Chứng minh nhân dân hoặc hộ chiếu, người giám hộ hợp pháp của Người dùng quyết định việc đăng ký thông tin cá nhân của mình để thể hiện sự đồng ý và chịu trách nhiệm trước pháp luật về việc đăng ký đó.
+Trường hợp người dùng không cung cấp hoặc cung cấp không chính xác, không đầy đủ các thông tin nêu trên, FANCY TEXT APP có quyền: (i) từ chối cung cấp dịch vụ cho người dùng, và (ii) ngừng cung cấp Dịch vụ cho người dùng hoặc hạn chế hoặc cấm sử dụng một số hoặc toàn bộ tính năng của tài khoản, xóa tài khoản và Nội dung đệ trình mà người dùng đã đăng tải, cũng như được xóa mọi thông tin liên quan, hoặc đình chỉ việc sử dụng hoặc khóa tài khoản của người dùng, và (iii) từ chối tiếp nhận, giải quyết các khiếu nại của người dùng liên quan đến Dịch vụ và/hoặc tài khoản của người dùng khi sử dụng Dịch vụ.
+Nếu người dùng đăng ký một mật khẩu khi sử dụng dịch vụ, người dùng sẽ phải chú ý và bảo mật đến mật khẩu của mình và có trách nhiệm không sử dụng mật khẩu đó theo một cách thức trái pháp luật. Trong những tình huống cần thiết hoặc khi được cơ quan Nhà nước có thẩm quyền yêu cầu, Chúng tôi có thể xử lý tất cả các hoạt động được thực hiện thông qua tài khoản của Người dùng như là hoạt động đã được thực hiện bởi chủ sở hữu của tài khoản đó.
+Chúng tôi không bảo đảm rằng khi Người dùng thay đổi thiết bị sử dụng của mình, người dùng có thể sử dụng toàn bộ các thông tin Tài khoản, truy cập hoặc sử dụng dữ liệu về thông tin, Nội dung đệ trình, ... trên thiết bị mới của Người dùng.
+Chúng tôi có toàn quyền xóa, cũng như chấm dứt việc sử dụng Dịch vụ của bất kỳ tài khoản nào mà không hoạt động trong một khoảng thời gian 180 ngày hoặc nhiều hơn kể từ lần kích hoạt, đăng nhập cuối cùng mà không cần thông báo trước cho Người dùng.
+Quyền của Người dùng trong việc dùng Dịch vụ sẽ tự động chấm dứt khi tài khoản của họ bị xóa vì bất kỳ lý do nào.
+Mỗi tài khoản khi sử dụng Dịch vụ chỉ dành cho việc sử dụng độc quyền và chỉ thuộc về chủ sở hữu của chủ tài khoản đó. Người dùng không được phép chuyển giao, hoặc chuyển nhượng, hoặc cho thuê, và/hoặc cho mượn tài khoản của họ tới bất kỳ bên thứ ba nào và cũng không được thừa kế bởi bất kỳ bên thứ ba nào.
+Chuyển nhượng Tài khoản: Chúng tôi có toàn quyền trong việc có đồng ý hoặc không đồng ý với việc chuyển nhượng Tài khoản của người dùng. Trong trường hợp Chúng tôi đồng ý việc chuyển nhượng tài khoản, Chúng tôi không bảo đảm và được miễn trừ trách nhiệm với bất kỳ rủi ro, mất mát, hoặc không bảo toàn nội dung, không bảo toàn thông tin của tài khoản, cũng như không bảo đảm rằng người dùng mới của tài khoản có thể sử dụng một cách bình thường tài khoản.  Trong quá trình chuyển nhượng tài khoản, Người dùng, bao gồm cả bên chuyển nhượng tài khoản và bên tiếp nhận tài khoản, đồng ý chấp nhận mọi sai sót, sai lệch, mất mát, thất thoát dữ liệu hoặc bất kỳ rủi ro nào khác có thể xảy ra đối với tài khoản được chuyển nhượng.
+Người dùng hiểu rõ và đồng ý rằng, để tránh trường hợp bị mất, bị can thiệp hoặc xâm nhập vào tài khoản một cách ngoài ý muốn (như bị hack), người chơi sẽ không tiết lộ thông tin về tài khoản, mật khẩu cho bất kỳ bên thứ ba nào kể cả những người thân thích, đồng thời áp dụng các biện pháp hợp lý nhằm bảo mật tài khoản của mình. Trong bất kỳ trường hợp nào, khi người dùng nhận thấy hay nghi ngờ tài khoản của mình bị đăng nhập trái với ý muốn của mình, người dùng cần ngay lập tức thay đổi mật khẩu và/hoặc thông báo cho FANCY TEXT APP và thực hiện các thủ tục cần thiết tạm khóa tài khoản nhằm giảm thiểu các thiệt hại cho người dùng theo đúng quy trình hỗ trợ giải quyết khiếu nại khách hàng của Chúng tôi.
+Quy tắc đặt tên tài khoản:
+Việc đặt tên tài khoản của Người dùng khi sử dụng Dịch vụ cần phải tuân thủ nguyên tắc đặt tên như sau:
+Các trường hợp đặt tên:
+Tài khoản đăng nhập (account name).
+Các nội dung cho phép đặt tên khác hoặc cần có ký tự để định danh tài khoản khác tùy thuộc vào Dịch vụ.
+Quy tắc đặt tên:
+- Không đặt bất cứ tên nào có nội dung liên quan hoặc khiến người khác liên tưởng đến tên của các vĩ nhân, lãnh đạo chính quyền các cấp (cho dù đương chức hoặc đã rời khỏi chức vụ tại mọi thời điểm), những danh nhân văn hóa, anh hùng trong lịch sử, người nổi tiếng hoặc những người thu hút sự quan tâm của công chúng.
+- Không đặt bất cứ tên nào có nội dung liên quan đến các sự việc hay nội dung phản động, bài xích tôn giáo, khiêu dâm, quảng cáo hay phản thuần phong mỹ tục và văn hóa Việt Nam, không đặt bất cứ tên nào có nội dung vi phạm, hoặc có dấu hiệu vi phạm quy định pháp luật Việt Nam và/hoặc cương lĩnh, văn kiện và chính sách của Đảng tại mọi thời điểm.
+- Không đặt bất cứ tên nào có nội dung xúc phạm, khích bác đến tổ chức và cá nhân khác dưới bất kỳ hình thức nào.
+- Không đặt bất cứ tên nào có nội dung phá rối hay làm mất uy tín của Dịch vụ cũng như của FANCY TEXT APP và các bên thứ ba có liên quan tới FANCY TEXT APP.
+- Nghiêm cấm đặt mọi tên có thể khiến người khác hiểu lầm hay liên tưởng tên gọi đó có liên quan đến các thành viên Ban điều hành, Ban quản lý của FANCY TEXT APP và các bên thứ ba có liên quan tới FANCY TEXT APP.
+- Không đặt bất kỳ tên nào ám chỉ hoặc có ý ám chỉ đến những phần kín của cơ thể.
+- Không đặt bất kỳ tên nào đi ngược lại thuần phong mỹ tục hay truyền thống văn hóa Việt Nam.
+Nếu vi phạm, Người dùng sẽ bị xóa bỏ Tài khoản. Người dùng đồng ý rằng khi bị xóa tài khoản trong trường hợp này, Người dùng sẽ từ bỏ toàn bộ quyền và lợi ích (nếu có) đối với tài khoản và giữ cho FANCY TEXT APP không bị liên đới và không phải bồi hoàn cho Người dùng cũng như bất kỳ bên thứ ba nào về việc vi phạm của Người dùng.
+Các bước đăng ký tài khoản, đăng nhập và đăng xuất
+Việc đăng ký tài khoản, đăng nhập và đăng xuất tài khoản được Người dùng thực hiện phù hợp theo thông báo và hướng dẫn của mỗi loại Dịch vụ.
+Trong mọi trường hợp, Người dùng được yêu cầu phải cung cấp đầy đủ các thông tin được quy định tại Điều 4.1 ở trên để bảo đảm tuân thủ Điều khoản và Điều kiện này và pháp luật hiện hành của Việt Nam.
+Nhằm đảm bảo quyền và lợi ích hợp pháp của Người dùng, FANCY TEXT APP khuyến cáo Người dùng nên đăng nhập bằng tài khoản thuộc quyền sở hữu hợp pháp của chính mình. FANCY TEXT APP sẽ không thể tiếp nhận và hỗ trợ giải quyết các khiếu nại của Người dùng trong trường hợp Người dùng không thể cung cấp đầy đủ thông tin để chứng minh Người dùng là chủ sở hữu của tài khoản.
+QUY ĐỊNH VỀ DỊCH VỤ
+Người dùng sẽ tự cung cấp máy tính cá nhân cần thiết, thiết bị điện thoại di động, thiết bị truyền, Hệ điều hành, kết nối dữ liệu cũng như các phương tiện và điều kiện cần thiết khác cho việc sử dụng Dịch vụ bởi Người dùng theo trách nhiệm của Người dùng với mức kinh phí mà Người dùng tự chi trả.
+Chúng tôi có toàn quyền hạn chế quyền truy cập vào toàn bộ hoặc một phần của Dịch vụ tùy thuộc vào điều kiện mà Chúng tôi xem xét cần thiết, bao gồm nhưng không giới hạn tới tuổi tác, nhận dạng, tình trạng thành viên hiện tại,...
+Chúng tôi có toàn quyền sửa đổi hoặc chấm dứt, hoặc đình chỉ toàn bộ hoặc một phần của Dịch vụ bất cứ lúc nào theo ý kiến riêng của Chúng tôi mà không cần bất kỳ thông báo trước nào cho Người dùng.Việc sửa đổi hoặc chấm dứt, đình chỉ như vậy có hiệu lực ngay lập tức tại thời điểm Chúng tôi thông báo về sửa đổi hoặc chấm dứt, đình chỉ trừ khi trong thông báo đó có quy định về một thời điểm khác.
+a. Đối với Dịch vụ trả tiền, trong mọi trường hợp, Chúng tôi sẽ không cung cấp bất kỳ hoàn phí nào đối với số tiền mà Người dùng đã thanh toán cho Chúng tôi.
+Đối với Người dùng thanh toán cho Dịch vụ do Chúng tôi cung cấp bằng phương thức thanh toán thẻ trực tuyến thông qua các kênh trung gian thanh toán là đối tác của Chúng tôi, trường hợp xảy ra các giao dịch không thành công nhưng tiền trong tài khoản của Người dùng vẫn bị trừ đi tương ứng, và/hoặc các trường hợp tra soát khiếu nại khác được xác minh là phát sinh do lỗi của Chúng tôi, Chúng tôi sẽ hoàn tiền cho Người dùng thông qua kênh trung gian thanh toán vào đúng số thẻ mà khách hàng thực hiện giao dịch đó trong thời hạn tối thiểu 60 (sáu mươi) ngày, kể từ ngày nhận được khiếu nại từ Người dùng và đã xác minh được lỗi của giao dịch.
+Chúng tôi không đảm bảo rằng Người dùng sẽ có thể truy cập hoặc sử dụng Dịch vụ tại thời gian và địa điểm mà Người dùng lựa chọn, cũng không đảm bảo rằng Dịch vụ sẽ không bị gián đoạn hoặc không bị lỗi cũng như những lỗi đó sẽ được sửa chữa và các Dịch vụ sẽ không có virus, trojan hoặc các thành phần gây hại khác. Chúng tôi không chịu trách nhiệm cho bất kỳ gián đoạn hoặc lỗi, tổn thất, thiệt hại, đột nhập/xâm nhập trái phép, hành vi hacking, phá tường lửa (firewall), thất lạc thông tin (nếu có) xảy ra cho người dùng.
+Khi sử dụng Dịch vụ của Chúng tôi, Người dùng đồng ý cho phép trên cơ sở không hủy ngang cho Chúng tôi quyền thu thập và lưu trữ thông tin mà Người dùng cung cấp khi mở tài khoản, cũng như các thông tin khác bao gồm nhưng không giới hạn đến đến sở thích, thói quen, thị hiếu, thao tác của Người dùng khi sử dụng Dịch vụ, kể cả việc gửi đến thiết bị của Người dùng các phần mềm, ứng dụng nhằm thu thập một số thông tin kỹ thuật được chứa đựng trong thiết bị của Người dùng. Việc thu thập thông tin như vậy được Chúng tôi sử dụng duy nhất cho mục đích cải tiến tính năng của Dịch vụ để từ đó Chúng tôi phát triển, hoàn thiện sản phẩm và dịch vụ đáp ứng phù hợp nhất với Người dùng. FANCY TEXT APP cam kết bảo mật toàn bộ các thông tin mà FANCY TEXT APP thu thập từ bạn.
+Người dùng hiểu rõ và đồng ý rằng, để tăng cường mức độ bảo mật, an toàn của dịch vụ, Chúng tôi có quyền áp dụng một hoặc một hoặc nhiều biện pháp kỹ thuật và/hoặc phần mềm, ứng dụng vào trong hoặc bên cạnh các Ứng dụng và Dịch vụ; mặc dù vậy, việc áp dụng các biện pháp nêu trên không được là sự đảm bảo rằng tài khoản của Người dùng không bị mất, bị hack và FANCY TEXT APP được miễn trừ hoàn toàn trách nhiệm bởi các trường hợp này.
+Phù hợp với quy định pháp luật, Dịch vụ được cung cấp cho Bạn với mục đích giải trí cùng với các trải nghiệm (nhằm giải trí) của Bạn khi sử dụng Dịch vụ, vì vậy, trường hợp Dịch vụ bị tạm ngưng hoặc chấm dứt cung cấp hoàn toàn vì bất kỳ lý do nào, FANCY TEXT APP không có nghĩa vụ hoàn trả, bồi thường bất kỳ khoản tiền mặt hay hiện vật, hiện kim hoặc bất kỳ tài sản nào cho Bạn; mặc dù vậy, trường hợp Dịch vụ bị tạm ngưng hoặc ngưng cung cấp hoàn toàn, FANCY TEXT APP sẽ nỗ lực thông báo trước đến Bạn trong một khoảng thời gian hợp lý và có phương án để đảm bảo quyền lợi của Bạn theo đúng quy định pháp luật.
+Toàn bộ thông tin kỹ thuật, thông tin về tính năng, công thức, giải pháp kỹ thuật và các thông tin không được công bố khác của Dịch vụ đều là thông tin mật; vì vậy, FANCY TEXT APP không có nghĩa vụ cung cấp dưới bất kỳ hình thức nào cho Bạn bất cứ thông tin nào nêu trên.
+QUẢNG CÁO
+Chúng tôi có quyền cung cấp tới người dùng các quảng cáo của Chúng tôi, hoặc quảng cáo của Đối tác, hoặc của một bên thứ ba khác thông qua các hình thức như tin nhắn, điện thoại, thư điện tử (email), hiển thị trên màn hình trong quá trình sử dụng dịch vụ hoặc hiển thị khi người dùng sử dụng thiết bị,... hoặc bất kỳ hình thức nào mà người dùng có thể tiếp cận được thông tin; trong trường hợp này, Đối tác của FANCY TEXT APP (nếu có) cũng có nghĩa vụ bảo mật thông tin cá nhân của người dùng như FANCY TEXT APP.
+DỊCH VỤ CỦA CÁC ĐỐI TÁC
+Nội dung hoặc các dịch vụ khác, cũng như quảng cáo được cung cấp bởi các Đối tác của FANCY TEXT APP và các trang thông tin điện tử liên kết với các Nội dung, Dịch vụ, quảng cáo có thể được cung cấp bao gồm, hoặc kèm theo, hoặc liên kết với Dịch vụ của FANCY TEXT APP.
+Người dùng hiểu và đồng ý rằng, Đối tác chịu tất cả các trách nhiệm về nội dung và/hoặc các dịch vụ họ cung cấp. Người dùng đồng ý và công nhận rằng FANCY TEXT APP có thể liên kết với hoặc cung cấp đường link của/hoặc dẫn tới các websites khác của các Đối tác hoặc bên thứ ba khác, và người dùng đồng ý rằng FANCY TEXT APP không kiểm soát và chịu trách nhiệm đối với, bao gồm nhưng không giới hạn tới bất kỳ nội dung, quảng cáo, dịch vụ, sản phẩm,... mà người dùng sử dụng, hoặc có được hoặc biết được từ các websites đó. Đồng thời người dùng cũng xác nhận rằng FANCY TEXT APP sẽ không chịu trách nhiệm đối với tổn thất và mất mát mà người dùng phải gánh chịu có nguyên nhân từ/hoặc do việc người dùng sử dụng các nội dung, quảng cáo, dịch vụ, sản phẩm,... đó từ các website như vậy.
+Ngoài ra, Người dùng cũng đồng ý rằng người dùng sẽ, cùng với việc tuân thủ Điều khoản và Điều kiện, tuân theo các điều khoản và điều kiện sử dụng dịch vụ do Đối tác cung cấp và /hoặc yêu cầu.
+NỘI DUNG
+Người dùng đồng ý cho phép Chúng tôi có quyền, trên cơ sở không hủy ngang, trong việc sử dụng Nội dung được cung cấp bởi Người dùng.
+Khi sử dụng Dịch vụ và Nội dung, người dùng phải tuân thủ theo những điều kiện thích hợp tuân theo các chi phí và thời gian sử dụng. Bất kể tình huống có các cụm từ như “Mua hàng”, “Bán hàng”, hoặc tương tự vậy khi xuất hiện trên màn hình Dịch vụ hoặc được thông báo/hoặc hiển thị dưới hình thức khác, Chúng tôi sẽ vẫn có tất cả các quyền sở hữu trí tuệ cũng như tất cả các quyền khác trong/hoặc đối với các Nội dung mà Chúng tôi cung cấp cho Người dùng và những quyền đó sẽ không được chuyển giao cho Người dùng.
+Người dùng không được sử dụng nội dung vượt ra ngoài phạm vi của việc sử dụng đã được định trước của Dịch vụ (bao gồm nhưng không giới hạn việc sao chép, truyền tải, mô phỏng, sửa đổi).
+Người dùng sẽ phải duy trì các quyền liên quan đến Nội dung đệ trình của mình như trước, và Chúng tôi sẽ không có bất kỳ quyền nào liên quan đến những nội dung đó. Tuy nhiên, nếu không chỉ Người dùng mà tất cả những người dùng khác đều có thể nhìn thấy những nội dung đó, hoặc các Nội dung đệ trình đó được người dùng đặt dưới chế độ ”công khai”/ “public” thì Người dùng, người mà đăng Nội dung đệ trình đó sẽ đồng ý cấp cho Chúng tôi một giấy phép/quyền mang tính toàn cầu, không độc quyền và miễn phí (với quyền cấp phép lại hoặc chuyển nhượng lại những nội dung đó cho các bên thứ ba làm việc với Chúng tôi) với khoảng thời gian vô hạn để sử dụng (sau khi sửa đổi nội dung đó, nếu Chúng tôi tin rằng nó cần thiết và thích hợp) những nội dung đó cho Dịch vụ và/hoặc mục đích quảng cáo. Việc cấp phép/quyền đó bởi Người dùng cho Chúng tôi có hiệu lực từ thời điểm Người dùng cung cấp, hoặc truyền đưa lên, hoặc đăng tải các Nội dung đệ trình đó.
+Nếu Chúng tôi tin rằng người sử dụng đã vi phạm luật hiện hành hoặc những quy định trong Điều khoản và Điều kiện liên quan tới những Nội dung đệ trình, Chúng tôi có quyền ngăn cản người dùng sử dụng Nội dung đệ trình theo các cách thức nhất định, chẳng hạn như xóa Nội dung đệ trình mà không thông báo trước tới Người dùng. Chúng tôi không có trách nhiệm bồi hoàn và/hoặc bồi thường cho người dùng bất kỳ thiệt hại hay mất mát nào xảy ra cho người dùng trong trường hợp này.
+QUYỀN SỞ HỮU TRÍ TUỆ VÀ GIẢI QUYẾT KHIẾU NẠI VI PHẠM SỞ HỮU TRÍ TUỆ
+TUYÊN BỐ QUYỀN SỞ HỮU TRÍ TUỆ CỦA FANCY TEXT APP
+(i)
+Bản quyền nội dung của FANCY TEXT APP bao gồm nhưng không giới hạn ở: văn bản, hình ảnh, logo, sáng tạo, liên kết và ứng dụng, các tập tin âm thanh, tập tin hình ảnh (cho dù là hình ảnh động hoặc hình ảnh tĩnh), các đoạn video, clip,… (sau đây gọi chung là “ Tài
+Sản Trí Tuệ ”) đều thuộc thuộc về FANCY TEXT APP, và/hoặc của bên cung cấp nội dung, thông tin đó cho FANCY TEXT APP, đồng thời được bảo vệ bởi quy định pháp luật hiện hành Việt Nam và pháp luật quốc tế.
+(ii)
+FANCY TEXT APP giữ độc quyền trong việc cho phép hoặc không cho phép người dùng sử dụng Tài Sản Trí Tuệ. Các thông tin độc quyền của FANCY TEXT APP có thể được đăng lại nếu được FANCY TEXT APP đồng ý từ trước đó, và phải ghi rõ nguồn của FANCY TEXT APP.
+(iii)
+FANCY TEXT APP có toàn quyền sở hữu trí tuệ đối với nội dung tự tạo và các nội dung độc quyền khác có được thông qua việc ủy quyền hoặc mua bản quyền. Không đơn vị hoặc cá nhân nào được đăng lại, phát tán và cung cấp dịch vụ đọc hoặc những hành vi xâm phạm quyền sở hữu trí tuệ của FANCY TEXT APP. FANCY TEXT APP sẽ truy cứu trách nhiệm pháp lý đối với người có hành vi xâm phạm.
+(iv) Người dùng không được sửa đổi, điều chỉnh, dịch các phần mềm, công nghệ, tài liệu và các Tài Sản Trí Tuệ cũng như các tài sản khác mà FANCY TEXT APP sử dụng, hoặc sáng tác ra các tác phẩm phái sinh từ tác phẩm liên quan. Người dùng không được lấy nguồn của tác phẩm thông qua việc đảo ngược tác phẩm, dịch ngược, biên soạn ngược lại hoặc những hành vi tương tự, nếu không sẽ phải chịu hoàn toàn trách nhiệm trước pháp luật. FANCY TEXT APP sẽ căn cứ vào các quy định pháp luật để truy cứu trách nhiệm pháp lý của bên vi phạm.
+(v)
+Người dùng không được phép sửa đổi, sao chép, phát tán các phần mềm, công nghệ, tài liệu, Tài Sản Trí Tuệ và các tài sản khác của FANCY TEXT APP để dùng vào mục đích thương mại hoặc bất hợp pháp. Nếu không, người dùng sẽ phải tự chịu trách nhiệm đối với những tổn hại do hành vi đó gây ra cho người khác, hoặc chịu trách nhiệm pháp lý nếu gây tổn hại đến hình ảnh, uy tín, thương hiệu của FANCY TEXT APP và/hoặc gây ra thiệt hại cho FANCY TEXT APP.
+(vi) Người dùng không được tự ý xóa, che phủ hoặc sửa đổi tuyên bố bản quyền, nhãn hiệu hoặc tuyên bố quyền lợi khác của FANCY TEXT APP. Tất cả các hình ảnh thiết kế cũng như các hình ảnh, sản phẩm và tên gọi dịch vụ khác của FANCY TEXT APP đều là nhãn hiệu, logo thuộc quyền sở hữu của FANCY TEXT APP và/hoặc Chúng tôi liên quan. Không ai được sử dụng, sao chép hoặc dùng vào mục đích khác.
+(vii)FANCY TEXT APP không chịu bất kỳ trách nhiệm và nghĩa vụ nào có liên quan đến, hoặc phát sinh từ Nội dung Đệ trình và các nội dung, bao gồm nhưng không giới hạn ở các tài liệu, dự thảo, bản vẽ, tập tin hình ảnh (cho dù là hình ảnh tĩnh hay hình ảnh động, và cho dù chỉ có hình ảnh trong đó hoặc có thêm nội dung chữ hoặc ký tự đi cùng), tập tin âm thanh, đoạn video, clip, tuyên bố, bảo đảm, xác nhận và bất kỳ nội dung hay thông tin khác do Người dùng đăng tải, truyền đưa trong quá trình Người dùng sử dụng Dịch vụ (sau đây gọi là “ Nội
+Dung Của Người Dùng ”). Người dùng sẽ giữ cho FANCY TEXT APP không bị liên quan và không liên đới đến bất kỳ khiếu nại, khiếu kiện, tố cáo, tranh chấp, mâu thuẫn, cũng như bất kỳ các vụ kiện tại Tòa án hoặc đơn vị hòa giải, trọng tài hoặc tại cơ quan Nhà nước có thẩm quyền có liên quan đến Nội Dung Của Người Dùng. Người dùng ngoài ra còn đồng ý rằng mình sẽ bồi hoàn cho FANCY TEXT APP bất kỳ phí tổn, chi phí, thiệt hại dưới mọi hình thức mà FANCY TEXT APP phải gánh chịu từ Nội Dung Của Người Dùng.
+QUYỀN SỞ HỮU TRÍ TUỆ CỦA FANCY TEXT APP VỚI NỘI DUNG CỦA NGƯỜI DÙNG, VÀ XÁC NHẬN CỦA NGƯỜI DÙNG
+VỚI NỘI
+DUNG CỦA NGƯỜI DÙNG
+(i)
+Người dùng đồng ý, trên cơ sở miễn phí và không hủy ngang, trao cho FANCY TEXT APP quyền được sử dụng các Nội Dung Của Người Dùng. Theo đó, FANCY TEXT APP có quyền sử dụng, sửa đổi, phát hành, đăng tải, công bố các Nội Dung Của Người Dùng trên cơ sở không gây ra thiệt hại về uy tín hay danh dự cho Người dùng.
+(ii)
+Người dùng xác nhận và đồng ý rằng, Người dùng chịu trách nhiệm duy nhất và toàn bộ cho: (1) tính chính xác, hợp pháp, hợp lệ, đầy đủ của Nội Dung Của Người Dùng, và (2) về việc mình có quyền đăng tải, truyền đưa, công bố, phát tán, phát hành Nội Dung Của Người Dùng.  Tất cả các nội dung mà Người dùng đưa lên dù là công khai hay giới hạn/hạn chế hay gửi riêng hoàn toàn thuộc trách nhiệm cá nhân của Người dùng. FANCY TEXT APP không kiểm soát nội dung đó vì thế FANCY TEXT APP không có trách nhiệm đảm bảo tính hợp pháp, tính nguyên vẹn và chất lượng của nội dung mà Người dùng đưa lên.
+(iii) Khi FANCY TEXT APP phát hiện hoặc được thông báo hợp lệ rằng Nội Dung Của Người Dùng xâm phạm quyền sở hữu trí tuệ của bên khác hoặc có phát sinh trách nhiệm của Người dùng, chúng tôi có quyền ngay lập tức gỡ bỏ nội dung đó trên Dịch vụ mà không cần thông báo cũng như chịu bất cứ trách nhiệm nào về việc gỡ bỏ này. Người dùng vi phạm có thể bị tạm khóa hoặc xóa vĩnh viễn tài khoản sử dụng Dịch vụ.
+GIẢI QUYẾT KHIẾU NẠI VI PHẠM SỞ HỮU TRÍ TUỆ
+Khi Người dùng nhận thấy bất kỳ Nội dung Đệ trình và bất kỳ nội Dung Của Người Dùng nào vi phạm sở hữu trí tuệ của mình hoặc của bên thứ ba khác (“ Nội
+Dung Vi Phạm IP ”), Người dùng đó (“ Người Khiếu Nại ”) có thể khiếu nại vi phạm quyền sở hữu trí tuệ của nội dung đó theo trình tự sau đây:
+Bước 1 : Người dùng điền đẩy đủ thông tin vào biểu mẫu
+Báo cáo vi phạm bản quyền , hoặc gửi thông tin theo mẫu dưới đây vào hòm thư
+support@1timetech.com :
+--
+Khiếu nại vi phạm sở hữu trí tuệ
+- Tài khoản thực hiện khiếu nại: […]
+- Tên người khiếu nại: […]
+- Bạn đang làm việc cho doanh nghiệp nào? […]
+- Vị trí của bạn tại doanh nghiệp là gì? […]
+- Nội dung vi phạm sở hữu trí tuệ: […]
+- Tài khoản đăng tải nội dung vi phạm sở hữu trí tuệ: […]
+- Lý do vi phạm sở hữu trí tuệ: [Ví dụ: Vi phạm bản quyền tác giả tác phẩm, vi phạm bản quyền các quyền liên quan đến tác phẩm,…]
+- Tên gốc của nội dung báo cáo vi phạm: […]
+- Tên các nhân vật chính trong nội dung gốc. Vui lòng viết tên nhân vật bằng ngôn ngữ ở nội dung gốc. (VD: truyện Trung thì viết tên nhân vật bằng tiếng Trung)
+- Tài liệu đi kèm chứng minh: Tài liệu đi kèm cần thể hiện được Nội Dung Vi Phạm IP đã vi phạm vào quyền sở hữu trí tuệ hợp pháp của Người Khiếu Nại, hoặc của bên thứ ba mà mình biết bên thứ ba đó mới là bên sở hữu hơp pháp bản quyền với Nội Dung Vi Phạm IP, cụ thể bao gồm:
+(1) Tài liệu thể hiện việc Nội Dung Vi Phạm là thuộc quyền sở hữu của Người Khiếu Nại, hoặc của bên thứ ba khác, hoặc
+(2) Tài liệu thể hiện việc Người Vi Phạm nhận được sự trao quyền hợp pháp từ bên sở hữu trí tuệ hợp pháp với Nội Dung Vi Phạm
+(3) Tài liệu thể hiện việc Nội Dung Vi Phạm là thuộc quyền sở hữu hợp pháp của bên thứ ba khác, trong trường hợp liệt kê tại điểm (2) nêu trên.
+(4) Tài liệu thể hiện việc bên thứ ba sở hữu quyền sở hữu trí tuệ với Nội Dung Vi Phạm trao quyền, hoặc ủy quyền, hoặc chỉ định cho Người Thứ Ba thực hiện khiếu nại vi phạm.
+Bước
+2 : FANCY TEXT APP tiếp nhận thông báo về vi phạm quyền sở hữu trí tuệ và đánh giá sự việc.
+Bước 3 : FANCY TEXT APP sẽ thực hiện các công việc sau đây:
+(1) Trong trường hợp thông báo vi phạm quyền sở hữu trí tuệ bởi Người Khiếu Nại còn thiếu nội dung, chưa rõ ràng hoặc chưa có đủ tài liệu kèm theo, FANCY TEXT APP sẽ đề nghị Người Khiếu Nại chỉnh sửa, bổ sung.
+(2) Trong trường hợp thông báo vi phạm quyền sở hữu trí tuệ rõ ràng, các tài liệu kèm theo thể hiện đầy đủ thông tin, FANCY TEXT APP sẽ gửi thông báo cho bên vi phạm về khiếu nại giải quyết vi phạm sở hữu trí tuệ của Người Khiếu Nại.
+Bước 4 : FANCY TEXT APP sẽ thực hiện các công việc sau đây
+(1) Gỡ Nội Dung Vi Phạm nếu bên vi phạm không giải trình hoặc chứng minh được cơ sở và căn cứ cho việc bên vi phạm sử dụng, đăng tải Nội Dung Vi Phạm.
+(2) Nếu Người Khiếu Nại và bên vi phạm không thể giải quyết được vi phạm sở hữu trí tuệ từ ba mươi (30) ngày trở lên, FANCY TEXT APP sẽ gỡ Nội Dung Vi Phạm.
+HẠN CHẾ
+Người dùng sẽ không được tham gia vào, hoặc thực hiện trực tiếp hoặc gián tiếp những nội dung quy định dưới đây khi sử dụng Dịch vụ, Nội dung, cũng như đăng tải, thông tin, truyền bá thông tin dưới mọi hình thức (dù là dưới dạng bài đăng của tài khoản hay thông qua quá trình bình luận, trao đổi, trò chuyện với các tài khoản khác:
+Hoạt động vi phạm pháp luật, các tuyên án, các nghị quyết, các lệnh hoặc các biện pháp hành chính ràng buộc hợp pháp của Việt Nam.
+Các hoạt động có thể cản trở, vi phạm, đi ngược lại trật tự công cộng hoặc thuần phong mỹ tục của Việt Nam.
+Các hoạt động vi phạm quyền sở hữu trí tuệ, chẳng hạn như bản quyền, thương hiệu và bằng sáng chế, danh tiếng, bảo mật, và tất cả các quyền khác Chúng tôi và/hoặc một bên thứ ba nào đó được cấp bởi pháp luật hoặc hợp đồng.
+Hoạt động đăng hoặc truyền tải các biểu hiện tình dục hoặc bạo lực; những biểu hiện dẫn đến phân biệt đối xử, hoặc kỳ thị bởi chủng tộc, nguồn gốc quốc gia, tín ngưỡng, giới tính, tình trạng xã hội, nguồn gốc gia đình,vv...; những biểu hiện tạo ra hoặc khuyến khích hành vi tự sát, tự chấn thương hoặc lạm dụng ma túy; hoặc những biểu hiện chống đối xã hội bao gồm nội dung chống đối và làm phiền của những người khác.
+Các hoạt động dẫn đến việc hiểu sai lệch về Chúng tôi và/hoặc bên thứ ba hoặc cố ý lan truyền thông tin sai lệch.
+Các hoạt động như gửi thư/tin nhắn/thông báo tùy tiện cho nhiều Người dùng (ngoại trừ những người đã được phê duyệt bởi Chúng tôi), hoặc bất cứ hoạt động nào khác mà Chúng tôi cho là để gửi thư rác.
+Các hoạt động trao đổi quyền sử dụng Nội dung, Nội dung đệ trình, hoặc bất kỳ một phần Nội dung, hoặc Dịch vụ mà người dùng sử dụng, hoặc có được từ việc cung cấp Dịch vụ bởi Chúng tôi cho người dùng đó. vào tiền mặt, tài sản hoặc lợi ích kinh tế khác mà không có sự cho phép của Chúng tôi.
+Các hoạt động sử dụng dịch vụ cho doanh số bán hàng, tiếp thị, quảng cáo, hoặc các mục đích thương mại hoặc mục đích vì lợi nhuận, hoặc vì quyền lợi khác (ngoại trừ những người đã được phê duyệt bởi Chúng tôi); sử dụng Dịch vụ cho các mục đích hành vi tình dục hoặc khiêu dâm; sử dụng Dịch vụ để một người với mục đích quan hệ tình dục hoặc bôi nhọ Người dùng khác hoặc sử dụng Dịch vụ cho những mục đích xâm phạm danh dự khác hoặc những cuộc tấn công chống lại những người dùng khác; hoặc sử dụng các dịch vụ cho các mục đích khác với mục đích thực sự của Dịch vụ, hoặc sử dụng cho các mục đích khác trái với pháp luật Việt Nam, hoặc pháp luật nơi người dùng đó cư trú
+Các hoạt động có lợi hoặc cộng tác với các tổ chức, cá nhân, nhóm có hoạt động, hoặc có biểu hiện hoạt động vi phạm pháp luật của Việt Nam, chống đối xã hội, các chính sách của Đảng Cộng sản Việt Nam, của Nhà nước Việt Nam,…
+Các hoạt động có liên quan đến các hoạt động tôn giáo hoặc lời mời đến các nhóm tôn giáo.
+Các hoạt động bất hợp pháp hoặc không đúng dẫn đến sự thu thập, tiết lộ hoặc cung cấp những thông tin cá nhân lịch sử người dùng hoặc những thông tin tương tự của người khác.
+Người dùng đồng ý và công nhận rằng người dùng sẽ không tham gia bất kỳ hoạt động hay thực hiện bất kỳ hành vi nào có thể hoặc đe dọa làm gián đoạn hoặc tạm ngừng việc duy trì, cung cấp Dịch vụ của Chúng tôi hoặc các dịch vụ và mạng lưới liên kết với các Dịch vụ của Chúng tôi. Người dùng không thực hiện bất kỳ hoạt động nào, bao gồm nhưng không giới hạn tới các hoạt động ảnh hưởng đến máy chủ hoặc các hệ thống mạng của Dịch vụ; lạm dụng Dịch vụ bằng các phương tiện của BOTs, các công cụ gian lận hoặc các biện pháp kỹ thuật khác; cố ý sử dụng lỗi của Dịch vụ; tiếp cận với Dịch vụ thông qua các thiết bị truyền mà sự thay đổi đã được thực hiện, hoặc trên các thiết bị truyền có sự can thiệp, sửa đổi phần cứng hoặc phần mềm (ví dụ, hack hoặc jailbreak) , hoặc tương tự đã tạo ra nhưng đòi hỏi, yêu cầu bất hợp lý như nhiều lần hỏi cùng một câu hỏi không cần thiết, và can thiệp tới hoạt động của Chúng tôi hoặc can thiệp tới việc sử dụng Dịch vụ của Người dùng, hoặc tiếp cạn, hoặc sử dụng Dịch vụ bằng các tài khoản đã được tạo lập trên các thiết bị bị đánh cắp, đánh mất mà tài khoản đó không phải do người dùng như vậy lập ra.
+Không tiếp cận, hoặc sử dụng Dịch vụ bằng/thông qua tài khoản của người khác nếu không được người đó cho phép và được Chúng tôi chấp thuận.
+Các hoạt động hỗ trợ hoặc khuyến khích bất kỳ hoạt động nào được nêu trong các Điều khoản của mục này.
+Các hoạt động khác được Chúng tôi xem xét là không phù hợp.
+HÀNH VI VI PHẠM VÀ BIỆN PHÁP XỬ LÝ
+Bên cạnh việc tuân thủ các Điều khoản và Điều kiện, Bạn sẽ không thực hiện bất kỳ hành vi nào, bao gồm nhưng không giới hạn được liệt kê sau đây:
+Lợi dụng việc sử dụng Dịch vụ để:
+- Chống lại Nhà nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự an toàn xã hội; phá hoại khối đại đoàn kết dân tộc; tuyên truyền chiến tranh, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo.
+- Tuyên truyền, kích động bạo lực, dâm ô, đồi trụy, tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong, mỹ tục của dân tộc.
+- Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những bí mật khác do pháp Luật quy định.
+- Đưa thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân; - Quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ trong Dịch vụ, đặc biệt là hàng hóa, dịch vụ bị cấm; truyền bá tác phẩm báo chí, văn học, nghệ thuật, xuất bản phẩm bị cấm.
+- Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật xâm hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+Thực hiện các hành vi xâm phạm quyền sở hữu trí tuệ của FANCY TEXT APP và Nhà phát triển Dịch vụ (hoặc đơn vị giữ bản quyền đối với Dịch vụ, hoặc đơn vị trao quyền phát hành Dịch vụ cho FANCY TEXT APP), bao gồm nhưng không giới hạn tới các hành vi dưới đây:
+- Xóa các thông tin liên quan đến bản quyền, quyền sở hữu trí tuệ trên Sản Phẩm;
+- Chỉnh sửa, đảo ngược mã, biên tập lại mã của Sản Phẩm hoặc dùng các cách thức khác để phát hiện mã nguồn gốc của Sản Phẩm;
+- Rà soát (scan), kiểm tra, kiểm thử để phát hiện hay tìm kiếm lỗi (bug) hoặc điểm yếu tồn tại của Sản Phẩm cho mục đích bất chính;
+- Tiến hành sao chép, chỉnh sửa, thêm, bớt, thay đổi tính năng hoặc hiệu quả vận hành của Sản Phẩm đối với dữ liệu sinh ra và lưu trữ tại bất kỳ điểm nào trong quá trình vận hành Sản Phẩm hoặc dữ liệu tương tác của máy chủ (server) và máy trạm (client) trong quá trình vận hành Sản Phẩm và dữ liệu hệ thống cần thiết để vận hành Sản Phẩm, bao gồm nhưng không giới hạn ở plug-in, auto hoặc hệ thống liên quan khác kết nối với các công cụ của bên thứ ba khi chưa được FANCY TEXT APP cho phép, đồng ý trước bằng văn bản;
+- Sử dụng, cho thuê, cho mượn, sao chép, chỉnh sửa, liên kết, chuyển tải, biên tập, xuất bản hay tạo các website, microsite … đối với các nội dung sở hữu trí tuệ mà FANCY TEXT APP sở hữu hoặc được độc quyền sử dụng, phân phối, phát hành;
+- Tạo các website, microsite liên quan đến Sản Phẩm hoặc tương tự hoặc hoàn toàn giống với Sản Phẩm.  c. Liên quan đến vận hành, sử dụng Dịch vụ:
+- Sử dụng trái phép tài khoản, mật khẩu của người chơi khác.
+- Thực hiện việc mua bán, trao đổi Tài khoản.
+- Bằng cách này hay cách khác để gian lận, không tuân thủ Điều khoạn và Điều kiện nhằm thu lợi bất chính.
+- Bàn luận hoặc thể hiện quan điểm chính trị, tôn giáo, sắc tộc trong Dịch vụ.
+- Nói tục, chửi bậy và/hoặc có hành vi, lời nói xúc phạm đến danh dự, uy tín, nhân phẩm của bất kỳ tổ chức, cá nhân nào bất kể là trong Dịch vụ hay ngoài Dịch vụ.
+- Thực hiện các hành vi dụ dỗ, lôi kéo, hứa hẹn với người chơi khác nhằm mục đích lừa đảo hoặc mục đích bất chính khác.
+- Mạo nhận hay cố ý làm người khác lầm tưởng Bạn là một Người dùng khác và/hoặc người khác không phải là Bạn trong quá trình sử dụng Dịch vụ.
+- Mạo nhận hay cố ý làm cho người khác lầm tưởng Bạn là nhân viên, người lao động hay cộng tác viên của FANCY TEXT APP hoặc của bên thứ ba có liên quan đến FANCY TEXT APP.
+- Có bất kỳ hành vi, lời nói, cử chỉ hay thái độ làm tổn hại đến uy tín, thương hiệu của Dịch vụ và/hoặc FANCY TEXT APP hoặc của bên thứ ba có liên quan đến FANCY TEXT APP.
+- Thực hiện các hành vi gây rối, gây mất an ninh trật tự tại trụ sở hay bất kỳ chi nhánh, văn phòng đại diện, địa điểm kinh doanh nào FANCY TEXT APP và/hoặc các đơn vị liên kết, hoặc có liên quan với FANCY TEXT APP. - Có bất kỳ lời nói, cử chỉ hay hành động nào xâm phạm đến thân thể, uy tín, danh dự, nhân phẩm hay đe dọa nhân viên, người lao động (bất kể là nhân viên thời vụ, cộng tác viên hay nhân viên chính thức) của FANCY TEXT APP, hoặc của bên thứ ba có liên quan đến FANCY TEXT APP.
+- Các hành vi khác (i) vi phạm pháp luật; (ii) trái với thuần phong mỹ tục của người Việt Nam; (iii) trái với quy tắc hành xử thông thường của cộng đồng người sử dụng Dịch vụ điện tử trên mạng và/hoặc của ngành giải trí trực tuyến.
+Đối với các hành vi vi phạm Điều khoản và Điều kiện, FANCY TEXT APP có quyền tự mình và/hoặc thông qua hệ thống, tính năng của Dịch vụ để xử lý các hành vi vi phạm; tùy theo mức độ, các hành vi vi phạm có thể bị xử lý theo một hoặc một vài hình thức sau:
+Nhắc nhở: Áp dụng đối với các hành vi vi phạm lần đầu và gây ít ảnh hưởng đến Dịch vụ và/hoặc người chơi khác.
+b .Cảnh cáo: Áp dụng đối với các hành vi vi phạm đã bị nhắc nhở nhưng không khắc phục và/hoặc tái phạm HOẶC vi phạm quy định tại các tiểu mục (vi), (vii), (viii), (ix), (x), (xi) điểm (c), Khoản 11.1 Điều 11 của Điều Khoản Sử Dụng này.
+Khấu trừ và/hoặc xóa đơn vị ảo, vật phẩm ảo (nếu có) trong Dịch vụ: Áp dụng đối với các hành vi đã bị Cảnh cáo mà không khắc phục và/hoặc tái phạm VÀ/HOẶC vi phạm quy định tại các tiểu mục (iii), (iv), (v) điểm (c), Khoản 11.1 Điều 11 của Điều Khoản Sử Dụng này.
+Khóa tài khoản có thời hạn (thời hạn cụ thể sẽ tùy thuộc vào hành vi, mức độ vi phạm): Áp dụng đối với các hành vi đã bị Cảnh cáo VÀ/HOẶC đã bị xử lý theo quy định tại điểm (c) khoản 11.2 Điều này mà không khắc phục và/hoặc tái phạm HOẶC vi phạm quy định tại các tiểu mục (xii), (xiii) điểm (c) khoản 11.1 Điều 11 của Điều Khoản Sử Dụng này.
+Khóa tài khoản vĩnh viễn: Áp dụng đối với các hành vi đã bị xử lý theo quy định tại điểm (d) khoản 11.2 Điều này mà không khắc phục và/hoặc tái phạm HOẶC vi phạm quy định tại các điểm (a), (b), tiểu mục (i), (ii), (xiv) điểm (c), khoản 11.1 Điều 11 của Điều Khoản Sử Dụng này.
+Thực hiện các biện pháp pháp lý phù hợp để bảo vệ quyền và lợi ích hợp pháp của FANCY TEXT APP.
+Chuyển hồ sơ đến Cơ quan Nhà nước có thẩm quyền để xử lý vi phạm hay khởi tố hình sự: Áp dụng cho tất cả các hành vi vi phạm khi có dấu hiệu hình sự.
+Mặc dù đã có quy định cụ thể ở trên, trong một số trường hợp đặc biệt, FANCY TEXT APP có quyền áp dụng bổ sung hoặc áp dụng đồng thời các biện pháp xử lý nhằm mục đích răn đe và/hoặc đảm bảo môi trường Dịch vụ lành mạnh, công bằng.
+Trường hợp FANCY TEXT APP phát hiện hoặc nhận thấy, và/hoặc được nhận khiếu nại, tố cáo liên quan đến việc vi phạm Điều khoản và Điều kiện của Bạn và/hoặc tài khoản trong Dịch vụ của Bạn thì tùy theo hành vi và mức độ vi phạm mà FANCY TEXT APP có toàn quyền xử lý theo Điều khoản và Điều kiện; đồng thời, FANCY TEXT APP có quyền (nhưng không có nghĩa vụ) công bố tên tài khoản của Bạn, hình thức xử lý lên trang thông tin điện tử sử dụng cho việc cung cấp Dịch vụ, thông báo bên trong Dịch vụ cho những người chơi khác và/hoặc các kênh thông tin khác mà FANCY TEXT APP có thể tiếp cận, thông tin đến những người chơi khác của Dịch vụ.
+TRÁCH NHIỆM CỦA NGƯỜI DÙNG
+Thực hiện nghiêm ngặt, đúng và đầy đủ các nội dung điều chỉnh bởi pháp luật có liên quan, của Điều khoản và Điều kiện này.
+Người dùng phải sử dụng dịch vụ này và chấp nhận rủi ro của riêng mình, phải chịu tất cả trách nhiệm cho các hành động mà họ thực hiện cũng như kết quả tại Dịch vụ. Chúng tôi sẽ không có trách nhiệm với việc mất các dữ liệu cá nhân (Tài khoản, Mật khẩu, thông tin thanh toán ,..) nếu người dùng chia sẻ thông tin của họ trên mạng cộng đồng hoặc với những người dùng khác hoặc với các tổ chức, cá nhân khác.
+Chúng tôi có thể áp dụng một hoặc đồng thời nhiều biện pháp sau đây mà không cần thông báo trước cho Người dùng, nếu Chúng tôi nhận thấy người dùng đang sử dụng Dịch vụ theo cách vi phạm các Điều khoản và Điều kiện. Tuy nhiên, Chúng tôi sẽ không chịu trách nhiệm sửa chữa hoặc ngăn chặn vi phạm đó của Người dùng hoặc những người khác.
+- Thu hồi hoặc xoá toàn bộ hoặc một phần của Nội dung Đệ trình hoặc Nội Dung Của Người Dùng. - Đình chỉ hoặc thu hồi quyền của Người dùng trong việc sử dụng Nội dung, cho dù là Nội dung Đệ trình hay Nội Dung Của Người Dùng.
+- Tạm dừng hoặc xoá các tài khoản.
+- Đình chỉ sử dụng toàn bộ hoặc một phần của Dịch vụ cung cấp tới Người dùng.
+- Bất kỳ biện pháp khác mà Chúng tôi xem xét thấy cần thiết và thích đáng
+Trong trường hợp mà Chúng tôi đã bị mất/thiệt hại hoặc phải trả một chi phí (bao gồm nhưng không giới hạn phí luật sư) trực tiếp hoặc gián tiếp (bao gồm nhưng không giới hạn đối với trường hợp mà Chúng tôi đã bị một bên thứ ba kiện về việc gây ra tổn thất, thiệt hại) do Người dùng vi phạm pháp luật hiện hành hoặc các Điều khoản và Điều kiện trong khi sử dụng Dịch vụ, Người dùng đó ngay lập tức phải bồi hoàn cho Chúng tôi mọi thiệt hại, chi phí theo yêu cầu của Chúng tôi.
+Bất cứ khi nào có một vấn đề về lỗi phát sinh của, hoặc có liên quan đến Dịch vụ, người dùng nên báo các lỗi đó với Chúng tôi ngay lập tức, Chúng tôi sẽ có quy định cụ thể về thời hạn để người dùng báo lỗi, nếu quá thời hạn này mà lỗi không được báo, Chúng tôi không cam kết có thể tìm ra và khắc phục được lỗi cho người dùng.Chúng tôi có quyền thực hiện bất cứ hành động nào để sửa chữa các lỗi đó trong khả năng hợp lý nhất có thể. Việc sử dụng những lỗi hoặc các hành vi hack/gian lận sẽ khiến người dùng bị cảnh báo hoặc bị cấm.
+Người dùng phải đồng ý với bên thứ ba của Chúng tôi về những Điều khoản dịch vụ và chính sách bảo mật của bên cung cấp Dịch vụ.
+Người dùng đồng ý rằng người dùng sẽ không tham gia bất kỳ hoạt động hay thực hiện bất kỳ hành vi nào có thể hoặc đe dọa làm gián đoạn hoặc tạm ngừng Dịch vụ.
+Người dùng chỉ được phép khởi tạo, đặt tên tài khoản, mật khẩu, tên nhật vật, cũng như truyền tải, đăng tải, truyền đưa Nội dung Đệ trình và Nội Dung Của Người Dùng phù hợp với pháp luật hiện hành, với thuần phong mỹ tục, phù hợp với với quy định tại Điều khoản và Điều kiện này.
+CHẤM DỨT TÀI KHOẢN VÀ DỊCH VỤ
+Chúng tôi có thể hạn chế, đình chỉ, chấm dứt, sửa đổi, hoặc xóa tài khoản hoặc quyền truy cập vào dịch vụ, trang web hoặc Dịch vụ, nội dung khác cung cấp bởi chúng tôi nếu chúng tôi nghi ngờ bạn đang không tuân thủ bất kỳ nội dung nào của Điều khoản và Điều kiện hoặc sử dụng Dịch vụ không đúng cách và không hợp pháp mà có hoặc không thông báo cho bạn. Bạn có thể mất tên người dùng và các dữ liệu cá nhân việc bị hủy bỏ hoặc giới hạn tài khoản, cũng như bất kỳ phúc lợi, đặc quyền, các hạng mục thu được từ việc sử dụng Dịch vụ và chúng tôi không có nghĩa vụ đền bù cho bạn bất kỳ những thiệt hại đó.
+Chúng tôi có quyền chấm dứt bất kỳ tài khoản nào không hoạt động từ 180 ngày trở lên. Không hoạt động ở đây được hiểu là tài khoản đó không được đăng nhập bởi chủ sở hữu tài khoản. Mọi quyền có liên quan có từ và/hoặc liên quan đến tài khoản đó sẽ được chấm dứt cùng với việc chấm dứt tài khoản.
+Phù hợp theo quy định của pháp luật hiện hành, Chúng tôi có quyền ngừng cung cấp và/hoặc hỗ trợ Dịch vụ hoặc một Dịch vụ cụ thể hoặc một phần của Dịch vụ tại bất kỳ thời điểm nào, tại thời điểm đó giấy phép sử dụng Dịch vụ hoặc một phần sẽ được tự động chấm dứt. Trong trường hợp đó, FANCY TEXT APP sẽ không bị yêu cầu cung cấp hoàn lại tiền, lợi ích hoặc các bồi thường khác cho Người dùng trong việc ngưng dịch vụ. Việc chấm dứt tài khoản của bạn có thể bao gồm vô hiệu hóa truy cập của bạn trong Dịch vụ hoặc bất kỳ phần nào đó bao gồm bất kỳ nội dung bạn đã gửi hoặc những người khác đã gửi.
+CHÍNH SÁCH GIẢI QUYẾT KHIẾU NẠI
+Chúng tôi nhận thức được việc tiếp nhận và giải quyết thắc mắc, khiếu nại từ người sử dụng dịch vụ của Chúng tôi là khâu quan trọng trong việc cng cấp dịch vụ. Do vậy, Chúng tôi có bố trí các nguồn lực và nhân sự chu đáo và đầy đủ để thực hiện công việc này.
+Người sử dụng dịch vụ có thể khiếu nại theo các phương thức sau:
+- Khiếu nại trên trang web
+https://1timetech.com/
+Bộ phận chăm sóc khách hàng Chúng tôi sẽ thu thập các khiếu nại và giải quyết theo các quy định của Chúng tôi.
+- Khiếu nại trực tiếp trong Dịch vụ: Trong quá trình sử dụng dịch vụ, người dùng có thể gửi ý kiến, nội dung khiếu nại của mình trực tiếp cho đội ngũ vận hành Dịch vụ.
+- Khiếu nại bằng điện thoại, email, hoặc trực tiếp tại Chúng tôi: Người dùng có thể gọi điện trực tiếp tới tổng đài hỗ trợ của FANCY TEXT APP hiển thị dưới chân trang web, hoặc gửi email tới email hỗ trợ “hotro@FANCY TEXT APP.com” để yêu cầu giải quyết thắc mắc, khiếu nại với bộ phần Chăm sóc khách hàng của Chúng tôi. - Khi tố cáo, khiếu nại một tài khoản khác, Người dùng cần nêu rõ tên tài khoản bị tố cáo, khiếu nại và hành vi vi phạm của khoản đó. Để được bảo vệ quyền lợi, người dùng cần cung cấp đủ thông tin về tài khoản của mình theo yêu cầu và địa chỉ liên hệ cần thiết.
+Trong vòng 48 giờ (bốn mươi tám giờ) kể từ thời điểm tiếp nhận khiếu nại, bộ phận giải quyết khiếu nại của Chúng tôi sẽ gửi phản hồi đến người dùng về việc báo lỗi và/hoặc phản hồi về những khiếu nại của người dùng.
+Người dùng đồng ý rằng, phản hồi của FANCY TEXT APP về các khiếu nại, tố cáo của người dùng thông qua kênh chăm sóc khách hàng trực tuyến là quyết định cuối cùng và chính thức của Chúng tôi theo đúng quy định của pháp luật.
+TỪ CHỐI BẢO ĐẢM VÀ GIỚI HẠN TRÁCH NHIỆM
+Website và các Dịch vụ của chúng tôi được cung cấp dựa trên nguyên tắc không bảo hành, không bảo đảm trên cơ sở dịch vụ và tính năng sẵn có mà không có bất kỳ sự bảo đảm hay cam kết, hoặc cam đoan bằng bất kỳ hình thức nào dù được thể hiện hoặc ngụ ý như vậy. Chúng tôi không đảm bảo rằng các tính năng trên website hoặc Dịch vụ của chúng tôi sẽ hoàn toàn đáp ứng được các yêu cầu và/hoặc mong muốn của Người dùng. Chúng tôi cũng không đảm bảo rằng sự cung cấp, vận hành các Dịch vụ của chúng tôi sẽ không bị gián đoạn, hoặc bị lỗi, hoặc gặp phải sự cố khiến cho việc cung cấp, vận hành các Dịch vụ diễn ra không được bình thường.
+Chúng tôi không chịu trách nhiệm đối với bất kỳ sự mất mát dữ liệu, tổn thất lợi ích nào hoặc các vấn đề khác liên quan đến việc truy cập website và sử dụng Dịch vụ của chúng tôi, bao gồm nhưng không giới hạn đến tất cả các Nội dung, thông tin, dữ liệu, văn bản, phần mềm, âm nhạc, âm thanh, hình ảnh, đồ họa, video, thông điệp hoặc các nguyên liệu khác mà người dùng có thể lưu giữ, đưa lên, hoặc truyền tải thông qua Dịch vụ của chúng tôi, hoặc các thông tin về tài khoản, nhân vật, vật phẩm ảo (nếu có) và các thông tin khác hình thành nên trong quá trình sử dụng Dịch vụ bởi người dùng.
+Bạn đồng ý và hiểu rằng, mặc dù chúng tôi luôn nỗ lực để cung cấp Dịch vụ cũng như bảo đảm cho việc cung cấp Dịch vụ được diễn ra một cách ổn định nhất, nhưng rủi ro luôn có thể xảy ra do nhiều nguyên nhân khách quan và chủ quan, bao gồm nhưng không giới hạn tới sự kiện Bất khả kháng, sự cố kỹ thuật, lỗi đường truyền, tấn công từ bên ngoài, sự cố của nhà thầu/Đối tác cung cấp dịch vụ,.... Bạn đồng ý sử dụng Dịch vụ của chúng tôi với tất cả sự rủi ro (nếu có) và đồng ý sẽ không tiến hành bất kỳ hành động pháp lý, hoặc tuyên bố, yêu cầu nào để yêu cầu bồi thường thiệt hại cho bất kỳ thiệt hại nào (nếu có) từ việc bạn sử dụng Dịch vụ của chúng tôi.
+Trong mọi trường hợp, trách nhiệm bồi thường thiệt hại của Chúng tôi với Người dùng sẽ không vượt quá giá trị khoản tiền mà Người dùng đã thanh toán cho Chúng tôi.
+LUẬT ĐIỀU CHỈNH
+Điều khoản và Điều kiện được điều chỉnh và giải thích phù hợp với pháp luật Việt Nam. Nếu bất kỳ nội dung nào nào trong Điều khoản và Điều kiện bị xem như là bất hợp pháp, vô hiệu hoặc vì bất kỳ lý do nào không thể thực hiện được theo phán quyết hợp lý của Tòa án, hoặc cơ quan quản lý Nhà nước có thẩm quyền, thì nội dung đó sẽ được xem là tách rời khỏi Điều khoản và Điều kiện và không ảnh hưởng đến hiệu lực và tính thực thi của bất kỳ điều khoản còn lại nào của Điều khoản và Điều kiện.
+Trường hợp có sự mâu thuẫn giữa Điều khoản và Điều kiện này với các Thông báo chính thức của FANCY TEXT APP thì nội dung của Thông báo chính thức đó được ưu tiên áp dụng trước.
+Nếu bạn có bất kỳ câu hỏi nào về các điều khoản hoặc Dịch vụ của chúng tôi bạn có thể liên hệ với chúng tôi qua email: hotro@1timetech.com
+Các điều khoản này được cập nhật ngày 24 tháng 03 năm 2021.
+Bản quyền © 2020 FANCY TEXT APP. Tất cả các quyền đều đã được bảo lưu.
+Controlling your personal information
+You may choose to restrict the collection or use of your personal information in the following ways:
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that
+you do not want the information to be used by anybody for direct marketing purposes
+if you have previously agreed to us using your personal information for direct marketing purposes, you may
+change your mind at any time by writing to or emailing us at info@1timetech.com
+We will not sell, distribute or lease your personal information to third parties unless we have your permission
+or are required by law. We may use your personal information to send you promotional information about third
+parties which we think you may find interesting if you tell us that you wish this to happen.
+You may request details of personal information which we hold about you under the Norwegian Data Protection Act
+of 2018 and EU regulation 2016/679 (GDPR) as implemented therein. If you would like a copy of the information
+held on you please write to info@1timetech.com
+Cookies and tracking technologies
+In order to obtain information regarding the use of our web pages we and our analytics providers use
+technologies
+such as cookies, beacons, tags and scripts, to analyze trends, administer our site, track user movements and
+gather
+demographic information about user base as a whole. The processing of cookies is based on the commercial
+interest of
+adjusting our web pages for the benefit of users. We ensure your data protection by only using this information
+for
+statistical purposes. In this statistic it is not possible to identify you as an individual. We delete collected
+personal data on a daily basis.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually
+modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of
+the
+website.
+Your rights when we process personal data
+You have the right to obtain access to, correction and deletion of your personal data processed by us. You also
+have
+the right to obtain restriction of processing, direct objection to the processing and obtain the right to data
+portability. You can read more about the extent of your rights in the web pages of the Norwegian Data Protection
+Authority.
+To make use of / assert your rights you have to send an email to info@1timetech.com with your request in terms
+of
+your personal data. We will answer your request as soon as possible and, in all cases, no later than 30 days.
+We will ask you to confirm your identity or in addition state further information before we approve your request
+to
+usage of your rights. We are doing this to ensure that we grant access to your personal data to you and not
+someone
+else pretending to be you.
+You can always withdraw your consent to our processing of your personal data. The easiest manner to withdraw
+this is
+by sending an email to info@1timetech.com with the request of your withdrawal.

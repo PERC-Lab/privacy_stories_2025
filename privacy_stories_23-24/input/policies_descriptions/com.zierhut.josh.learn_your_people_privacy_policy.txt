@@ -1,0 +1,24 @@
+Privacy Policy for Learn Your People Mobile App
+Privacy Policy for Learn Your People Mobile App
+Effective Date: October 10th, 2023
+Summary
+I am not trying to get your data. All data that you provide to the app stays within the app and is not transmitted anywhere off your device. When you delete the app, all the data that you provided to the app is deleted with it.
+1. Introduction
+Welcome to Learn Your People, a mobile app developed by Joshua Zierhut ("I", "me", or "the developer"). I am committed to protecting your privacy and ensuring that your personal information remains confidential. This Privacy Policy is intended to provide you with clear and transparent information about how I handle your data when you use my mobile app.
+2. Data Collection
+Learn Your People does not collect any personal information or data from users. I do not gather, process, or store any data about your identity, location, or any other personal information. I do not use cookies or any other tracking technologies. Any data that you add to the app (such as images, names, or audio files) stays on your local device and is not collected by the developer in any way.
+3. Third-Party Services
+The app does use a third-party service which may collect personally identifiable information. Here is a link to the privacy policy of the third-party service provider used by the app:
+Google Play Services . If I ever add third-party services for analytics or crash reporting, I will update this privacy policy and the release notes to let you know of the change.
+4. Children's Privacy
+Since I do not collect any personal data, I also do not collect personal information from children under the age of 13. If you are a parent or guardian and believe that your child has somehow provided me with personal information, please contact me at
+joshuazierhutdev@gmail.com , and I will take steps to remove such information from my records.
+5. Your Rights
+Since I do not collect any personal data, there are no personal data rights to exercise. However, if you have any questions or concerns about your privacy or this Privacy Policy, you may contact me at
+joshuazierhutdev@gmail.com .
+6. Changes to the Privacy Policy
+The developer reserves the right to update this Privacy Policy as necessary to reflect changes in data handling practices or legal requirements. I will post any changes on this page, and the effective date will be updated accordingly. I recommend reviewing this Privacy Policy periodically to stay informed about how I protect your privacy.
+7. Contact Us
+If you have any questions, comments, or concerns about this Privacy Policy, please contact me at:
+joshuazierhutdev@gmail.com
+Thank you for choosing Learn Your People. I am committed to respecting your privacy and providing a secure, enjoyable, and educational experience in my mobile app.

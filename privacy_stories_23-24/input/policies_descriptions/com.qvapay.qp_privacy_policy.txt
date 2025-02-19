@@ -1,0 +1,74 @@
+Política de Privacidad de usuarios - QvaPay
+Acceder ahora
+Acceder ahora
+Política de privacidad
+Manejo de información, seguridad y protección de datos.
+Política de privacidad
+Política de Privacidad
+¿Cómo manejamos y mejoramos los datos que nos brindas?
+¿Qué hacemos con tu información?
+Este sitio web es operado por QvaPay. En todo el sitio, los términos “nosotros”, “nos” y “nuestro” se refieren a QvaPay. QvaPay ofrece este sitio web, incluyendo toda la información, herramientas y servicios disponibles para ti en este sitio, el usuario, está condicionado a la aceptación de todos los términos, condiciones, políticas y notificaciones aquí establecidos.
+Cuando compras algo de nuestra tienda o utilizas algún servicio de nuestra pasarela de pagos, como parte del proceso de compra venta, nosotros recolectamos la información personal que nos das tales como nombre, dirección y correo electrónico.
+Cuando navegas en nuestra tienda, también recibimos de manera automática la dirección de protocolo de internet de tu computadora (IP) con el fin de proporcionarnos información que nos ayuda a conocer acerca de su navegador y sistema operativo.
+Email marketing: Con tu permiso, podremos enviarte correos electrónicos acerca de nuestra tienda, nuevos productos o servicios y otras actualizaciones.
+SECCIÓN 2 - CONSENTIMIENTO
+¿Cómo obtienen mi consentimiento?
+Cuando nos provees tu información personal para completar una transacción, verificar tu saldo QvaPay, crear una órden, concertar un pago o hacer una devolución, implicamos que aceptas la recolección y uso por esa razón específica solamente.
+Si te pedimos tu información personal por una razón secundaria, como marketing, te pediremos directame tu expreso consentimiento, o te daremos la oportunidad de negarte.
+¿Cómo puedo anular mi consentimiento?
+Si luego de haber aceptado cambias de opinión, puedes anular tu consentimiento para que te contactemos, por la recolección, uso o divulgación de tu información, en cualquier momento, contactándonos a
+contacto@qvapay.com
+o escribiéndonos a: @QvaPay en Twitter.
+SECCIÓN 3 - DIVULGACIÓN
+Podemos divulgar tu información personal si se nos requiere por ley penal o si violas nuestros Términos de Servicio.
+SECCIÓN 4 - QVAPAY
+Tus datos se almacenan a través del almacenamiento de datos de QvaPay (AWS), bases de datos y la aplicación general de QvaPay. Tus datos se almacenan en un servidor seguro detrás de un firewall.
+Pagos:
+Si eliges una pasarela de pago directo para completar tu compra, entonces QvaPay almacena datos de tus operaciones y movimientos de saldo interno. Tus datos de transacción de compra se almacenan sólo en la medida en que sea necesario para completar la transacción de compra. Después de que se haya completado, puedes borrar la información de su transacción de compra.
+Todas las pasarelas de pago directo se adhieren a los estándares establecidos por PCI-DSS como lo indicado por el Consejo de Normas de Seguridad de PCI, que es un esfuerzo conjunto de marcas como Visa, MasterCard, American Express y Discover.
+Los requisitos del PCI-DSS ayudan a garantizar el manejo seguro de la información de tarjetas de crédito de las tiendas y sus proveedores de servicios.
+Para una visión más clara, es posible que también desees leer las Condiciones de servicio de QvaPay.
+SECCIÓN 5 - SERVICIOS DE TERCERAS PARTES
+En general, los proveedores de terceras partes utilizados por nosotros solo recopilarán, usarán y divulgarán tu información en la medida que sea necesaria para que les permita desempeñar los servicios que nos proveen.
+Sin embargo, algunos proveedores de servicios de terceros, tales como pasarelas de pago y otros procesadores de transacciones de pago, tienen sus propias poliíticas de privacidad con respecto a la información que estamos obligados a proporcionarles para las transacciones relacionadas con las compras.
+Para estos proveedores, te recomendamos que leas las políticas de privacidad para que puedas entender la manera en que tu información personal será manejada.
+En particular, recuerda que algunos proveedores pueden estar ubicados o contar con instalaciones que se encuentran en una jurisdicción diferente a ti o nosotros. Así que si deseas proceder con una transacción que involucra los servicios de un proveedor a terceros, tu información puede estar sujeta a las leyes de la jurisdicción (jurisdicciones) en que se encuentra el proveedor de servicios o sus instalaciones.
+A modo de ejemplo, si te encuentras en Canadá y tu transacción es procesada por una pasarela de pago con sede en Estados Unidos, entonces tu información personal utilizada para completar la transacción puede ser sujeto de divulgación en virtud de la legislación de Estados Unidos, incluyendo la Ley Patriota.
+Una vez que abandonas el sitio web de nuestra tienda o te rediriges a un sitio o aplicación de terceros, ya no estás siendo regulados por la presente Política de Privacidad o los Términos de Servicio de nuestra página web.
+Enlaces
+Cuando haces clic en enlaces de nuestra tienda, puede que seas redirigido fuera de nuestro sitio. No somos reponsables por las prácticas de privacidad de otros sitios y te recomendamos leer sus normas de privacidad.
+SECCIÓN 6 - SEGURIDAD
+Para proteger tu información personal, tomamos precauciones razonables y seguimos las mejores prácticas de la industria para asegurarnos de que no haya pérdida de manera inapropiada, mal uso, acceso, divulgación, alteración o destrucción de la misma.
+Si nos proporcionas la información de tu cuenta QvaPay, dicha información es encriptada mediante la tecnología Secure Socket Layer (SSL) y se almacena con un cifrado AES-256. Aunque ningún método de transmisión a través de Internet o de almacenamiento electrónico es 100% seguro, seguimos todos los requisitos de PCI-DSS e implementamos normas adicionales aceptadas por la industria.
+Aquí tienes una lista de cookies que utilizamos. Las enlistamos para que puedas elegir si quieres optar por quitarlas o no. _session_id, _cfid, unique token, sessional (referrer, landing page, etc).
+SECCIÓN 7 - EDAD DE CONSENTIMIENTO
+Al utilizar este sitio, declaras que tienes al menos la mayoría de edad en tu estado o provincia de residencia y que nos has dado tu consentimiento para permitir que cualquiera de tus dependientes menores use este sitio.
+SECCIÓN 8 - CAMBIOS A ESTA POLÍTICA DE PRIVACIDAD
+Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento, asi que por favor revísala frecuentemente. Cambios y aclaraciones entrarán en vigencia inmediatamente después de su publicación en el sitio web. Si hacemos cambios materiales a esta política, notificaremos aquí que ha sido actualizada, por lo que cual estás enterado de qué información recopilamos, cómo y bajo qué circunstancias, si las hubiere, la utilizamos y/o divulgamos.
+Si nuestra tienda es adquirida o fusionada con otra empresa, tu información puede ser transferida a los nuevos propietarios, para que podamos seguir vendiéndote productos.
+PREGUNTAS E INFORMACIÓN DE CONTACTO
+Si quieres: acceder, corregir, enmendar o borrar cualquier información personal que poseamos sobre ti, registrar una queja, o simplemente quieres más información contacta a nuestro Oficial de Cumplimiento de Privacidad
+contacto@qvapay.com
+o por twitter a @QvaPay
+QvaPay es la pasarela de pagos con criptomonedas y red P2P más asequible y fácil de usar.
+Podrás integrar tu negocio en solo varios clics y comenzar a comerciar a nivel mundial con tu criptomoneda preferida.
+Tu cuenta
+Acceder
+Registrarse
+Agregar fondos
+Retirar fondos
+Recarga móvil
+Tarjeta VISA de débito
+Sobre Nosotros
+Contacto
+Empleos
+FAQ
+Empresa
+Sobre Nosotros
+Historial de cambios
+Socios comerciales
+Blog
+Términos y Condiciones
+Política de privacidad
+© 2021-2023
+QvaPay . A PAPI DAO LLC Company. Todos los derechos reservados.

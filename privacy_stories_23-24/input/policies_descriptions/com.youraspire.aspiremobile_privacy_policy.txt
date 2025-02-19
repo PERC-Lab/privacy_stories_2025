@@ -1,0 +1,67 @@
+Aspire Privacy Statement
+Privacy Statement
+This Privacy Statement covers the information practices,
+including how Aspire (the "Company") collects, uses, shares and secures the
+personal information you provide, of Web sites that link to this Privacy
+Statement.
+Information collected
+When you request additional information, or register on
+Aspire's Web sites, the Company will ask you to provide basic contact
+information.
+When you purchase Aspire's applications or services (the
+"Services"), the Company will ask you to provide information necessary for
+billing.
+Use of the Services will require that you provide information about users
+of the Services.
+This information is limited to name, job title and contact
+information.
+Certain users will enter information regarding time worked and
+job location.
+For Google service users, upon your request, you may allow the Aspire
+application to access your Gmail account and enable emails to be generated in
+Aspire and sent via Gmail.
+Aspire only retains the authorization token and
+does not share this data with any third party.
+Aspire's use and transfer to any other app of information received from
+Google APIs will adhere to
+Google API Services User Data Policy,
+including
+the Limited Use requirements.
+Aspire uses common Internet technologies, such as cookies,
+to keep track of interactions with the Company's Web sites.
+Use of information
+Aspire uses information collected only to provide you with the
+Services you request. Collecting information related to the users of the Services is
+necessary to provide accurate and useful reporting to the managment of Aspire's customers.
+Aspire may use information collected to improve the
+Company's Web sites and Services. Any information used for this purpose will not identify
+specific customer information.
+Aspire may use information collected to provide you with
+additional information about the Company's Services, partners and events.
+Aspire does not share, sell, rent, or trade personally
+identifiable information with third parties for their promotional purposes. Aspire
+may share information collected with other companies that work on Aspire's
+behalf.
+Aspire uses various security measures to protect
+information.
+Customer Data
+Customers of Aspire may electronically submit data or
+information to the Company's Services ("Customer Data").
+Aspire will not review, share, distribute, or reference any
+such Customer Data except as provided in Aspire's Access and Services Agreement,
+or as may be required by law.
+Communication
+preferences
+Every marketing email from Aspire contains instructions on
+how to opt out of receiving further marketing emails from the Company. You may manage your receipt of marketing
+communications by clicking on the "unsubscribe" link located on the bottom of
+the Company's marketing emails.
+How to contact us
+If you have any
+questions regarding this Statement or if you need to request access to or
+update, change or remove personal information that we control, you can do so by
+contacting:
+Aspire Privacy
+390 S Woods Mill Rd
+Suite 200
+Chesterfield, MO 63017

@@ -1,0 +1,212 @@
+GitHub - chromoquark/CherokeeLanguage
+Skip to content
+Toggle navigation
+Sign up
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Resources
+Learning Pathways
+White papers, Ebooks, Webinars
+Customer Stories
+Partners
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+Search
+Clear
+Search syntax tips
+Provide feedback
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel
+Submit feedback
+Saved searches
+Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our
+documentation .
+Cancel
+Create saved search
+Sign in
+Sign up
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+Dismiss alert
+chromoquark
+/
+CherokeeLanguage
+Public
+Notifications
+Fork
+0
+Star
+0
+0
+stars
+0
+forks
+Activity
+Star
+Notifications
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Projects
+0
+Security
+Insights
+More
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+chromoquark/CherokeeLanguage
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+main
+Switch branches/tags
+Branches
+Tags
+View all branches
+View all tags
+Name already in use
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+Cancel
+Create
+1
+branch
+0
+tags
+Code
+Local
+Codespaces
+Clone
+HTTPS
+GitHub CLI
+Use Git or checkout with SVN using the web URL.
+Work fast with our official CLI.
+Learn more about the CLI .
+Download ZIP
+Sign In Required
+Please
+sign in
+to use Codespaces.
+Launching GitHub Desktop
+If nothing happens,
+download GitHub Desktop
+and try again.
+Launching GitHub Desktop
+If nothing happens,
+download GitHub Desktop
+and try again.
+Launching Xcode
+If nothing happens,
+download Xcode
+and try again.
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+Latest commit
+Git stats
+2
+commits
+Files
+Permalink
+Failed to load latest commit information.
+Type
+Name
+Latest commit message
+Commit time
+README.md
+View code
+README.md
+CherokeeLanguage
+This app does not collect any personal data. Ads may be displayed based on ad preferences through Google
+https://policies.google.com/privacy .
+About
+No description, website, or topics provided.
+Resources
+Readme
+Activity
+Stars
+0
+stars
+Watchers
+1
+watching
+Forks
+0
+forks
+Report repository
+Releases
+No releases published
+Packages
+0
+No packages published
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You can’t perform that action at this time.

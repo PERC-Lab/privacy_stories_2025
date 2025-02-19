@@ -1,9 +1,0 @@
-Wheels Watch Face | Privacy Policy
-Wheels Watch Face | Privacy Policy
-Permissions
-All the permissions that the application requests from you have a single purpose: to make it possible to run the application and all its functions.
-By installing the application, you implicitly accept the granting of these permissions.
-Personal Data
-The application does not collect or send personal data.
-Contact:
-wheels@adi007.eu
