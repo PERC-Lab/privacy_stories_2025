@@ -9,7 +9,7 @@ Different parts of this repository will require diffent technical capabilities.
 To prompt models for generation of privacy behaviors and stories one must first gather the appropriate API keys or access tokens for aisuite to use its model provides. 
 For model finetuning will require gpu access, our fine-tuning code (utils/local_llm) (trainllama.py) may be run in a google colab notebook at 15-30 minutes per training step.
 
-
+To run annotation prompt ```python run_prompts.py```
 # For Annotators: 
 
 Annotating/Annotator_{model}.xlsx contains our annotation schema for answering questions related to privacy stories. 
